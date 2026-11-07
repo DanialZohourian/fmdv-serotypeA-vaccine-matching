@@ -1,0 +1,414 @@
+﻿virus_name,virus_accession,serum_name,r1_as_published,r1_binary,lineage,sub_lineage,country,year_isolated,host_species,VNT_method,data_source,data_format,exclusion_reasons,notes
+A/PAK/9/2003,EU414535.1,A24 UV64,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/PAK/9/2003,EU414535.1,A/IRN/1996,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A IRN 96 UZ53; sequence_type=VP1
+A/PAK/9/2003,EU414535.1,A/MAY/1997,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A MAY 97 VJ62; sequence_type=VP1
+A/PAK/9/2003,EU414535.1,A/IRN/1987,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A IRN 87; sequence_type=VP1
+A/PAK/11/2003,,A24 UV64,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,
+A/PAK/11/2003,,A/IRN/1996,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A IRN 96 UZ53
+A/PAK/11/2003,,A/MAY/1997,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A MAY 97 VJ62
+A/PAK/11/2003,,A/IRN/1987,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A IRN 87
+A/PAK/11/2003,,A/5925,=0.51,1,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A 5925
+A/PAK/11/2003,,A/SAU/1995,=0.36,1,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A SAU 95
+A/PAK/11/2003,,A22/IRQ/24/64,=0.1,0,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A22 IRQ
+A/PAK/11/2003,,A/IRN/2001,=0.23,0,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A IRN 2001
+A/PAK/77/2003,,A24 UV64,=0.11,0,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,
+A/PAK/77/2003,,A/IRN/1996,=0.18,0,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A IRN 96 Bvs 1781
+A/PAK/77/2003,,A/MAY/1997,=0.13,0,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A MAY 97 VJ62; same 2D-VNT report gives more than one r1 for this serum strain; source labels: A MAY 97 VJ62, AMAY 97 Bvs 1779. Both rows kept"
+A/PAK/77/2003,,A/MAY/1997,=0.1,0,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: AMAY 97 Bvs 1779; same 2D-VNT report gives more than one r1 for this serum strain; source labels: A MAY 97 VJ62, AMAY 97 Bvs 1779. Both rows kept"
+A/PAK/77/2003,,A/IRN/1987,=0.22,0,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A IRN 87
+A/PAK/77/2003,,A/5925,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A 5925
+A/PAK/77/2003,,A/SAU/1995,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A SAU 95
+A/PAK/77/2003,,A22/IRQ/24/64,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A22 IRQ
+A/PAK/77/2003,,A/IRN/2001,,,,,Pakistan,2003,,2D-VNT,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A IRN 2001
+A/BHU/40/2003,,A/IRN/1996,=0.31,1,,,Bhutan,2003,,2D-VNT,WRLFMD-2003-00005-BHU-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 96 UZ
+A/BHU/40/2003,,A/5925,=0.55,1,,,Bhutan,2003,,2D-VNT,WRLFMD-2003-00005-BHU-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A5925
+A/BHU/40/2003,,A/SAU/1995,=0.4,1,,,Bhutan,2003,,2D-VNT,WRLFMD-2003-00005-BHU-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Sau 95
+A/BHU/40/2003,,A22/IRQ/24/64,=0.15,0,,,Bhutan,2003,,2D-VNT,WRLFMD-2003-00005-BHU-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A22 Irq
+A/BHU/40/2003,,A/IRN/2001,=0.25,0,,,Bhutan,2003,,2D-VNT,WRLFMD-2003-00005-BHU-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 2001
+A/IRN/32/2001,FJ755017.1,A/IRN/1996,,,,,Iran,2001,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/32/2001,FJ755017.1,A/IRN/1987,,,,,Iran,2001,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/6/2002,,A22/IRQ/24/64,>1.0,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_censored;no_vp1_or_p1_sequence,serum label in source: A22 Iraq
+A/IRN/6/2002,,A24 Cruzeiro,=0.05,0,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,no_vp1_or_p1_sequence,
+A/IRN/6/2002,,A/IRN/1996,=0.85,1,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 96
+A/IRN/6/2002,,A/MAY/1997,=0.1,0,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A May 97
+A/IRN/6/2002,,A/IRN/1987,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Irn 87
+A/IRN/6/2002,,A/5925,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A5925
+A/IRN/6/2002,,A/SAU/1995,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Sau 95
+A/IRN/6/2002,,A/IRN/2001,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Irn 2001
+A/IRN/5/2003,FJ755018.1,A24 Cruzeiro,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/SAU/1995,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/IRN/2001,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/7/2003,EU414528.1,A/IRN/1996,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/7/2003,EU414528.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/10/2003,EU414529.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/10/2003,EU414529.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/1996,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/SAU/1995,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/2001,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/7/2004,EU414530.1,A/IRN/2001,,,A/ASIA/Iran-05,,Iran,2004,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A24 Cruzeiro,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/MAY/1997,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A May 97; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/IRN/1987,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/5925,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A22/IRQ/24/64,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A24 Cruzeiro,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/IRN/1996,>1.0,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_censored,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/MAY/1997,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A May 97; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/5925,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/IRN/2001,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A22/IRQ/24/64,,,,,Iran,2005,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/IRN/1987,,,,,Iran,2005,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/5925,,,,,Iran,2005,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/SAU/1995,,,,,Iran,2005,,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/4/2005,FJ755024.1,A22/IRQ/24/64,>1.0,,A/ASIA/Iran-05,,Iran,2005,unknown,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_censored,serum label in source: A22 Iraq; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/5/2005,FJ755025.1,A/IRN/2001,,,A/ASIA/Iran-05,,Iran,2005,cattle,2D-VNT,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/32/2001,FJ755017.1,A/IRN/1996,,,,,Iran,2001,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/32/2001,FJ755017.1,A/IRN/1987,,,,,Iran,2001,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/6/2002,,A22/IRQ/24/64,>1.0,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_censored;no_vp1_or_p1_sequence,serum label in source: A22 Iraq
+A/IRN/6/2002,,A24 Cruzeiro,=0.05,0,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,no_vp1_or_p1_sequence,
+A/IRN/6/2002,,A/IRN/1996,=0.85,1,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 96
+A/IRN/6/2002,,A/MAY/1997,=0.1,0,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A May 97
+A/IRN/6/2002,,A/IRN/1987,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Irn 87
+A/IRN/6/2002,,A/5925,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A5925
+A/IRN/6/2002,,A/SAU/1995,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Sau 95
+A/IRN/6/2002,,A/IRN/2001,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Irn 2001
+A/IRN/5/2003,FJ755018.1,A24 Cruzeiro,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/SAU/1995,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/IRN/2001,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/7/2003,EU414528.1,A/IRN/1996,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/7/2003,EU414528.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/10/2003,EU414529.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/10/2003,EU414529.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/1996,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/SAU/1995,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/2001,,,,,Iran,2003,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/7/2004,EU414530.1,A/IRN/2001,,,A/ASIA/Iran-05,,Iran,2004,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A24 Cruzeiro,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/MAY/1997,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A May 97; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/IRN/1987,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/5925,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A22/IRQ/24/64,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A24 Cruzeiro,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/IRN/1996,>1.0,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_censored,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/MAY/1997,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A May 97; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/5925,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/IRN/2001,,,,,Iran,2004,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A22/IRQ/24/64,,,,,Iran,2005,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/IRN/1987,,,,,Iran,2005,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/5925,,,,,Iran,2005,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/SAU/1995,,,,,Iran,2005,,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/4/2005,FJ755024.1,A22/IRQ/24/64,>1.0,,A/ASIA/Iran-05,,Iran,2005,unknown,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_censored,serum label in source: A22 Iraq; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/5/2005,FJ755025.1,A/IRN/2001,,,A/ASIA/Iran-05,,Iran,2005,cattle,2D-VNT,WRLFMD-2003-00149to00164-IRN-VMR-S-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/32/2001,FJ755017.1,A/IRN/1996,,,,,Iran,2001,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/32/2001,FJ755017.1,A/IRN/1987,,,,,Iran,2001,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/6/2002,,A22/IRQ/24/64,>1.0,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_censored;no_vp1_or_p1_sequence,serum label in source: A22 Iraq
+A/IRN/6/2002,,A24 Cruzeiro,=0.05,0,,,Iran,2002,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,
+A/IRN/6/2002,,A/IRN/1996,=0.85,1,,,Iran,2002,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 96
+A/IRN/6/2002,,A/MAY/1997,=0.1,0,,,Iran,2002,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A May 97
+A/IRN/6/2002,,A/IRN/1987,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Irn 87
+A/IRN/6/2002,,A/5925,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A5925
+A/IRN/6/2002,,A/SAU/1995,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Sau 95
+A/IRN/6/2002,,A/IRN/2001,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Irn 2001
+A/IRN/5/2003,FJ755018.1,A24 Cruzeiro,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/SAU/1995,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/IRN/2001,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/7/2003,EU414528.1,A/IRN/1996,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/7/2003,EU414528.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/10/2003,EU414529.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/10/2003,EU414529.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/1996,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/SAU/1995,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/2001,,,,,Iran,2003,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/7/2004,EU414530.1,A/IRN/2001,,,A/ASIA/Iran-05,,Iran,2004,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A24 Cruzeiro,,,,,Iran,2004,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/MAY/1997,,,,,Iran,2004,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A May 97; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/IRN/1987,,,,,Iran,2004,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/5925,,,,,Iran,2004,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A22/IRQ/24/64,,,,,Iran,2004,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A24 Cruzeiro,,,,,Iran,2004,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/IRN/1996,>1.0,,,,Iran,2004,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/MAY/1997,,,,,Iran,2004,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A May 97; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/5925,,,,,Iran,2004,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/IRN/2001,,,,,Iran,2004,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A22/IRQ/24/64,,,,,Iran,2005,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/IRN/1987,,,,,Iran,2005,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/5925,,,,,Iran,2005,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/SAU/1995,,,,,Iran,2005,,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/4/2005,FJ755024.1,A22/IRQ/24/64,>1.0,,A/ASIA/Iran-05,,Iran,2005,unknown,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A22 Iraq; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/5/2005,FJ755025.1,A/IRN/2001,,,A/ASIA/Iran-05,,Iran,2005,cattle,2D-VNT,WRLFMD-2004-00023-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/32/2001,FJ755017.1,A/IRN/1996,,,,,Iran,2001,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/32/2001,FJ755017.1,A/IRN/1987,,,,,Iran,2001,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/6/2002,,A22/IRQ/24/64,>1.0,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_censored;no_vp1_or_p1_sequence,serum label in source: A22 Iraq
+A/IRN/6/2002,,A24 Cruzeiro,=0.05,0,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,
+A/IRN/6/2002,,A/IRN/1996,=0.85,1,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 96
+A/IRN/6/2002,,A/MAY/1997,=0.1,0,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A May 97
+A/IRN/6/2002,,A/IRN/1987,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Irn 87
+A/IRN/6/2002,,A/5925,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A5925
+A/IRN/6/2002,,A/SAU/1995,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Sau 95
+A/IRN/6/2002,,A/IRN/2001,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Irn 2001
+A/IRN/5/2003,FJ755018.1,A24 Cruzeiro,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/SAU/1995,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/IRN/2001,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/7/2003,EU414528.1,A/IRN/1996,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/7/2003,EU414528.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/10/2003,EU414529.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/10/2003,EU414529.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/1996,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/SAU/1995,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/2001,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/7/2004,EU414530.1,A/IRN/2001,,,A/ASIA/Iran-05,,Iran,2004,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A24 Cruzeiro,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/MAY/1997,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A May 97; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/IRN/1987,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/5925,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A22/IRQ/24/64,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A24 Cruzeiro,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/IRN/1996,>1.0,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/MAY/1997,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A May 97; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/5925,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/IRN/2001,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A22/IRQ/24/64,,,,,Iran,2005,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/IRN/1987,,,,,Iran,2005,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/5925,,,,,Iran,2005,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/SAU/1995,,,,,Iran,2005,,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/4/2005,FJ755024.1,A22/IRQ/24/64,>1.0,,A/ASIA/Iran-05,,Iran,2005,unknown,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A22 Iraq; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/5/2005,FJ755025.1,A/IRN/2001,,,A/ASIA/Iran-05,,Iran,2005,cattle,2D-VNT,WRLFMD-2005-00003-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/KEN/2/2003,,A22/IRQ/24/64,=0.28,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A22
+A/KEN/2/2003,,A15,=0.15,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,
+A/KEN/2/2003,,A24 TE48,=0.15,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,
+A/KEN/2/2003,,A24 UV64,=0.09,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,
+A/KEN/2/2003,,A/IRN/1996,=0.09,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 96 UZ53
+A/KEN/2/2003,,A/MAY/1997,=0.07,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: AMay 97 VJ62
+A/KEN/2/2003,,A/IRN/1987,=0.14,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 87
+A/KEN/2/2003,,A/5925,=0.41,1,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A5925
+A/KEN/2/2003,,A/SAU/1995,=0.19,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Sau 95
+A/KEN/2/2003,,A/IRN/2001,=0.07,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 2001
+A/KEN/2/2003,,A22/IRQ/24/64,=0.28,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-S-multiple_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A22 Iraq
+A/KEN/2/2003,,A15,=0.15,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-S-multiple_001.pdf,table,no_vp1_or_p1_sequence,
+A/KEN/2/2003,,A24 Cruzeiro,=0.09,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-S-multiple_001.pdf,table,no_vp1_or_p1_sequence,
+A/KEN/2/2003,,A/IRN/1996,=0.09,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-S-multiple_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 96
+A/KEN/2/2003,,A/MAY/1997,=0.07,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-S-multiple_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: AMay 97
+A/KEN/2/2003,,A/IRN/1987,=0.14,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-S-multiple_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 87
+A/KEN/2/2003,,A/5925,=0.41,1,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-S-multiple_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A5925
+A/KEN/2/2003,,A/SAU/1995,=0.19,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-S-multiple_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Sau 95
+A/KEN/2/2003,,A/IRN/2001,=0.07,0,,,Kenya,2003,,2D-VNT,WRLFMD-2005-00004-KEN-VMR-S-multiple_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 2001
+A/IRN/32/2001,FJ755017.1,A/IRN/1996,,,,,Iran,2001,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/32/2001,FJ755017.1,A/IRN/1987,,,,,Iran,2001,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/6/2002,,A22/IRQ/24/64,>1.0,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_censored;no_vp1_or_p1_sequence,serum label in source: A22 Iraq
+A/IRN/6/2002,,A24 Cruzeiro,=0.05,0,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,
+A/IRN/6/2002,,A/IRN/1996,=0.85,1,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Irn 96
+A/IRN/6/2002,,A/MAY/1997,=0.1,0,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A May 97
+A/IRN/6/2002,,A/IRN/1987,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Irn 87
+A/IRN/6/2002,,A/5925,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A5925
+A/IRN/6/2002,,A/SAU/1995,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Sau 95
+A/IRN/6/2002,,A/IRN/2001,,,,,Iran,2002,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing;no_vp1_or_p1_sequence,serum label in source: A Irn 2001
+A/IRN/5/2003,FJ755018.1,A24 Cruzeiro,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/SAU/1995,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/5/2003,FJ755018.1,A/IRN/2001,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/7/2003,EU414528.1,A/IRN/1996,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/7/2003,EU414528.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/10/2003,EU414529.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/10/2003,EU414529.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/1996,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/1987,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/5925,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/SAU/1995,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/41/2003,FJ755020.1,A/IRN/2001,,,,,Iran,2003,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/7/2004,EU414530.1,A/IRN/2001,,,A/ASIA/Iran-05,,Iran,2004,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A24 Cruzeiro,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/MAY/1997,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A May 97; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/IRN/1987,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/32/2004,FJ755021.1,A/5925,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A22/IRQ/24/64,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A24 Cruzeiro,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/IRN/1996,>1.0,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/MAY/1997,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A May 97; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/5925,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/33/2004,FJ755022.1,A/IRN/2001,,,,,Iran,2004,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A22/IRQ/24/64,,,,,Iran,2005,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/IRN/1987,,,,,Iran,2005,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/5925,,,,,Iran,2005,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A5925; sequence_type=VP1
+A/IRN/1/2005,EF208769.1,A/SAU/1995,,,,,Iran,2005,,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Sau 95; sequence_type=VP1
+A/IRN/4/2005,FJ755024.1,A22/IRQ/24/64,>1.0,,A/ASIA/Iran-05,,Iran,2005,unknown,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A22 Iraq; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/5/2005,FJ755025.1,A/IRN/2001,,,A/ASIA/Iran-05,,Iran,2005,cattle,2D-VNT,WRLFMD-2005-00012-IRN-VMR-O-A_001.pdf,table,r1_missing,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/7/2005,FJ755026.1,A/4164,=0.18,0,A/ASIA/Iran-05,,Iran,2005,sheep,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A 4164; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/7/2005,FJ755026.1,A/5925,<0.17,,A/ASIA/Iran-05,,Iran,2005,sheep,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt;r1_censored,serum label in source: A 5925; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/7/2005,FJ755026.1,A22/IRQ/24/64,=0.79,1,A/ASIA/Iran-05,,Iran,2005,sheep,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A22 Irq 24/64; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/7/2005,FJ755026.1,A/IRN/1987,=0.12,0,A/ASIA/Iran-05,,Iran,2005,sheep,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A Irn 87; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/7/2005,FJ755026.1,A/IRN/1996,=0.12,0,A/ASIA/Iran-05,,Iran,2005,sheep,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A Irn 96; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/7/2005,FJ755026.1,A/IRN/2001,=0.07,0,A/ASIA/Iran-05,,Iran,2005,sheep,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A Irn 2001; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/17/2005,FJ755031.1,A/4164,=0.22,0,,,Iran,2005,,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A 4164; sequence_type=VP1
+A/IRN/17/2005,FJ755031.1,A/5925,<0.17,,,,Iran,2005,,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt;r1_censored,serum label in source: A 5925; sequence_type=VP1
+A/IRN/17/2005,FJ755031.1,A22/IRQ/24/64,=0.79,1,,,Iran,2005,,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A22 Irq 24/64; sequence_type=VP1
+A/IRN/17/2005,FJ755031.1,A/IRN/1987,=0.17,0,,,Iran,2005,,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A Irn 87; sequence_type=VP1
+A/IRN/17/2005,FJ755031.1,A/IRN/1996,=0.38,1,,,Iran,2005,,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A Irn 96; sequence_type=VP1
+A/IRN/17/2005,FJ755031.1,A/IRN/2001,=0.12,0,,,Iran,2005,,LPBE,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A Irn 2001; sequence_type=VP1
+A/IRN/27/2005,FJ755037.1,A22/IRQ/24/64,>1.0,,,,Iran,2005,,2D-VNT,WRLFMD-2005-00027-IRN-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A22 Iraq; sequence_type=VP1
+A/IRN/30/2005,FJ755040.1,A22/IRQ/24/64,>1.0,,A/ASIA/Iran-05,,Iran,2005,cattle,2D-VNT,WRLFMD-2005-00027-IRN-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A22 Iraq; lineage standardized from Iran-05; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A22/IRQ/24/64,=0.17,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A22; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A/MAY/1997,=0.06,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A MAY 97; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A22/IRQ/24/64,=0.14,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A22; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A/MAY/1997,<0.03,,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,table,not_2d_vnt;r1_censored,serum label in source: A MAY 97; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A22/IRQ/24/64,=0.27,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A22; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A/IRN/1996,=0.25,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A IRN 96; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A/MAY/1997,=0.22,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A MAY 97; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A22/IRQ/24/64,=0.28,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A22; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A/IRN/1996,=0.16,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A IRN 96; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A/MAY/1997,=0.21,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A MAY 97; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A/KEN/35/1980,=0.38,1,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum label in source: A KEN 35/80; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A/IRN/1987,=0.23,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum label in source: A IRN 87; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A/IRN/2001,=0.33,1,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum name standardized from A IRN 01; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A/SAU/1995,=0.42,1,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum label in source: A SAU 95; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A/KEN/35/1980,=0.38,1,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum label in source: A KEN 35/80; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A/IRN/1987,=0.14,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum label in source: A IRN 87; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A/IRN/2001,=0.35,1,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum name standardized from A IRN 01; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A/SAU/1995,=0.5,1,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum label in source: A SAU 95; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A/KEN/35/1980,=0.25,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum label in source: A KEN 35/80; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A/IRN/2001,=0.28,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum name standardized from A IRN 01; sequence_type=VP1
+A/EGY/1/2006,EF208757.1,A/SAU/1995,=0.32,1,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum label in source: A SAU 95; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A/KEN/35/1980,=0.16,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum label in source: A KEN 35/80; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A/IRN/2001,=0.24,0,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum name standardized from A IRN 01; sequence_type=VP1
+A/EGY/2/2006,EF208758.1,A/SAU/1995,=0.3,1,,,Egypt,2006,,LPBE,WRLFMD-2006-00007-EGY-VMR-S1-A_001.pdf,table,not_2d_vnt,serum label in source: A SAU 95; sequence_type=VP1
+A/PAK/1/2006,FJ755082.1,A/5925,=0.3,1,,,Pakistan,2006,,LPBE,WRLFMD-2006-00012-PAK-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A 5925; sequence_type=VP1
+A/PAK/1/2006,FJ755082.1,A22/IRQ/24/64,>1.0,,,,Pakistan,2006,,LPBE,WRLFMD-2006-00012-PAK-VMR-O-A_001.pdf,table,not_2d_vnt;r1_censored,serum label in source: A22; sequence_type=VP1
+A/PAK/1/2006,FJ755082.1,A/4164,=0.215,0,,,Pakistan,2006,,LPBE,WRLFMD-2006-00012-PAK-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A 4164; sequence_type=VP1
+A/PAK/1/2006,FJ755082.1,A/SAU/1995,>1.0,,,,Pakistan,2006,,LPBE,WRLFMD-2006-00012-PAK-VMR-O-A_001.pdf,table,not_2d_vnt;r1_censored,serum label in source: A SAU 95; sequence_type=VP1
+A/PAK/5/2006,FJ755084.1,A/5925,=0.08,0,A/ASIA/Iran-05,,Pakistan,2006,cattle,LPBE,WRLFMD-2006-00012-PAK-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A 5925; lineage standardized from Iran-05; sequence_type=VP1
+A/PAK/5/2006,FJ755084.1,A22/IRQ/24/64,=0.09,0,A/ASIA/Iran-05,,Pakistan,2006,cattle,LPBE,WRLFMD-2006-00012-PAK-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A22; lineage standardized from Iran-05; sequence_type=VP1
+A/PAK/5/2006,FJ755084.1,A/4164,=0.135,0,A/ASIA/Iran-05,,Pakistan,2006,cattle,LPBE,WRLFMD-2006-00012-PAK-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A 4164; lineage standardized from Iran-05; sequence_type=VP1
+A/PAK/5/2006,FJ755084.1,A/SAU/1995,>1.0,,A/ASIA/Iran-05,,Pakistan,2006,cattle,LPBE,WRLFMD-2006-00012-PAK-VMR-O-A_001.pdf,table,not_2d_vnt;r1_censored,serum label in source: A SAU 95; lineage standardized from Iran-05; sequence_type=VP1
+A/PAK/3/2006,FJ755083.1,A22/IRQ/24/64,>0.88,,,,Pakistan,2006,,2D-VNT,WRLFMD-2006-00012-PAK-VMR-S-A_001.pdf,table,r1_censored,serum label in source: A22 Irq; sequence_type=VP1
+A/IRN/5/2006,FJ755056.1,A22/IRQ/24/64,=0.5,1,A/ASIA/Iran-05,,Iran,2006,cattle,LPBE,WRLFMD-2006-00014-IRN-VMR-O-A_001_0.pdf,table,not_2d_vnt,serum label in source: A22; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/5/2006,FJ755056.1,A/5925,=0.09,0,A/ASIA/Iran-05,,Iran,2006,cattle,LPBE,WRLFMD-2006-00014-IRN-VMR-O-A_001_0.pdf,table,not_2d_vnt,serum label in source: A5925; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/7/2006,FJ755057.1,A22/IRQ/24/64,=0.5,1,A/ASIA/Iran-05,,Iran,2006,cattle,LPBE,WRLFMD-2006-00014-IRN-VMR-O-A_001_0.pdf,table,not_2d_vnt,serum label in source: A22; lineage standardized from Iran-05; sequence_type=VP1
+A/IRN/7/2006,FJ755057.1,A/5925,=0.2,0,A/ASIA/Iran-05,,Iran,2006,cattle,LPBE,WRLFMD-2006-00014-IRN-VMR-O-A_001_0.pdf,table,not_2d_vnt,serum label in source: A5925; lineage standardized from Iran-05; sequence_type=VP1
+A/MAY/3/2007,HQ116302.1,A22/IRQ/24/64,<0.07,,,,Malaysia,2007,,2D-VNT,WRLFMD-2006-00032-MAY-VMR-O-A_002.pdf,table,r1_censored,serum label in source: A22 IRQ; sequence_type=VP1
+A/JOR/3/2006,FJ755079.1,A22/IRQ/24/64,=0.52,1,A/ASIA/Iran-05,,Jordan,2006,unknown,LPBE,WRLFMD-2006-00037-JOR-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A22; lineage standardized from Iran-05; sequence_type=VP1
+A/JOR/3/2006,FJ755079.1,A/KEN/35/1980,=0.23,0,A/ASIA/Iran-05,,Jordan,2006,unknown,LPBE,WRLFMD-2006-00037-JOR-VMR-O-A_001.pdf,table,not_2d_vnt,serum name standardized from A K35/80; lineage standardized from Iran-05; sequence_type=VP1
+A/JOR/4/2006,FJ755080.1,A22/IRQ/24/64,=0.44,1,A/ASIA/Iran-05,,Jordan,2006,unknown,LPBE,WRLFMD-2006-00037-JOR-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A22; lineage standardized from Iran-05; sequence_type=VP1
+A/JOR/4/2006,FJ755080.1,A/KEN/35/1980,=0.19,0,A/ASIA/Iran-05,,Jordan,2006,unknown,LPBE,WRLFMD-2006-00037-JOR-VMR-O-A_001.pdf,table,not_2d_vnt,serum name standardized from A K35/80; lineage standardized from Iran-05; sequence_type=VP1
+A/MAI/12/2006,KX258048.1,A22/IRQ/24/64,=0.61,1,,,,2006,,LPBE,WRLFMD-2007-00004-MAI-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A 22; sequence_type=VP1; GenBank isolate name MAI/12/2006 matched to WRL name A/MAI/12/2006
+A/MAI/12/2006,KX258048.1,A/ERI/1998,=0.43,1,,,,2006,,LPBE,WRLFMD-2007-00004-MAI-VMR-O-A_001.pdf,table,not_2d_vnt,serum name standardized from A Eri; sequence_type=VP1; GenBank isolate name MAI/12/2006 matched to WRL name A/MAI/12/2006
+A/MAI/16/2006,,A22/IRQ/24/64,=0.21,0,,,,2006,,LPBE,WRLFMD-2007-00004-MAI-VMR-O-A_001.pdf,table,not_2d_vnt;no_vp1_or_p1_sequence,serum label in source: A 22
+A/MAI/16/2006,,A/ERI/1998,=0.21,0,,,,2006,,LPBE,WRLFMD-2007-00004-MAI-VMR-O-A_001.pdf,table,not_2d_vnt;no_vp1_or_p1_sequence,serum name standardized from A Eri
+A/MAI/12/2006,KX258048.1,A22/IRQ/24/64,<0.02,,,,,2006,,LPBE,WRLFMD-2007-00004-MAI-VMR-O-A_001.pdf,table,not_2d_vnt;r1_censored,serum label in source: A 22; sequence_type=VP1; GenBank isolate name MAI/12/2006 matched to WRL name A/MAI/12/2006
+A/MAI/16/2006,,A22/IRQ/24/64,=0.03,0,,,,2006,,LPBE,WRLFMD-2007-00004-MAI-VMR-O-A_001.pdf,table,not_2d_vnt;no_vp1_or_p1_sequence,serum label in source: A 22
+A/ETH/6/2000,MT981315.1,A22/IRQ/24/64,=0.2,0,,,Ethiopia,2000,,LPBE,WRLFMD-2007-00007-ETH-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A 22; sequence_type=P1
+A/ETH/6/2000,MT981315.1,A/ERI/1998,=0.46,1,,,Ethiopia,2000,,LPBE,WRLFMD-2007-00007-ETH-VMR-O-A_001.pdf,table,not_2d_vnt,serum name standardized from A Eri; sequence_type=P1
+A/ETH/6/2000,MT981315.1,A22/IRQ/24/64,<0.05,,,,Ethiopia,2000,,LPBE,WRLFMD-2007-00007-ETH-VMR-O-A_001.pdf,table,not_2d_vnt;r1_censored,serum label in source: A 22; sequence_type=P1
+A/SUD/1/2006,MT981316.1,A22/IRQ/24/64,=0.13,0,,,Sudan,2006,,LPBE,WRLFMD-2007-00009-SUD-VMR-O-A_001.pdf,table,not_2d_vnt,serum label in source: A 22; sequence_type=P1
+A/SUD/1/2006,MT981316.1,A/ERI/1998,=0.53,1,,,Sudan,2006,,LPBE,WRLFMD-2007-00009-SUD-VMR-O-A_001.pdf,table,not_2d_vnt,serum name standardized from A Eri; sequence_type=P1
+A/SUD/3/2006,,A22/IRQ/24/64,=0.11,0,,,Sudan,2006,,LPBE,WRLFMD-2007-00009-SUD-VMR-O-A_001.pdf,table,not_2d_vnt;no_vp1_or_p1_sequence,serum label in source: A 22
+A/SUD/3/2006,,A/ERI/1998,=0.34,1,,,Sudan,2006,,LPBE,WRLFMD-2007-00009-SUD-VMR-O-A_001.pdf,table,not_2d_vnt;no_vp1_or_p1_sequence,serum name standardized from A Eri
+A/SUD/1/2006,MT981316.1,A22/IRQ/24/64,<0.02,,,,Sudan,2006,,LPBE,WRLFMD-2007-00009-SUD-VMR-O-A_001.pdf,table,not_2d_vnt;r1_censored,serum label in source: A 22; sequence_type=P1
+A/ETH/4/2007,,A22/IRQ/24/64,=0.16,0,,,Ethiopia,2007,,2D-VNT,WRLFMD-2008-00002-ETH-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A22 Irq
+A/ETH/4/2007,,A/ERI/1998,=0.1,0,,,Ethiopia,2007,,2D-VNT,WRLFMD-2008-00002-ETH-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum name standardized from A Eri
+A/KEN/7/2008,MT981318.1,A/TUR/4/2006,>0.97,,,,Kenya,2008,,2D-VNT,WRLFMD-2008-00016-KEN-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A Tur 4/06; sequence_type=P1
+A/KEN/8/2008,,A22/IRQ/24/64,=0.13,0,,,Kenya,2008,,2D-VNT,WRLFMD-2008-00016-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A22 Irq
+A/KEN/8/2008,,A/ERI/1998,=0.04,0,,,Kenya,2008,,2D-VNT,WRLFMD-2008-00016-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Eritrea
+A/KEN/8/2008,,A/IND/17/1982,=0.05,0,,,Kenya,2008,,2D-VNT,WRLFMD-2008-00016-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Ind 17/82
+A/KEN/8/2008,,A/TUR/4/2006,=0.33,1,,,Kenya,2008,,2D-VNT,WRLFMD-2008-00016-KEN-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Tur 4/06
+A/ETH/7/2008,,A/ERI/3/1998,=0.31,1,,,Ethiopia,2008,,2D-VNT,WRLFMD-2008-00031-ETH-VMR-O-A_001.pdf,table,no_vp1_or_p1_sequence,serum label in source: A Eri 3/98
+A/IRQ/17/2009,MT442325.1,A/TUR/2006,>0.83,,,,Iraq,2009,,2D-VNT,WRLFMD-2009-00003-IRQ-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A Tur06 Arriah pool2; sequence_type=VP1; GenBank isolate name IRQ/17/2009 matched to WRL name A/IRQ/17/2009
+A/IRQ/17/2009,MT442325.1,A/IRN/1987,<0.13,,,,Iraq,2009,,2D-VNT,WRLFMD-2009-00003-IRQ-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A Irn87 VQ pool; sequence_type=VP1; GenBank isolate name IRQ/17/2009 matched to WRL name A/IRQ/17/2009
+A/IRQ/17/2009,MT442325.1,A/TUR/2006,>0.83,,,,Iraq,2009,,2D-VNT,WRLFMD-2009-00006-IRQ-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A Tur06 Arriah pool2; sequence_type=VP1; GenBank isolate name IRQ/17/2009 matched to WRL name A/IRQ/17/2009
+A/IRQ/17/2009,MT442325.1,A/IRN/1987,<0.13,,,,Iraq,2009,,2D-VNT,WRLFMD-2009-00006-IRQ-VMR-O-A_001.pdf,table,r1_censored,serum label in source: A Irn87 VQ pool; sequence_type=VP1; GenBank isolate name IRQ/17/2009 matched to WRL name A/IRQ/17/2009
+A/TAI/5/2021,,A22/IRQ/24/64,=0.39,1,,,Thailand,2021,,2D-VNT,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/6/2021,,A22/IRQ/24/64,=0.32,1,,,Thailand,2021,,2D-VNT,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/5/2021,,A/ASIA/G-VII/2015,=0.46,1,,,Thailand,2021,,2D-VNT,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/6/2021,,A/ASIA/G-VII/2015,=0.5,1,,,Thailand,2021,,2D-VNT,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/5/2021,,A/Iran-05,=0.07,0,,,Thailand,2021,,2D-VNT,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/6/2021,,A/Iran-05,=0.07,0,,,Thailand,2021,,2D-VNT,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/5/2021,,A/MAY/1997,=0.33,1,,,Thailand,2021,,2D-VNT,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum name standardized from A Malaysia 97; serum label in source: A Malaysia 97, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/6/2021,,A/MAY/1997,=0.39,1,,,Thailand,2021,,2D-VNT,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum name standardized from A Malaysia 97; serum label in source: A Malaysia 97, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/5/2021,,A/TUR/2006,=0.11,0,,,Thailand,2021,,2D-VNT,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/6/2021,,A/TUR/2006,=0.08,0,,,Thailand,2021,,2D-VNT,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/1/2022,,A22/IRQ/24/64,=0.18,0,,,Thailand,2022,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/14/2022,,A22/IRQ/24/64,=0.28,0,,,Thailand,2022,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/8/2021,,A22/IRQ/24/64,=0.25,0,,,Thailand,2021,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/1/2022,,A/ASIA/G-VII/2015,=0.38,1,,,Thailand,2022,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/14/2022,,A/ASIA/G-VII/2015,=0.71,1,,,Thailand,2022,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/8/2021,,A/ASIA/G-VII/2015,=0.54,1,,,Thailand,2021,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/1/2022,,A/Iran-05,=0.08,0,,,Thailand,2022,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/14/2022,,A/Iran-05,=0.17,0,,,Thailand,2022,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/8/2021,,A/Iran-05,=0.14,0,,,Thailand,2021,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/1/2022,,A/MAY/1997,=0.32,1,,,Thailand,2022,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum name standardized from A Malaysia 97; serum label in source: A Malaysia 97, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/14/2022,,A/MAY/1997,=0.66,1,,,Thailand,2022,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum name standardized from A Malaysia 97; serum label in source: A Malaysia 97, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/8/2021,,A/MAY/1997,=0.45,1,,,Thailand,2021,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum name standardized from A Malaysia 97; serum label in source: A Malaysia 97, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/1/2022,,A/TUR/2006,=0.19,0,,,Thailand,2022,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/14/2022,,A/TUR/2006,=0.29,0,,,Thailand,2022,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/TAI/8/2021,,A/TUR/2006,=0.17,0,,,Thailand,2021,,2D-VNT,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/PAK/4/2023,,A22/IRQ/24/64,=0.25,0,,,Pakistan,2023,,2D-VNT,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/PAK/5/2023,,A22/IRQ/24/64,=0.2,0,,,Pakistan,2023,,2D-VNT,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/PAK/4/2023,,A/ASIA/G-VII/2015,=0.2,0,,,Pakistan,2023,,2D-VNT,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/PAK/5/2023,,A/ASIA/G-VII/2015,=0.14,0,,,Pakistan,2023,,2D-VNT,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/PAK/4/2023,,A/Iran-05,=0.16,0,,,Pakistan,2023,,2D-VNT,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/PAK/5/2023,,A/Iran-05,=0.23,0,,,Pakistan,2023,,2D-VNT,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/PAK/4/2023,,A/MAY/1997,=0.15,0,,,Pakistan,2023,,2D-VNT,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum name standardized from A Malaysia 97; serum label in source: A Malaysia 97, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/PAK/5/2023,,A/MAY/1997,=0.11,0,,,Pakistan,2023,,2D-VNT,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum name standardized from A Malaysia 97; serum label in source: A Malaysia 97, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/PAK/4/2023,,A/TUR/2006,=0.26,0,,,Pakistan,2023,,2D-VNT,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/PAK/5/2023,,A/TUR/2006,=0.25,0,,,Pakistan,2023,,2D-VNT,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/15/2021,,A22/IRQ/24/64,=0.25,0,,,Kenya,2021,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/6/2023,,A22/IRQ/24/64,=0.33,1,,,Kenya,2023,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/15/2021,,A/ERI/1998,=0.3,1,,,Kenya,2021,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Eritrea 98, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/6/2023,,A/ERI/1998,=0.08,0,,,Kenya,2023,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Eritrea 98, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/15/2021,,A/ASIA/G-VII/2015,=0.47,1,,,Kenya,2021,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/6/2023,,A/ASIA/G-VII/2015,=0.36,1,,,Kenya,2023,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/15/2021,,A/Iran-05,=0.14,0,,,Kenya,2021,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/6/2023,,A/Iran-05,=0.16,0,,,Kenya,2023,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/15/2021,,A/SAU/1995,=0.22,0,,,Kenya,2021,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Saudi 95, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/6/2023,,A/SAU/1995,=0.08,0,,,Kenya,2023,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Saudi 95, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/15/2021,,A/TUR/2006,=0.12,0,,,Kenya,2021,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/KEN/6/2023,,A/TUR/2006,=0.06,0,,,Kenya,2023,,2D-VNT,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/15/2025,,A/ERI/1998,=0.38,1,,,Ethiopia,2025,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Eritrea 98, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/39/2024,,A/ERI/1998,=0.32,1,,,Ethiopia,2024,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Eritrea 98, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/15/2025,,A/ASIA/G-VII/2015,=0.0,0,,,Ethiopia,2025,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/39/2024,,A/ASIA/G-VII/2015,=0.0,0,,,Ethiopia,2024,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/15/2025,,A/Iran-05,=0.1,0,,,Ethiopia,2025,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/39/2024,,A/Iran-05,=0.07,0,,,Ethiopia,2024,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/15/2025,,A/SAU/1995,=0.09,0,,,Ethiopia,2025,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Saudi 95, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/39/2024,,A/SAU/1995,=0.1,0,,,Ethiopia,2024,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Saudi 95, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/15/2025,,A/TUR/2006,=0.15,0,,,Ethiopia,2025,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/39/2024,,A/TUR/2006,=0.0,0,,,Ethiopia,2024,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/15/2025,,A2001 Argentina,=0.48,1,,,Ethiopia,2025,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A2001 Argentina, Biogénesis Bagó; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/39/2024,,A2001 Argentina,=0.49,1,,,Ethiopia,2024,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A2001 Argentina, Biogénesis Bagó; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/15/2025,,A22/IRQ/24/64,=0.06,0,,,Ethiopia,2025,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/39/2024,,A22/IRQ/24/64,=0.07,0,,,Ethiopia,2024,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/15/2025,,A24 Cruzeiro,=0.44,1,,,Ethiopia,2025,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A24 Cruzeiro, Biogénesis Bagó; exact r1 from the PDF text layer (word position), not from a figure"
+A/ETH/39/2024,,A24 Cruzeiro,=0.48,1,,,Ethiopia,2024,,2D-VNT,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A24 Cruzeiro, Biogénesis Bagó; exact r1 from the PDF text layer (word position), not from a figure"
+A/EGY/1/2025,,A/ERI/1998,=0.46,1,,,Egypt,2025,,2D-VNT,WRLFMD-2025-000018-EGY-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Eritrea 98, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/EGY/1/2025,,A/ASIA/G-VII/2015,=0.07,0,,,Egypt,2025,,2D-VNT,WRLFMD-2025-000018-EGY-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A GVII 2015, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/EGY/1/2025,,A/Iran-05,=0.27,0,,,Egypt,2025,,2D-VNT,WRLFMD-2025-000018-EGY-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Iran 05, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/EGY/1/2025,,A/SAU/1995,=0.28,0,,,Egypt,2025,,2D-VNT,WRLFMD-2025-000018-EGY-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A Saudi 95, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/EGY/1/2025,,A/TUR/2006,=0.1,0,,,Egypt,2025,,2D-VNT,WRLFMD-2025-000018-EGY-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A/TUR/20/06, MSD Animal Health; exact r1 from the PDF text layer (word position), not from a figure"
+A/EGY/1/2025,,A2001 Argentina,=0.31,1,,,Egypt,2025,,2D-VNT,WRLFMD-2025-000018-EGY-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A2001 Argentina, Biogénesis Bagó; exact r1 from the PDF text layer (word position), not from a figure"
+A/EGY/1/2025,,A22/IRQ/24/64,=0.33,1,,,Egypt,2025,,2D-VNT,WRLFMD-2025-000018-EGY-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A22 Iraq, Boehringer Ingelheim; exact r1 from the PDF text layer (word position), not from a figure"
+A/EGY/1/2025,,A24 Cruzeiro,=0.17,0,,,Egypt,2025,,2D-VNT,WRLFMD-2025-000018-EGY-VMR-O-multiple_001.pdf,table,no_vp1_or_p1_sequence,"serum label in source: A24 Cruzeiro, Biogénesis Bagó; exact r1 from the PDF text layer (word position), not from a figure"
+A/IRN/10/2018,MT442317.1,A/ASIA/G-VII/2015,<0.07,,A/ASIA/Iran-05,SIS-13,Iran,2018,,2D-VNT,"Singanallur et al. 2022, Viruses 14:97, Table 1",table,r1_censored,sequence_type=VP1; GenBank isolate name IRN/10/2018 matched to WRL name A/IRN/10/2018
+A/AFG/50/2017,MT442138.1,A/ASIA/G-VII/2015,<0.06,,A/ASIA/Iran-05,SIS-13,Afghanistan,2017,,2D-VNT,"Singanallur et al. 2022, Viruses 14:97, Table 1",table,r1_censored,sequence_type=VP1; GenBank isolate name AFG/50/2017 matched to WRL name A/AFG/50/2017
+A/IRN/23/2018,MT442319.1,A/ASIA/G-VII/2015,<0.07,,A/ASIA/Iran-05,SIS-13,Iran,2018,,2D-VNT,"Singanallur et al. 2022, Viruses 14:97, Table 1",table,r1_censored,sequence_type=VP1; GenBank isolate name IRN/23/2018 matched to WRL name A/IRN/23/2018
+A/PAK/1/2018,,A/Iran-05,=0.36,1,A/ASIA/Iran-05,SIS-13,Pakistan,2018,,2D-VNT,"Singanallur et al. 2022, Viruses 14:97, Table 1",table,no_vp1_or_p1_sequence,
+A/PAK/1/2018,,A22/IRQ/24/64,=0.32,1,A/ASIA/Iran-05,SIS-13,Pakistan,2018,,2D-VNT,"Singanallur et al. 2022, Viruses 14:97, Table 1",table,no_vp1_or_p1_sequence,
+A/PAK/1/2018,,A/ASIA/G-VII/2015,<0.06,,A/ASIA/Iran-05,SIS-13,Pakistan,2018,,2D-VNT,"Singanallur et al. 2022, Viruses 14:97, Table 1",table,r1_censored;no_vp1_or_p1_sequence,
+A/PAK/24/2019,,A/Iran-05,=0.49,1,A/ASIA/Iran-05,SIS-13,Pakistan,2019,,2D-VNT,"Singanallur et al. 2022, Viruses 14:97, Table 1",table,no_vp1_or_p1_sequence,
+A/PAK/24/2019,,A22/IRQ/24/64,=0.48,1,A/ASIA/Iran-05,SIS-13,Pakistan,2019,,2D-VNT,"Singanallur et al. 2022, Viruses 14:97, Table 1",table,no_vp1_or_p1_sequence,
+A/PAK/24/2019,,A/ASIA/G-VII/2015,<0.08,,A/ASIA/Iran-05,SIS-13,Pakistan,2019,,2D-VNT,"Singanallur et al. 2022, Viruses 14:97, Table 1",table,r1_censored;no_vp1_or_p1_sequence,
+Qom B3,,A/IRN/2013,=0.19,0,non-Iran-05 (cluster 2),,Iran,2015,,2D-VNT,"Azimi et al. 2020, Arch Razi Inst 75:349-357",table,no_vp1_or_p1_sequence,serum label in source: A-IRN-2013

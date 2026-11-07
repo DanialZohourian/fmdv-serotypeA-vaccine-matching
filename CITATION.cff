@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite both the software and the paper."
+title: "FMDV serotype A vaccine matching: machine learning prediction from VP1 sequences"
+abstract: >-
+  A Boruta-selected Random Forest classifier that predicts binary vaccine matching
+  (r1 >= 0.3) for foot-and-mouth disease virus serotype A from VP1 amino acid
+  sequences, together with the curated virus-antiserum dataset, analysis pipeline
+  and web application.
+authors:
+  - family-names: Norouzi
+    given-names: Silena
+    email: silenanorouzi@gmail.com
+    affiliation: "Pasouk Knowledge-Based Company, Tehran, Iran"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Zohourian
+    given-names: Danial
+    affiliation: "School of Mathematics, Statistics and Computer Science, College of Science, University of Tehran, Tehran, Iran"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2026-11-07
+license: MIT
+repository-code: "https://github.com/[USERNAME]/fmdv-serotypeA-vaccine-matching"
+keywords:
+  - foot-and-mouth disease virus
+  - vaccine matching
+  - machine learning
+  - VP1
+  - serotype A
+  - A/ASIA/Iran-05
+preferred-citation:
+  type: article
+  title: "Machine learning prediction of vaccine matching for foot-and-mouth disease virus serotype A from VP1 amino acid sequences, with application to the A/ASIA/Iran-05 lineage"
+  authors:
+    - family-names: Norouzi
+      given-names: Silena
+    - family-names: Zohourian
+      given-names: Danial
+  year: 2026
+  journal: "Vaccine"
+  notes: "Manuscript submitted for publication"

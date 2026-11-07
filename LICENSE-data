@@ -1,0 +1,17 @@
+The contents of the data/ directory are licensed under the
+Creative Commons Attribution 4.0 International Licence (CC BY 4.0).
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution:
+Norouzi S, Zohourian D. Curated FMDV serotype A virus-antiserum vaccine
+matching dataset (2001-2022). 2026.
+
+Underlying r1 values were compiled from publicly available Vaccine Matching
+Reports issued by the World Reference Laboratory for Foot-and-Mouth Disease
+(WRLFMD, The Pirbright Institute, UK). VP1 sequences were retrieved from NCBI
+GenBank; accession numbers are listed in data/raw/sequence_registry.csv.

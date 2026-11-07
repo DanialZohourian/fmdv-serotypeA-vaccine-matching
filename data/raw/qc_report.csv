@@ -1,0 +1,88 @@
+﻿sequence_id,type,accession,nuc_length,protein_length,ambiguous_percent,vp1_source,status,issues,notes
+A/AFG/44/2007,virus,FJ755009.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine; rgd_motif_not_found
+A/AFG/50/2017,virus,MT442138.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/AFG/7/2007,virus,FJ755008.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/BAR/6/2008,virus,FJ755010.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/BAR/7/2008,virus,FJ755011.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine; rgd_motif_not_found
+A/BHU/7/2003,virus,FJ755012.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/EGY/1/2006,virus,EF208757.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/EGY/2/2006,virus,EF208758.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/ETH/1/2020,virus,PQ847911.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/ETH/16/2005,virus,EF208764.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/ETH/25/2019,virus,PQ847908.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/ETH/4/2022,virus,PQ847915.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/ETH/9/2008,virus,KF112903.1,636,212,0.0%,rgd_capsid_to_end,PASS,,vp1_has_no_initiator_methionine
+A/IRN/1/2005,virus,EF208769.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/10/2003,virus,EU414529.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/10/2018,virus,MT442317.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/17/2005,virus,FJ755031.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/22/2005,virus,FJ755033.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/23/2018,virus,MT442319.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/24/2005,virus,FJ755034.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/25/2005,virus,FJ755035.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/27/2005,virus,FJ755037.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/28/2005,virus,FJ755038.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/29/2005,virus,FJ755039.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/30/2005,virus,FJ755040.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/31/2005,virus,FJ755041.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/32/2001,virus,FJ755017.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/32/2004,virus,FJ755021.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/33/2004,virus,FJ755022.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/36/2007,virus,FJ755062.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/39/2007,virus,FJ755065.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/4/2005,virus,FJ755024.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/41/2003,virus,FJ755020.1,639,213,0.3%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/5/2003,virus,FJ755018.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/5/2005,virus,FJ755025.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/5/2006,virus,FJ755056.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/54/2006,virus,FJ755058.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/57/2006,virus,FJ755059.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/7/2003,virus,EU414528.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/7/2004,virus,EU414530.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/7/2005,virus,FJ755026.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRN/7/2006,virus,FJ755057.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRQ/10/2009,virus,MT442321.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/IRQ/17/2009,virus,MT442325.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/JOR/3/2006,virus,FJ755079.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/JOR/4/2006,virus,FJ755080.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/KEN/1/2003,virus,KF112911.1,636,212,0.0%,rgd_capsid_to_end,PASS,,vp1_has_no_initiator_methionine
+A/KEN/12/2005,virus,MN447660.1,636,212,0.0%,rgd_capsid_to_end,PASS,,vp1_has_no_initiator_methionine
+A/KEN/7/2008,virus,MT981318.1,642,214,0.0%,rgd_capsid_to_end,PASS,,vp1_has_no_initiator_methionine
+A/MAY/1/2007,virus,HQ116301.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/MAY/3/2007,virus,HQ116302.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/PAK/3/2006,virus,FJ755083.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/PAK/5/2006,virus,FJ755084.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/PAK/9/2003,virus,EU414535.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/TAI/6/2004,virus,HQ116317.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/TAI/9/2004,virus,HQ116318.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/TUR/1/2006,virus,EU553878.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/TUR/2/2006,virus,FJ755101.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/TUR/3/2006,virus,FJ755102.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/VIT/10/2004,virus,HQ116362.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/VIT/18/2005,virus,HQ116369.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/VIT/4/2004,virus,HQ116358.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/VIT/5/2004,virus,HQ116359.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/VIT/6/2004,virus,HQ116360.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A/VIT/8/2005,virus,HQ116365.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine
+A22/IRQ/24/64,serum,AY593763.1,642,214,0.0%,rgd_to_2a_junction,PASS,,vp1_has_no_initiator_methionine; Complete genome a22iraq64 iso86. AJ539174.1 is a bacterial 16S rRNA gene and was rejected.
+A/IRN/1996,serum,EF208771.1,639,213,0.2%,annotation,PASS,,"vp1_has_no_initiator_methionine; VP1 of A/IRN/1/96, the public representative of the A Iran 96 vaccine. AJ251473.1 is SAT2 KEN/3/57 and was rejected."
+A/IRN/1999,serum,EF208772.1,636,212,0.0%,annotation,PASS,,"vp1_has_no_initiator_methionine; No record is named A/IRN/1999. Used A/IRN/22/99 VP1, the serotype A Iran 1999 sequence found in GenBank."
+A/IRN/1987,serum,EF208770.1,636,212,0.0%,annotation,PASS,,"vp1_has_no_initiator_methionine; VP1 of A/IRN/2/87, the public representative of the A Iran 87 vaccine."
+A/SAU/1995,serum,EU553874.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine; VP1 of A/SAU/16/95. No record is named exactly A/SAU/1995; this is the closest 1995 Saudi serotype A VP1.
+A Sau 41/91 SI94,serum,FJ755085.1,636,212,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine; VP1 of A/SAU/41/91.
+A/TUR/2006,serum,FJ755116.1,639,213,0.0%,annotation,PASS,,"vp1_has_no_initiator_methionine; VP1 of A/TUR/20/2006, matching the WRL label A/TUR/20/06. EU257510.1 is a plant carlavirus and was rejected."
+A/TUR/4/2006,serum,FJ755103.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine; VP1 of A/TUR/4/2006.
+A/Iran-05,serum,EF208769.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine; VP1 of prototype A/IRN/1/2005. DQ533483 is serotype Asia 1 strain ZB/CHA/58 and was rejected.
+A/ASIA/G-VII/2015,serum,KY982283.1,639,213,0.0%,annotation,PASS,,"vp1_has_no_initiator_methionine; VP1 of IRN/12/2015, a public A/ASIA/G-VII 2015 reference. KX894955.1 is a fungal ITS sequence and was rejected."
+A/ERI/1998,serum,KX258045.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine; Same deposit as A/ERI/3/1998. GenBank names this vaccine ERI/3/98; no separate A/ERI/1998 VP1 exists.
+A/ERI/3/1998,serum,KX258045.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine; VP1 of ERI/3/98.
+A/KEN/35/1980,serum,KJ440846.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine; VP1 of K35/80.
+A/IND/17/1982,serum,HM854024.1,642,214,0.0%,rgd_to_2a_junction,PASS,,vp1_has_no_initiator_methionine; Complete genome IND17/82. VP1 taken from the feature table.
+A24 Cruzeiro,serum,JQ082960.1,639,213,0.0%,annotation,PASS,,vp1_has_no_initiator_methionine; VP1 of A24/Cruzeiro/Bra/55. AJ320488.1 is O1 Campos and was rejected.
+A15 Tai 1/60,serum,KF112918.1,636,212,0.0%,rgd_capsid_to_end,PASS,,vp1_has_no_initiator_methionine; Capsid of A15/Bangkok/TAI/60. VP1 taken from the feature table.
+A/IRN/2001,serum,,,,,,NOT_FOUND,No nucleotide record titled A/IRN/2001 or A/IRN/1/2001 was found.,
+A/MAY/1997,serum,,,,,,NOT_FOUND,No nucleotide record titled A/MAY/1997 or A/MAY/97 was found.,
+A/5925,serum,,,,,,NOT_FOUND,"The token 5925 matches patents and unrelated genomes, not an FMDV A5925 VP1.",
+A24 UV64,serum,,,,,,NOT_FOUND,No FMDV record containing UV64 was found.,
+A24 TE48,serum,,,,,,NOT_FOUND,No FMDV record containing TE48 was found.,
+A15,serum,,,,,,NOT_FOUND,Unqualified WRL name A15. A15/Bangkok/TAI/60 was kept for A15 Tai 1/60 and was not copied onto this shorter name.,

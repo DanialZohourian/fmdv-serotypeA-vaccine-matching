@@ -1,0 +1,24 @@
+﻿position,region,important_in_O,makau_importance_supplied,status_in_A,our_shap_A
+3,Other,no,,Confirmed,0.011752443840400867
+40,BC loop,no,,Confirmed,0.0068816983808725725
+46,BC loop,no,,Confirmed,0.025532750660492324
+48,BC loop,yes,0.025,Rejected,0.0
+83,EF loop,no,,Confirmed,0.023553169337636088
+93,EF loop,no,,Confirmed,0.008383384778523302
+95,EF loop,no,,Confirmed,0.02210124146271564
+96,EF loop,no,,Confirmed,0.027771899444648595
+100,EF loop,yes,0.022,Constant — removed before Boruta,0.0
+101,EF loop,no,,Confirmed,0.024320919128623882
+135,G-H loop,yes,0.02,Rejected,0.0
+140,G-H loop,no,,Confirmed,0.011262750145789101
+142,G-H loop,no,,Confirmed,0.01512460405797733
+143,G-H loop,no,,Confirmed,0.014928798868258191
+149,G-H loop,no,,Confirmed,0.09159968872849707
+150,G-H loop,yes,0.018,Constant — removed before Boruta,0.0
+151,G-H loop,yes,0.017,Rejected,0.0
+164,Other,no,,Confirmed,0.015551814921522713
+167,Other,no,,Confirmed,0.021537770045751158
+171,Other,no,,Confirmed,0.03994014415613557
+173,Other,no,,Confirmed,0.05154244247983711
+193,Other,no,,Confirmed,0.029724970032561245
+197,C-terminus,no,,Confirmed,0.043627591097314004

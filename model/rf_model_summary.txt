@@ -1,0 +1,50 @@
+=== RF Model Summary — FMDV Serotype A VP1 ===
+Date: 2026-10-05
+
+--- Dataset ---
+Total pairs: 190 (train=152, test=38)
+Features: 23 (Boruta-selected from 96)
+Test match: 10/38 (26.3%)
+
+--- Best Hyperparameters ---
+n_estimators:     300
+max_depth:        10
+max_features:     sqrt
+min_samples_leaf: 2
+class_weight:     balanced
+CV AUC (best):    0.8874 +/- 0.0810
+Decision threshold was chosen by maximizing F1 on out-of-fold training predictions.
+OOF threshold:    0.23
+OOF F1:           0.6531
+
+--- Test Set Results (threshold=0.50) ---
+AUC-ROC:     0.8429
+AUC-PR:      0.8097
+Accuracy:    0.8684
+Sensitivity: 0.7000
+Specificity: 0.9286
+PPV:         0.7778
+NPV:         0.8966
+F1:          0.7368
+
+--- Test Set Results (threshold=0.23, OOF F1) ---
+AUC-ROC:     0.8429
+AUC-PR:      0.8097
+Accuracy:    0.7895
+Sensitivity: 0.7000
+Specificity: 0.8214
+PPV:         0.5833
+NPV:         0.8846
+F1:          0.6364
+TP=7 FP=5 FN=3 TN=23
+
+--- Comparison with Makau 2025 (Serotype O) ---
+Makau test accuracy: 0.75 | F1: 0.86 | AUC: 0.92
+This model accuracy: 0.79 | F1: 0.64 | AUC: 0.84
+
+--- Top 5 Features ---
+  site_149_diff                  importance=0.1440
+  pairwise_aa_distance           importance=0.1006
+  site_171_diff                  importance=0.0726
+  site_173_diff                  importance=0.0715
+  site_197_diff                  importance=0.0556

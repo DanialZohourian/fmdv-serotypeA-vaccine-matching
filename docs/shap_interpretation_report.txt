@@ -1,0 +1,63 @@
+=== SHAP Interpretability Report ===
+Generated: 2026-10-05
+
+Base value on the probability scale: 0.4995
+SHAP values are the change in predicted match probability.
+Global values use the 190 real pairs, not the synthetic SMOTE rows.
+
+--- Global ranking (mean absolute SHAP) ---
+  site_149_diff                  0.09160  [site]
+  site_173_diff                  0.05154  [site]
+  site_197_diff                  0.04363  [site]
+  site_171_diff                  0.03994  [site]
+  pairwise_aa_distance           0.03670  [distance]
+  site_193_diff                  0.02972  [site]
+  site_096_diff                  0.02777  [site]
+  site_046_diff                  0.02553  [site]
+  site_101_diff                  0.02432  [site]
+  site_083_diff                  0.02355  [site]
+
+A site difference lowers the match probability:
+  site_149_diff  effect=-0.1741
+  site_173_diff  effect=-0.1053
+  site_197_diff  effect=-0.0938
+  site_193_diff  effect=-0.0858
+  site_171_diff  effect=-0.0769
+  site_101_diff  effect=-0.0571
+  site_167_diff  effect=-0.0547
+  site_083_diff  effect=-0.0453
+  site_164_diff  effect=-0.0391
+  site_143_diff  effect=-0.0339
+  site_142_diff  effect=-0.0299
+  site_003_diff  effect=-0.0220
+  site_140_diff  effect=-0.0219
+
+A site difference raises the match probability:
+  site_096_diff  effect=0.0650
+  site_046_diff  effect=0.0520
+  site_095_diff  effect=0.0431
+  site_093_diff  effect=0.0304
+  site_040_diff  effect=0.0194
+
+--- Iran-05 test subset ---
+Pairs: 10
+False matches: 2
+
+--- A/IRN/23/2018 vs A/Iran-05 ---
+Actual r1=0.19 (no-match) | model probability=0.585
+Largest positive SHAP (toward match):
+  pairwise_aa_distance: shap=0.0501, value=0.048
+  site_173_diff: shap=0.0349, value=0
+  site_197_diff: shap=0.0341, value=0
+  site_171_diff: shap=0.0313, value=0
+  site_142_diff: shap=0.0272, value=0
+Largest negative SHAP (toward no-match):
+  site_149_diff: shap=-0.1598, value=1
+  site_046_diff: shap=-0.0294, value=0
+  nglyc_shared: shap=-0.0152, value=2
+  site_040_diff: shap=-0.0109, value=0
+  nglyc_virus_only: shap=-0.0104, value=0
+
+Makau serotype O importance numbers in serotype_comparison_table.csv
+are the values supplied for this comparison, not re-extracted from the PDF here.
+Position numbers are trimmed alignment columns.

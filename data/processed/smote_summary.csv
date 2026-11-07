@@ -1,0 +1,5 @@
+﻿set,class,count,percent
+train_before,no-match,114,75.0
+train_before,match,38,25.0
+train_after,no-match,114,50.0
+train_after,match,114,50.0
