@@ -77,10 +77,26 @@ def residue_count(text):
     return sum(character.isalpha() for character in "".join(lines).upper() if character != "X")
 
 
+def load_explainer(model):
+    """Return a SHAP TreeExplainer for the model.
+
+    The explainer is rebuilt from the model rather than unpickled. Rebuilding costs a fraction
+    of a second for a 300-tree forest and avoids depending on a pickle that only loads under the
+    exact shap and Python versions it was written with. shap_explainer.pkl is kept in
+    model_artifacts/ for reference and is used only if rebuilding fails.
+    """
+    try:
+        import shap
+
+        return shap.TreeExplainer(model, feature_perturbation="tree_path_dependent")
+    except Exception:
+        return joblib.load(ART / "shap_explainer.pkl")
+
+
 @st.cache_resource
 def load_artifacts():
     model = joblib.load(ART / "rf_model.pkl")
-    explainer = joblib.load(ART / "shap_explainer.pkl")
+    explainer = load_explainer(model)
     meta = json.loads((ART / "model_meta.json").read_text(encoding="utf-8"))
     selected = [line.strip() for line in (ART / "selected_features.txt").read_text(encoding="utf-8").splitlines() if line.strip()]
     mapping = pd.read_csv(ART / "alignment_to_pdb_mapping.csv", encoding="utf-8-sig")
