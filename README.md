@@ -14,13 +14,11 @@ separates matched from unmatched pairs perfectly within the A/ASIA/Iran-05 subgr
 > **This is a pre-screening aid, not a replacement for the two-dimensional virus neutralisation
 > test (2D-VNT). Confirm any vaccine strain decision serologically.**
 
-<!-- ## Web application
+## Web application
 
-**[APP URL]**
+**https://fmdv-serotypea-vaccine-matching.streamlit.app/**
 
-Paste a VP1 amino acid sequence (208–220 aa) and choose a reference antiserum. The app returns a
-match probability, a binary call at the pre-specified threshold of 0.23, and a SHAP waterfall
-chart showing which positions drove the prediction. -->
+Paste a VP1 amino acid sequence (208–220 aa) and choose a reference antiserum. The app returns a match probability, a binary call at the pre-specified threshold of 0.23, and a SHAP waterfall chart showing which positions drove the prediction.
 
 ## Dataset
 
