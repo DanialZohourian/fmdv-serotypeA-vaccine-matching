@@ -1,0 +1,96 @@
+https://creativecommons.org/licenses/by/4.0/
+viruses-14-00097.pdf
+viruses-14-00097-g001.jpg
+viruses-14-00097-g001.gif
+viruses-14-00097-g002.jpg
+viruses-14-00097-g002.gif
+https://www.oie.int/fileadmin/Home/eng/Health_standards/tahm/3.01.08_FMD.pdf
+https://www.mdpi.com/article/10.3390/v14010097/s1
+viruses-14-00097-s001.zip
+10.1093/molbev/msab172
+PMC8476141
+34115138
+journal=Mol. Biol. Evol.&amp;title=Evolutionary and Ecological Drivers Shape the Emergence and Extinction of Foot-and-Mouth Disease Virus Lineages&amp;author=A.D. Di Nardo&amp;author=L. Ferretti&amp;author=J. Wadsworth&amp;author=V. Mioulet&amp;author=B. Gelman&amp;volume=38&amp;publication_year=2021&amp;pages=4346-4361&amp;pmid=34115138&amp;doi=10.1093/molbev/msab172&amp;
+10.1093/ve/veab009
+PMC8102019
+35186323
+journal=Virus Evol.&amp;title=The history of foot-and-mouth disease virus serotype C: The first known extinct serotype?&amp;author=D.J. Paton&amp;author=A. Di Nardo&amp;author=N.J. Knowles&amp;author=J. Wadsworth&amp;author=E.M. Pituco&amp;volume=7&amp;publication_year=2021&amp;pages=veab009&amp;pmid=35186323&amp;doi=10.1093/ve/veab009&amp;
+10.1098/rstb.2009.0100
+PMC2865093
+19687036
+journal=Philos. Trans. R. Soc. Lond. B Biol. Sci.&amp;title=Options for control of foot-and-mouth disease: Knowledge, capability and policy&amp;author=D.J. Paton&amp;author=K.J. Sumption&amp;author=B. Charleston&amp;volume=364&amp;publication_year=2009&amp;pages=2657-2667&amp;pmid=19687036&amp;doi=10.1098/rstb.2009.0100&amp;
+10.1128/CMR.17.2.465-493.2004
+PMC387408
+15084510
+journal=Clin. Microbiol. Rev.&amp;title=Foot-and-mouth disease&amp;author=M.J. Grubman&amp;author=B. Baxt&amp;volume=17&amp;publication_year=2004&amp;pages=465-493&amp;pmid=15084510&amp;doi=10.1128/CMR.17.2.465-493.2004&amp;
+10.1016/S0168-1702(02)00260-5
+12527438
+journal=Virus Res.&amp;title=Molecular epidemiology of foot-and-mouth disease virus&amp;author=N.J. Knowles&amp;author=A.R. Samuel&amp;volume=91&amp;publication_year=2003&amp;pages=65-80&amp;pmid=12527438&amp;doi=10.1016/S0168-1702(02)00260-5&amp;
+10.1111/tbed.12113
+23734722
+journal=Transbound. Emerg. Dis.&amp;title=Emergence and distribution of foot-and-mouth disease virus serotype A and O in Bangladesh&amp;author=S.P. Nandi&amp;author=M.Z. Rahman&amp;author=S. Momtaz&amp;author=M. Sultana&amp;author=M.A. Hossain&amp;volume=62&amp;publication_year=2015&amp;pages=328-331&amp;pmid=23734722&amp;doi=10.1111/tbed.12113&amp;
+10.1016/j.virusres.2005.03.021
+16022900
+journal=Virus Res.&amp;title=Antigenic and genetic analyses of foot-and-mouth disease virus type A isolates for selection of candidate vaccine strain reveals emergence of a variant virus that is responsible for most recent outbreaks in India&amp;author=R.K. Jangra&amp;author=C. Tosh&amp;author=A. Sanyal&amp;author=D. Hemadri&amp;author=S.K. Bandyopadhyay&amp;volume=112&amp;publication_year=2005&amp;pages=52-59&amp;pmid=16022900&amp;doi=10.1016/j.virusres.2005.03.021&amp;
+10.3201/eid2406.170715
+PMC6004861
+29774839
+journal=Emerg. Infect. Dis.&amp;title=Foot-and-Mouth Disease in the Middle East Caused by an A/ASIA/G-VII Virus Lineage, 2015–2016&amp;author=K. Bachanek-Bankowska&amp;author=A. Di Nardo&amp;author=J. Wadsworth&amp;author=E.K.M. Henry&amp;author=U. Parlak&amp;volume=24&amp;publication_year=2018&amp;pages=1073-1078&amp;pmid=29774839&amp;doi=10.3201/eid2406.170715&amp;
+10.1128/genomeA.01591-15
+PMC4722267
+26798100
+journal=Genome Announc.&amp;title=Complete genome sequence of a serotype A foot-and-mouth disease virus from an outbreak in Saudi Arabia during 2015&amp;author=K. Bachanek-Bankowska&amp;author=J. Wadsworth&amp;author=B. Thapa&amp;author=D.P. King&amp;author=N.J. Knowles&amp;volume=4&amp;publication_year=2016&amp;pages=e01591-15&amp;pmid=26798100&amp;doi=10.1128/genomeA.01591-15&amp;
+https://www.wrlfmd.org/sites/world/files/quick_media/OIE-FAO%20FMD%20Ref%20Lab%20Network%20Report%202015.pdf
+title=WRL_FMD_Reports. Annual Report 2015&amp;publication_year=2015&amp;
+https://www.wrlfmd.org/sites/world/files/quick_media/OIE-FAO%20FMD%20Ref%20Lab%20Network%20Report%202016.pdf
+title=WRL_FMD_Reports. Annual Report 2016&amp;publication_year=2016&amp;
+https://www.wrlfmd.org/sites/world/files/quick_media/OIE-FAO%20FMD%20Ref%20Lab%20Network%20Report%202017.pdf
+title=WRL_FMD_Reports. Annual Report 2017&amp;publication_year=2017&amp;
+10.1016/j.vaccine.2018.02.016
+PMC5864508
+29506922
+journal=Vaccine&amp;title=Efficacy of a high-potency multivalent foot-and-mouth disease virus vaccine in cattle against heterologous challenge with a field virus from the emerging A/ASIA/G-VII lineage&amp;author=R. Waters&amp;author=A.B. Ludi&amp;author=V.L. Fowler&amp;author=G. Wilsden&amp;author=C. Browning&amp;volume=36&amp;publication_year=2018&amp;pages=1901-1907&amp;pmid=29506922&amp;doi=10.1016/j.vaccine.2018.02.016&amp;
+10.3390/vaccines8010024
+journal=Vaccines&amp;title=Good quality A Malaysia 97 protects against A/Asia/G-VII (A/IRN/22/2015)&amp;author=A. Dekker&amp;author=B. Sanz-Bernado&amp;author=E. Phaedra&amp;author=D. King&amp;author=N.B. Singanallur&amp;volume=8&amp;publication_year=2020&amp;pages=24&amp;doi=10.3390/vaccines8010024&amp;
+title=Foot-and-Mouth Disease (Ruminants) Vaccine (Inactivated) 04/2005:0063&amp;publication_year=2019&amp;
+title=Foot and Mouth Disease (Infection with Foot and Mouth Disease Virus): Chapter 3.1.8&amp;publication_year=2021&amp;
+10.14573/altex.1712222
+30015984
+journal=Altex&amp;title=Replacement of foot-and-mouth disease virus cattle tongue titration by in vitro titration&amp;author=A. Dekker&amp;author=F. Van Hemert-Kluitenberg&amp;author=A.H. Oosterbaan&amp;author=K. Moonen&amp;author=L. Mouton&amp;volume=35&amp;publication_year=2018&amp;pages=489-494&amp;pmid=30015984&amp;doi=10.14573/altex.1712222&amp;
+10.1016/S0034-5288(18)33445-3
+178035
+journal=Res. Vet. Sci.&amp;title=Radial Immuno-Diffusion and Serum Neutralisation Techniques for the Assay of Antibodies to Swine Vesicular Disease&amp;author=S.M. Golding&amp;author=R.S. Hedger&amp;author=P. Talbot&amp;volume=20&amp;publication_year=1976&amp;pages=6&amp;pmid=178035&amp;doi=10.1016/S0034-5288(18)33445-3&amp;
+10.1016/0042-6822(57)90060-0
+13496542
+journal=Virology&amp;title=A plaque assay for foot-and-mouth disease virus and kinetics of virus reproduction&amp;author=H.L. Bachrach&amp;author=J.J. Callis&amp;author=W.R. Hess&amp;author=R.E. Patty&amp;volume=4&amp;publication_year=1957&amp;pages=224-236&amp;pmid=13496542&amp;doi=10.1016/0042-6822(57)90060-0&amp;
+4194347
+journal=Am. J. Vet. Res.&amp;title=Immunofluorescent detection of foot-and-mouth disease virus in the esophageal-pharyngeal fluids of inoculated cattle&amp;author=G.C. Mohanty&amp;author=G.E. Cottral&amp;volume=31&amp;publication_year=1970&amp;pages=1187-1196&amp;pmid=4194347&amp;
+10.1016/j.vetmic.2003.10.016
+14738779
+journal=Vet. Microbiol.&amp;title=No Foot-and-Mouth Disease Virus Transmission between Individually Housed Calves&amp;author=A. Bouma&amp;author=A. Dekker&amp;author=M.C. de Jong&amp;volume=98&amp;publication_year=2004&amp;pages=29-36&amp;pmid=14738779&amp;doi=10.1016/j.vetmic.2003.10.016&amp;
+10.1016/S0166-0934(03)00220-9
+14500125
+journal=J. Virol. Met.&amp;title=Validation of a Lightcycler-Based Reverse Transcription Polymerase Chain Reaction for the Detection of Foot-and-Mouth Disease Virus&amp;author=P. Moonen&amp;author=J. Boonstra&amp;author=R.H. van der Honing&amp;author=C.B. Leendertse&amp;author=L. Jacobs&amp;volume=113&amp;publication_year=2003&amp;pages=35-41&amp;pmid=14500125&amp;doi=10.1016/S0166-0934(03)00220-9&amp;
+10.1007/BF01863914
+journal=Archiv. f Exp. Pathol. u Pharmakol.&amp;title=Beitrag zur kollektiven Behandlung pharmakologischer Reihenversuche&amp;author=G. Kärber&amp;volume=162&amp;publication_year=1931&amp;pages=480-483&amp;doi=10.1007/BF01863914&amp;
+https://www.r-project.org/
+title=R: A Language and Environment for Statistical Computing&amp;publication_year=2019&amp;
+10.1007/978-1-4899-4539-6
+title=Analysis of Quantal Response Data in Monographs on Statistics and Applied Probability&amp;author=B.J.T. Morgan&amp;publication_year=1992&amp;
+10.1017/S0950268814003033
+PMC9150967
+25464822
+journal=Epidemiol. Infect.&amp;title=Vaccination of cattle only is sufficient to stop FMDV transmission in mixed populations of sheep and cattle&amp;author=C. Bravo de Rueda&amp;author=A. Dekker&amp;author=P.L. Eblé&amp;author=M.C.M. De Jong&amp;volume=143&amp;publication_year=2015&amp;pages=2279-2286&amp;pmid=25464822&amp;doi=10.1017/S0950268814003033&amp;
+10.1186/s13567-015-0156-5
+PMC4404111
+25928658
+journal=Vet. Res.&amp;title=Quantification of transmission of foot-and-mouth disease virus caused by an environment contaminated with secretions and excretions from infected calves&amp;author=C. Bravo de Rueda&amp;author=M.C. de Jong&amp;author=P.L. Eblé&amp;author=A. Dekker&amp;volume=46&amp;publication_year=2015&amp;pages=43&amp;pmid=25928658&amp;doi=10.1186/s13567-015-0156-5&amp;
+10.1128/mBio.00381-20
+PMC7407078
+32753488
+journal=mBio&amp;title=Quantifying the Transmission of Foot-and-Mouth Disease Virus in Cattle via a Contaminated Environment&amp;author=C. Colenutt&amp;author=E. Brown&amp;author=N. Nelson&amp;author=D.J. Paton&amp;author=P. Eblé&amp;volume=11&amp;publication_year=2020&amp;pages=e00381-20&amp;pmid=32753488&amp;doi=10.1128/mBio.00381-20&amp;
+journal=Proceedings of the Global Foot and Mouth Disease Research Alliance Symposium&amp;title=New A/ASIA/G-VII vaccine strain: A PD50 study with unexpected results in the controls&amp;author=F. Fraisse&amp;author=L. Mouton&amp;author=A. Dekker&amp;author=P.L. Eblé&amp;author=J. Coco-Martin&amp;
+10.1080/14760584.2018.1492378
+29950121
+journal=Expert Rev. Vaccines&amp;title=Foot and mouth disease vaccine strain selection: Current approaches and future perspectives&amp;author=M. Mahapatra&amp;author=S. Parida&amp;volume=17&amp;publication_year=2018&amp;pages=577-591&amp;pmid=29950121&amp;doi=10.1080/14760584.2018.1492378&amp;
+viruses-14-00097-s001.zip

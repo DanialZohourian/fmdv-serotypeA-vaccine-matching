@@ -1,0 +1,58 @@
+LOCUS       PQ847908                 639 bp    RNA     linear   VRL 06-FEB-2026
+DEFINITION  Foot-and-mouth disease virus A isolate ETH/25/2019 VP1 gene,
+            partial cds.
+ACCESSION   PQ847908
+VERSION     PQ847908.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Knowles,N.J., Wadsworth,J. and Hicks,H.M.
+  TITLE     Genotyping of foot-and-mouth disease viruses collected in Ethiopia
+            between 2019 and 2023
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Knowles,N.J., Wadsworth,J. and Hicks,H.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2025) Vesicular Disease Reference Laboratory
+            Group, The Pirbright Institute, Ash Road, Pirbright, Woking, Surrey
+            GU24 0NF, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="ETH/25/2019"
+                     /host="bovine"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Ethiopia: Lume, East Shoa, Oromia"
+                     /collection_date="26-Aug-2019"
+     CDS             <1..>639
+                     /note="capsid protein"
+                     /codon_start=1
+                     /product="VP1"
+                     /protein_id="XXQ43294.1"
+                     /translation="TTATGESADPVTTTVENYGGETQPHRRHHTDVGFIMDRFVKVTS
+                     TTPTHVIDLMQTHQHGLVGALLRAATYYFSDLEVVVRHEGNLTWVPNGTPEGALSNTG
+                     NPTAYHKAPFTRLALPYTAPHRVLATVYNGTTKYTAGTSPRRGDLGPLAARVATQLPS
+                     SFNYGALRAETIHELLVRMKRAELYCPRPLLSTEVRSGDRHKQKIIAPAKQLL"
+ORIGIN      
+        1 accactgcaa caggggagtc tgcagaccct gtcaccacca ccgtggagaa ctacggcggt
+       61 gagacacagc ctcaccgccg gcaccacacg gacgttggct tcataatgga cagatttgtg
+      121 aaagtgacca gtactactcc cacacacgtc attgatctca tgcaaaccca ccaacacgga
+      181 ctagtaggtg cgttgttgcg cgcagccacc tactatttct ctgatctgga ggtcgtggta
+      241 aggcacgagg ggaacctgac ctgggtgccc aacggcaccc cggagggcgc tctttcaaac
+      301 acgggcaacc ccacagccta ccacaaagcg ccgttcacga ggctggcact cccctacacc
+      361 gcgccacacc gcgtgctggc gacagtgtac aatgggacga ccaagtacac ggcaggtacc
+      421 tcacccaggc gaggtgacct ggggcctctt gcggcgaggg tcgctacaca gctcccctcc
+      481 tccttcaact acggggcact gcgcgctgag accatccacg agcttcttgt gcgcatgaag
+      541 cgggccgagc tctactgccc cagaccgctg ttgtcaacag aggtgagatc aggtgatagg
+      601 cacaaacaga agatcatcgc gcccgccaag cagctcctt
+//
+

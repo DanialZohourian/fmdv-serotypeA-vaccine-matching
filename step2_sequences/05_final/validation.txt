@@ -1,0 +1,12 @@
+Step 2 validation
+total_sequences: 81
+virus_sequences: 65
+serum_sequences: 16
+missing_viruses (0): none
+missing_sera (6): A/5925, A/IRN/2001, A/MAY/1997, A15, A24 TE48, A24 UV64
+bad_length (0): none
+
+Green status needs no missing field virus, no missing serum, and no protein outside 208-220 aa.
+Not green: at least one master_pairs name has no accepted VP1.
+VP1 proteins do not start with methionine; that is the capsid cleavage site, not a failed translation.
+A fixed VP1 window of genome positions 2541-3285 was not used. That window is 744 nt.

@@ -1,0 +1,70 @@
+http://www.wrlfmd.org/
+http://www.wrlfmd.org/
+http://www.wrlfmd.org/
+gr1.jpg
+gr1.gif
+gr2a.jpg
+gr2a.gif
+gr2b.jpg
+gr2b.gif
+gr2c.jpg
+gr2c.gif
+gr2ce.jpg
+gr2ce.gif
+gr3.jpg
+gr3.gif
+10.1586/14760584.8.3.347
+19249976
+journal=Expert Rev Vaccine&amp;title=Vaccination against foot-and-mouth disease virus: strategies and effectiveness&amp;author=S. Parida&amp;volume=8&amp;issue=3&amp;publication_year=2009&amp;pages=347-365&amp;pmid=19249976&amp;doi=10.1586/14760584.8.3.347&amp;
+10.1111/j.1865-1682.2009.01074.x
+19432637
+journal=Transbound Emerg Dis&amp;title=Recent spread of a new strain (A-Iran-05) of foot-and-mouth disease virus type A in the Middle East&amp;author=N.J. Knowles&amp;author=M.H. Nazem Shirazi&amp;author=J. Wadsworth&amp;author=K.G. Swabey&amp;author=J.M. Stirling&amp;volume=56&amp;issue=June (5)&amp;publication_year=2009&amp;pages=157-169&amp;pmid=19432637&amp;doi=10.1111/j.1865-1682.2009.01074.x&amp;
+10.1016/j.vaccine.2013.08.102
+PMC3898079
+24035435
+journal=Vaccine&amp;title=Genetic basis of antigenic variation in foot-and-mouth disease serotype A viruses from the Middle East&amp;author=S. Upadhyaya&amp;author=G. Ayelet&amp;author=G. Paul&amp;author=D.P. King&amp;author=D.J. Paton&amp;volume=32&amp;issue=January (5)&amp;publication_year=2014&amp;pages=631-638&amp;pmid=24035435&amp;doi=10.1016/j.vaccine.2013.08.102&amp;
+10.1017/s002217240005381x
+PMC2129748
+211160
+journal=J Hyg (Lond)&amp;title=Microneutralization tests for serological typing and subtyping of foot-and-mouth disease virus strains&amp;author=M.M. Rweyemamu&amp;author=J.C. Booth&amp;author=M. Head&amp;author=T.W. Pay&amp;volume=81&amp;issue=August (1)&amp;publication_year=1978&amp;pages=107-123&amp;pmid=211160&amp;doi=10.1017/s002217240005381x&amp;
+10.1016/s0092-1157(84)80013-x
+6207176
+journal=J Biol Stand&amp;title=Antigenic variation in foot-and-mouth disease: studies based on the virus neutralization reaction&amp;author=M.M. Rweyemamu&amp;volume=12&amp;issue=July (3)&amp;publication_year=1984&amp;pages=323-337&amp;pmid=6207176&amp;doi=10.1016/s0092-1157(84)80013-x&amp;
+10.1007/BF01731581
+7463489
+journal=J Mol Evol&amp;title=A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide-sequences&amp;author=M. Kimura&amp;volume=16&amp;issue=2&amp;publication_year=1980&amp;pages=111-120&amp;pmid=7463489&amp;doi=10.1007/BF01731581&amp;
+10.1093/molbev/msm092
+17488738
+journal=Mol Biol Evol&amp;title=MEGA4: Molecular Evolutionary Genetics Analysis (MEGA) software version 4.0&amp;author=K. Tamura&amp;author=J. Dudley&amp;author=M. Nei&amp;author=S. Kumar&amp;volume=24&amp;issue=August (8)&amp;publication_year=2007&amp;pages=1596-1599&amp;pmid=17488738&amp;doi=10.1093/molbev/msm092&amp;
+10.1016/j.vaccine.2008.01.038
+18313814
+journal=Vaccine&amp;title=High potency vaccines induce protection against heterologous challenge with foot-and-mouth disease virus&amp;author=K.E. Brehm&amp;author=N. Kumar&amp;author=H.H. Thulke&amp;author=B. Haas&amp;volume=26&amp;issue=March (13)&amp;publication_year=2008&amp;pages=1681-1687&amp;pmid=18313814&amp;doi=10.1016/j.vaccine.2008.01.038&amp;
+10.1099/vir.0.060939-0
+PMC3983758
+24584474
+journal=J Gen Virol&amp;title=Novel antibody binding determinants on the capsid surface of serotype O foot-and-mouth disease virus&amp;author=A.S. Asfor&amp;author=S. Upadhyaya&amp;author=N.J. Knowles&amp;author=D.P. King&amp;author=D.J. Paton&amp;volume=May (95)&amp;publication_year=2014&amp;pages=1104-1116&amp;pmid=24584474&amp;doi=10.1099/vir.0.060939-0&amp;
+10.1099/vir.0.000051
+PMC4631058
+25614587
+journal=J Gen Virol&amp;title=Prediction and characterization of novel epitopes of serotype A foot-and-mouth disease viruses circulating in East Africa using site-directed mutagenesis&amp;author=F.D. Bari&amp;author=S. Parida&amp;author=A.S. Asfor&amp;author=D.T. Haydon&amp;author=R. Reeve&amp;volume=May (96)&amp;publication_year=2015&amp;pages=1033-1041&amp;pmid=25614587&amp;doi=10.1099/vir.0.000051&amp;
+10.1099/vir.0.037952-0
+22158876
+journal=J Gen Virol&amp;title=Foot-and-mouth disease virus epitope dominance in the antibody response of vaccinated animals&amp;author=M. Mahapatra&amp;author=P. Hamblin&amp;author=D.J. Paton&amp;volume=93&amp;issue=March (Pt. 3)&amp;publication_year=2012&amp;pages=488-493&amp;pmid=22158876&amp;doi=10.1099/vir.0.037952-0&amp;
+10.1128/jvi.62.8.2782-2789.1988
+PMC253712
+2455819
+journal=J Virol&amp;title=Antigenic sites on foot-and-mouth disease virus type A10&amp;author=A.A. Thomas&amp;author=R.J. Woortmeijer&amp;author=W. Puijk&amp;author=S.J. Barteling&amp;volume=62&amp;issue=August (8)&amp;publication_year=1988&amp;pages=2782-2789&amp;pmid=2455819&amp;doi=10.1128/jvi.62.8.2782-2789.1988&amp;
+10.1371/journal.pone.0061122
+PMC3646828
+23667434
+journal=PLOS ONE&amp;title=Evaluation and use of in-silico structure-based epitope prediction with foot-and-mouth disease virus&amp;author=D.W. Borley&amp;author=M. Mahapatra&amp;author=D.J. Paton&amp;author=R.M. Esnouf&amp;author=D.I. Stuart&amp;volume=8&amp;issue=May (5)&amp;publication_year=2013&amp;pmid=23667434&amp;doi=10.1371/journal.pone.0061122&amp;
+10.1128/jvi.63.5.2143-2151.1989
+PMC250631
+2467993
+journal=J Virol&amp;title=Analysis of neutralizing antigenic sites on the surface of type A12 foot-and-mouth disease virus&amp;author=B. Baxt&amp;author=V. Vakharia&amp;author=D.M. Moore&amp;author=A.J. Franke&amp;author=D.O. Morgan&amp;volume=63&amp;issue=May (5)&amp;publication_year=1989&amp;pages=2143-2151&amp;pmid=2467993&amp;doi=10.1128/jvi.63.5.2143-2151.1989&amp;
+10.1016/j.vetmic.2007.06.022
+17689892
+journal=Vet Microbiol&amp;title=Evaluation of a monoclonal antibody-based approach for the selection of foot-and-mouth disease (FMD) vaccine strains&amp;author=M. Mahapatra&amp;author=N. Aggarwal&amp;author=S. Cox&amp;author=R.J. Statham&amp;author=N.J. Knowles&amp;volume=126&amp;issue=January (1–3)&amp;publication_year=2008&amp;pages=40-50&amp;pmid=17689892&amp;doi=10.1016/j.vetmic.2007.06.022&amp;
+10.1016/j.vetmic.2010.11.003
+21144677
+journal=Vet Microbiol&amp;title=Characterisation and epitope mapping of neutralising monoclonal antibodies to A24 Cruzeiro strain of FMDV&amp;author=M. Mahapatra&amp;author=C. Seki&amp;author=S. Upadhyaya&amp;author=P.V. Barnett&amp;author=J. La Torre&amp;volume=149&amp;issue=April (1–2)&amp;publication_year=2011&amp;pages=242-247&amp;pmid=21144677&amp;doi=10.1016/j.vetmic.2010.11.003&amp;

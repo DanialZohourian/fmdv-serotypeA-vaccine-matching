@@ -1,0 +1,63 @@
+LOCUS       MT442319                 639 bp    RNA     linear   VRL 14-JUN-2021
+DEFINITION  Foot-and-mouth disease virus A isolate IRN/23/2018 VP1 gene,
+            partial cds.
+ACCESSION   MT442319
+VERSION     MT442319.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Di Nardo,A., Ferretti,L., Wadsworth,J., Mioulet,V., Gelman,B.,
+            Karniely,S., Scherbakov,A., Ziay,G., Ozyoruk,F., Parlak,U.,
+            Tuncer-Goktuna,P., Hassanzadeh,R., Khalaj,M., Dastoor,S.M.,
+            Abdollahi,D., Khan,E., Afzal,M., Hussain,M., Knowles,N.J. and
+            King,D.P.
+  TITLE     Evolutionary and Ecological Drivers Shape the Emergence and
+            Extinction of Foot-and-Mouth Disease Virus Lineages
+  JOURNAL   Mol Biol Evol (2021) In press
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Di Nardo,A., Ferretti,L., Wadsworth,J., Mioulet,V., Haydon,D.T.,
+            King,D.P. and Knowles,N.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2020) Vesicular Disease Reference Laboratory
+            Group, The Pirbright Institute, Ash Road, Pirbright, Woking, Surrey
+            GU24 0NF, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="IRN/23/2018"
+                     /host="cattle"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Iran: BirJand, South Khorasan"
+                     /collection_date="12-Feb-2018"
+     CDS             <1..>639
+                     /note="capsid polypeptide; 1D"
+                     /codon_start=1
+                     /product="VP1"
+                     /protein_id="QWL55415.1"
+                     /translation="TTTAGESADPVTTTVENYGGETQVQRRQHTDVGFIMDRFVKINP
+                     VSPTHVIDLMQTHQHALVGALLRAATYYFSDLEIVVRHDGNLTWVPNGAPEGALANTS
+                     NPTAYHRQPFTRLALPYTAPHRVLATVYNGVNKYSTTGGGRRGDLGSLAARVAAQLPS
+                     SFNFGAIRATTIHELLVRMKRAELYCPRPLLAVEVLSSDRHKQKIIAPAKQLL"
+ORIGIN      
+        1 accaccaccg ccggggagtc agcagaccct gttaccacca ccgttgagaa ctacggcggt
+       61 gaaacacagg tgcagcgacg ccaacacact gacgtcggtt tcatcatgga caggtttgtg
+      121 aaaatcaacc ctgtgagccc cacgcacgtc atcgatctca tgcagacgca ccagcacgcg
+      181 ctggtaggtg cccttttgcg tgcagccacg tactacttct ccgacttgga gattgtggtg
+      241 cgtcacgatg gcaatttgac gtgggtgccc aatggagcac ctgaaggagc cttggctaac
+      301 acaagcaatc ccactgctta ccacaggcag ccattcacca gacttgccct cccttacacc
+      361 gcgccgcacc gagtgctggc aacagtgtac aacggggtga acaagtactc cacaactggt
+      421 ggtggcagaa ggggcgatct gggctctctt gcggcgcgag tcgccgcaca gctacccagt
+      481 tctttcaact ttggtgcaat ccgggccacg accatccacg agcttctcgt gcgcatgaaa
+      541 cgcgctgagc tctattgccc taggcccctg ctggcagtgg aagtgttgtc ttcggacaga
+      601 cacaaacaaa agatcattgc ccctgcaaaa cagcttttg
+//
+

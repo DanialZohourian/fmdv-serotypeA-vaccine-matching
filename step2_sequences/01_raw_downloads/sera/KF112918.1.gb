@@ -1,0 +1,96 @@
+LOCUS       KF112918                2205 bp    RNA     linear   VRL 25-FEB-2014
+DEFINITION  Foot-and-mouth disease virus - type A isolate A15/Bangkok/TAI/60
+            capsid protein gene, partial cds.
+ACCESSION   KF112918
+VERSION     KF112918.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 2205)
+  AUTHORS   Ludi,A.B., Horton,D.L., Li,Y., Mahapatra,M., King,D.P.,
+            Knowles,N.J., Russell,C.A., Paton,D.J., Wood,J.L., Smith,D.J. and
+            Hammond,J.M.
+  TITLE     Antigenic variation of foot-and-mouth disease virus serotype A
+  JOURNAL   J. Gen. Virol. 95 (PT 2), 384-392 (2014)
+   PUBMED   24187014
+REFERENCE   2  (bases 1 to 2205)
+  AUTHORS   Knowles,N.J. and Ludi,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAY-2013) World Reference Laboratory for
+            Foot-and-Mouth Disease, The Pirbright Institute, Ash Road,
+            Pirbright, Woking, Surrey GU24 0NF, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene v. 8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2205
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="A15/Bangkok/TAI/60"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Thailand: Bangkok"
+                     /collection_date="1960"
+                     /note="host unknown"
+     CDS             <1..>2205
+                     /note="VP1"
+                     /codon_start=1
+                     /product="capsid protein"
+                     /protein_id="AGO58318.1"
+                     /translation="GAGQSSPATGSQNQSGNTGSIINNYYMQQYQNSMDTQLGDNAIS
+                     GGSNEGSTDTTSTHTTNTQNNDWFSKLASSAFTGLFGALLADKKTEETTLLEDRILTT
+                     RNGHTTSTTQSSVGVTYGYSTKEDHVSGPNTSGLETRVVQAERFFKKHLFDWTTDKPF
+                     GHLEKLKLPTDHKGVYGHLVDSYAYMRNGWDVEVSAVGNQFNGGCLLVAMVPEWKALT
+                     LREKYQLTLFPHQFINPRTNMTAHITVPYLGVNRYDQYKKHKPWTLVVMVVSPLTTST
+                     VGAEQIKVYANIAPTHVHVAGELPSKEGIVPVACSDGYGGLVTTDPKTADPVYGKVYN
+                     PPRTNYPGRYTNLLDVAEACPTFLCFDDGKPYVVTRTDGQRLLAKFDLSLAAKHMSNT
+                     YLAGLAQYYTQYSGTINLHFTFTGSTDSKARYMVAYVPPGVETPPDTPEKAAHCIHAE
+                     WDTGLNSKFTFSVPYMSAADYAYTASDEAETTNVQGWVCIYQITHGKAEGDTLVVSAS
+                     AGKDFELRLPVDPRTQTTTTGESADPVTTTVENYGGETQVQRRQHTDVGFIMDRFVKI
+                     TNLSPTHVIDLMQTHQHGLVGALLRAATYYFSDLEIVVKHDGNLTWVPNGAPEAALGN
+                     TSNPTAYNKAPFTRLALPYTAPHRVLATVYNGTNKYSASGSARRGDLGSLAARDAAQL
+                     PASFNFGAIRATTIHELLVRMKRAELYCPRPLLAVEVSSQDRHKQRIIAPAKQ"
+ORIGIN      
+        1 ggagccgggc aatccagccc ggctaccggc tcgcagaatc agtctggtaa cacaggaagc
+       61 atcattaaca actactacat gcagcagtac cagaactcaa tggacacaca acttggtgac
+      121 aatgccatca gtggagggtc taacgagggc tccacggaca caacctccac acacacaacc
+      181 aacactcaga acaacgactg gttttcaaag cttgcaagtt ctgccttcac cggtcttttc
+      241 ggcgcgttgc ttgccgacaa gaagacggag gagaccactc ttctggaaga ccgaattctc
+      301 accacccgca acggacacac cacctccacg acacagtcga gtgtgggagt cacgtacgga
+      361 tactccacca aggaagatca cgtgtccggg cctaacacat ctggcctgga gacgcgggtg
+      421 gtgcaggcag agagattctt caagaaacac ttgtttgact ggacaacaga caagcctttt
+      481 ggacatttgg aaaaactgaa acttcccacc gaccacaaag gtgtctacgg gcacctggtt
+      541 gactcatatg catatatgag aaacggctgg gacgtggagg tgtctgctgt tggcaaccag
+      601 ttcaatggcg ggtgtctcct ggtggccatg gtccctgagt ggaaggcact caccctgcgt
+      661 gagaagtacc aactcaccct tttcccgcac cagttcatca accccagaac caacatgacc
+      721 gcacacatca cggttccgta ccttggtgtg aaccggtacg accagtacaa gaagcacaaa
+      781 ccgtggaccc tggtcgtgat ggtggtgtca cctctcacca ccagcaccgt tggtgcggaa
+      841 caaatcaagg tctacgccaa catcgccccg acccacgttc acgtagccgg cgaactccct
+      901 tcaaaggagg gaattgtacc ggttgcttgt tcagacggtt acggtggttt ggtgacaaca
+      961 gaccccaaga cagctgaccc tgtctacggc aaggtgtaca acccgcccag gaccaactac
+     1021 cccgggcgtt acacaaacct gttggacgta gcagaggcct gcccaacctt tctttgtttc
+     1081 gacgacggga aaccgtatgt tgtgacgagg acggacgggc agcgtctcct ggctaagttt
+     1141 gacctttctc ttgccgcaaa acacatgtcc aacacctacc ttgcaggttt agcacagtac
+     1201 tacacacagt attctggcac cattaatctg cacttcacct tcactggttc aactgactca
+     1261 aaagcccgct acatggtggc ctacgttccg cctggcgtgg aaacgccacc ggacacacct
+     1321 gagaaggccg cacactgtat ccatgctgag tgggacacag gactgaactc caaatttact
+     1381 ttttcagtcc cgtacatgtc tgccgctgac tacgcataca ctgcgtcaga tgaggcagag
+     1441 acaacaaatg tacagggatg ggtctgcatt taccagatta cacacgggaa agctgagggc
+     1501 gacactctgg tcgtgtcggc tagcgccggc aaagacttcg agttacgtct cccggttgat
+     1561 ccccgcacac agaccaccac cactggggag tctgcagacc cagtcaccac cactgttgag
+     1621 aactacggtg gagagacaca agtccaaaga cgacaacaca cagatgtcgg cttcataatg
+     1681 gacagatttg taaagataac aaacctgagt cccacacatg tcattgacct catgcaaacc
+     1741 caccaacacg gactggtggg tgccctgctg cgtgcggcca cgtactactt ctccgacctg
+     1801 gagattgtcg tgaagcacga tggcaacctg acctgggtgc ccaacggcgc gccagaagca
+     1861 gccttgggca acacgagcaa ccccaccgcc tacaacaagg cgccatttac aagacttgcc
+     1921 ctcccttaca ccgcgccaca ccgcgtgctg gcaacagtgt acaacgggac gaacaagtac
+     1981 tctgcaagtg gctcggccag acgaggtgac ctggggtctc tcgcggcgag agatgccgcg
+     2041 caactccccg cctctttcaa ctttggtgca attcgggcca caaccatcca tgaacttctt
+     2101 gtgcgcatga agcgtgccga gctttactgc cccagaccac tgttggcggt ggaagtctcg
+     2161 tcgcaggaca gacacaagca aaggatcatt gcaccagcaa agcaa
+//
+

@@ -1,0 +1,62 @@
+LOCUS       EU414528                 639 bp    RNA     linear   VRL 26-JUL-2016
+DEFINITION  Foot-and-mouth disease virus - type A isolate A/IRN/7/2003 VP1 (1D)
+            gene, partial cds.
+ACCESSION   EU414528
+VERSION     EU414528.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Schumann,K.R., Knowles,N.J., Davies,P.R., Midgley,R.J.,
+            Valarcher,J.F., Raoufi,A.Q., McKenna,T.S., Hurtle,W., Burans,J.P.,
+            Martin,B.M., Rodriguez,L.L. and Beckham,T.R.
+  TITLE     Genetic characterization and molecular epidemiology of
+            foot-and-mouth disease viruses isolated from Afghanistan in
+            2003-2005
+  JOURNAL   Virus Genes 36 (2), 401-413 (2008)
+   PUBMED   18278548
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Knowles,N.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JAN-2008) World Reference Laboratory for
+            Foot-and-Mouth Disease, Institute for Animal Health, Pirbright
+            Laboratory, Ash Road, Pirbright, Woking, Surrey GU24 0NF, United
+            Kingdom
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="A/IRN/7/2003"
+                     /host="bovine"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Iran"
+     gene            <1..>639
+                     /gene="1D"
+     CDS             <1..>639
+                     /gene="1D"
+                     /note="capsid polypeptide"
+                     /codon_start=1
+                     /product="VP1"
+                     /protein_id="ABZ80838.1"
+                     /translation="TTATGESADPVTTTVENYGGETQAQRRQHTDVGFIMDRFVKISP
+                     KTPTHVIDLMQTHQYALVGALLRAATYYFSDLEIVVRHEGNLTWVPNGAPEAALSNTS
+                     NPTAYHKAPFTRLALPYTAPHRVLATVYNGVNKYSSTSGGRRGDPGPLATRVAAQLPS
+                     SFNFGAIRATTIHELLVRMKRAELYCPRPLLAVEVSSQDRHKQKIIAPAKQFL"
+ORIGIN      
+        1 accactgcta ccggggagtc tgcagaccct gtcactacca ctgttgagaa ctacggtggc
+       61 gagacacagg cccagcgacg ccaacacact gacgtcggct tcataatgga caggtttgtg
+      121 aaaataagtc ctaagacccc aacacacgtc attgacctta tgcaaacaca ccagtacgcg
+      181 ctggtgggag ccctcttgcg agcggctacg tactacttct ccgacctgga gattgtggtg
+      241 cgtcacgaag gtaatttgac gtgggtgccc aatggagcac ctgaagcagc cttgtctaac
+      301 acaagcaacc ccaccgccta ccacaaggcg ccgttcacga ggcttgcgct tccttacacc
+      361 gcgccgcacc gagtgttggc aacggtgtac aacggcgtga acaagtactc atcaactagt
+      421 ggaggtagac gaggtgaccc agggcctctt gcgacacgag tcgccgcaca gctccctagc
+      481 tcttttaatt ttggtgcaat tcgcgccacg accatccacg aacttctcgt gcgcatgaaa
+      541 cgtgctgagc tctattgtcc caggccactg ctggcagtag aagtgtcgtc acaggacaga
+      601 cacaagcaaa agatcattgc acctgcaaaa cagttcctg
+//
+

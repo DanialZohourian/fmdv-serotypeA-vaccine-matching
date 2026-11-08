@@ -1,0 +1,112 @@
+Page 1 of 3
+FMD Vaccine Matching Strain Differentiation Report
+Lab Reference Batch Number: WRLFMD/2022/000090
+Country of Origin*: Egypt
+Date Received: 08/12/2022  
+Sender*:
+ 
+Number Tested: 5
+Diagnostic work has now been completed in respect of the samples you submitted and the details are as attached.
+Report Number: 1308
+The results relate only to the samples tested and as received. This report shall not be reproduced except in full.
+To help us improve the quality of our service, please send any suggestions or requests to the Reference Laboratories by email 
+(reporting@pirbright.ac.uk).
+The Pirbright Institute Ash Road, Pirbright, Surrey GU24 0NF UK
+Tel: +44 (0)1483 232441 Fax: +44 (0)1483 232448 Website: www.pirbright.ac.uk 
+
+Page 2 of 3
+FMD Vaccine Matching Strain Differentiation Report - Final
+WRLFMD/2022/000090
+Lab Reference Batch Number:
+23/03/2023
+Report Date:
+1308
+Report Number:
+Date Tests Completed: 
+Country of Origin*: 
+Egypt
+2dm VNT r1 RESULTS
+EGY 10
+2021
+EGY 1
+2022
+EGY 2
+2022
+22/03/2023
+EGY 7
+2021
+EGY 8
+2021
+A22 Iraq, Boehringer Ingelheim
+0.13, 1.86
+0.07, 1.57
+0.08, 1.62
+A Eritrea 98, Boehringer Ingelheim
+0.16, 1.86
+0.10, 1.65
+0.21, 1.98
+A GVII 2015, Boehringer Ingelheim
+0.01, 0.14
+0.13, 1.13
+0.04, 0.62
+A Iran 05, Boehringer Ingelheim
+0.22, 1.98
+0.06, 1.42
+0.07, 1.47
+A Saudi 95, Boehringer Ingelheim
+0.03, 0.92
+0.10, 1.48
+0.11, 1.51
+A/TUR/20/06, MSD Animal Health
+0.03, 1.03
+0.07, 1.42
+0.05, 1.26
+O1 Campos, Biogénesis Bagó
+0.46, 2.60
+0.76, 2.81
+O-3039, Boehringer Ingelheim
+0.36, 1.73
+0.66, 1.99
+O Campos, Boehringer Ingelheim
+0.39, 1.96
+0.69, 2.20
+O Manisa, Boehringer Ingelheim
+0.48, 2.27
+0.54, 2.32
+O Panasia 2, Boehringer Ingelheim
+0.39, 2.23
+0.73, 2.51
+O/TUR/5/09, MSD Animal Health
+0.39, 2.08
+0.89, 2.44
+Interpretation of Results
+For each field isolate the r1-value is shown followed by the heterologous neutralisation titre (r1-value, titre)
+The r1-values shown below, represent the one-way serological match between vaccine strain and field isolate, calculated from the comparative reactivity of an antiserum, raised against the vaccine 
+in question, to the vaccine virus and the field isolate.
+r1 greater than 0.3 - suggest that there is a close antigenic relationship between field isolate and vaccine strain. A potent vaccine containing the vaccine strain is likely to confer protection.
+r1 less than 0.3 - suggest that the field isolate is antigenically different to the vaccine strain. Where there is no alternative, the use of this vaccine should carefully consider vaccine potency, the 
+possibility to use additional booster doses and monitoring of vaccinated animals for heterologous responses.
+0 = no neutralisation for the field virus was observed at a virus dose of a 100 TCID50
+Heterologous neutralisation titres for the field isolates are included as an indicator of protection.
+NOTE: Vaccines from different manufactures may perform differently although the vaccine strains are the same.
+FMD Vaccine Matching Strain Differentiation Report
+Final results are determined subject to acceptable test validation criteria unless otherwise stated.
+ * Data supplied by the customer.
+
+Page 3 of 3
+FMD Vaccine Matching Strain Differentiation Report
+WRLFMD/2022/000090
+Lab Reference Batch Number:
+Report Number:
+1308
+Date Tests Completed: 
+22/03/2023
+Country of Origin*: 
+Egypt
+Report Date:
+23/03/2023
+Notes
+1. Vaccine efficacy is influenced by vaccine potency, antigenic match and vaccination regime. Therefore, it is possible that poor antigenic match may be compensated by high potency vaccines and 
+by administering more than one vaccine dose at suitable intervals. Thus, a vaccine with a weak antigenic match to a field isolate, as determined by serology, may nevertheless afford some 
+protection if it is of sufficiently high potency and is administered under a regime to maximise host antibody responses (Brehm, 2008).
+2. Vaccine matching data generated in this report only considers antibody responses in cattle after a single vaccination (typicall

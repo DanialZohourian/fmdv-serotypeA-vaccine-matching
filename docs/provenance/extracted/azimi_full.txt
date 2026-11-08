@@ -1,0 +1,835 @@
+Archives of Razi Institute, Vol. 75, No. 3 (2020) 349-357                       
+ 
+                            Copyright © 2020 by 
+ 
+  
+ 
+ 
+ 
+Razi Vaccine & Serum Research Institute 
+ 
+           DOI: 10.22092/ARI.2019.123610.1287 
+ 
+Original Article  
+Genetic and Antigenic Evaluation of Foot-and-mouth Disease 
+Virus Type A in the Endemic Area of Iran within 2014-2015 
+  
+ 
+Azimi, S. M. 1 ∗, Mahravani, H. 1, Lotfi 2, M. 
+ 
+1. Foot and Mouth Disease Reference Laboratory, Razi Vaccine and Serum Research Institute, Agricultural Research 
+Education and Extension Organization (AREEO), Karaj, Iran     
+2. Department of Quality Control, Razi Vaccine and Serum Research Institute, Agricultural   Research Education and 
+Extension Organization (AREEO), Karaj, Iran 
+ 
+ Received 30 December 2018; Accepted 20 May 2019 
+Corresponding Author: m.azimi@rvsri.ac.ir 
+ 
+ 
+ABSTRACT 
+The foot-and-mouth disease virus (FMDV) with a wide variety of genomes and complicated biology is one of 
+the infectious agents that put the lives of animals at risk. Therefore, to introduce suitable strains for vaccine 
+production, it is essential to constantly evaluate genetic changes of circulating viruses in field. Within 2014-
+2015, a total of 126 clinical specimens consisting of epithelial tissue and vesicular fluid from tongue, dental pad, 
+and hoofs suspected of FMD virus were submitted to the Reference Laboratory for FMD in Razi Vaccine and 
+Serum Research Institute, and 86 of them were identified as FMD virus type A using sandwich Enzyme-Linked 
+Immunosorbent Assay (ELISA). This virus was isolated from 42 samples from 16 provinces using cell culture. 
+Firstly, the coding region that produces the main part of viral capsid was amplified by Polymerase chain 
+reaction (PCR). This part of the genome by 800 bp length was related to the 1D gene that synthesizes the VP1 
+protein. The phylogenetic analysis of VP1 coding region determined two distinct genotypes with more than 15% 
+nucleotide differences. The first cluster consisted of closely related viruses registered in the GeneBank of 
+neighboring countries, including Afghanistan, Pakistan, and Turkey. All samples in Cluster1 were determined as 
+relative viruses with genotype Iran-05. In-vitro serological examination indicated an antigenic relationship 
+between Cluster 1 viruses and routine vaccine strain (A-IRN-2013). The second cluster with only two members 
+was genetically far from earlier ones and could be considered a separate genotype. Furthermore, it was revealed 
+that cluster 2 has not been previously reported in Iran. Genetic tracing indicated that these viruses might have 
+been originated from circulating viruses from India.  Antigenic evaluation exhibited that this group could not be 
+cross-protected by the routine vaccinal strain (A-IRN-2013) used during the research period.  
+Keywords: Foot and mouth disease virus, Serotype A, Genotyping, Phylogenetic  
+ 
+Évaluation Génétique et Antigénique du Virus de la Fièvre Aphteuse de Type A dans les régions 
+Endémiques d'Iran en 2014-2015 
+Résumé: Le virus de la fièvre aphteuse (FMDV), montrant une grande variété  génomique et une biologie 
+compliquée, est l'un des agents infectieux menaçant la vie des animaux. Afin d’identifier les souches appropriées 
+pour la production de vaccins, il est essentiel d'évaluer constamment les changements génétiques des virus en 
+circulation dans le pays. Au cours de la période 2014-2015, un total de 126 échantillons cliniques constitués de 
+tissu épithélial et de liquide vésiculaire provenant de la langue, du coussinet dentaire et des sabots suspectés de 
+fièvre aphteuse ont été soumis au laboratoire de référence pour la fièvre aphteuse dans l'Institut de recherche sur 
+les vaccins et les sérums Razi, et 86 d'entre eux ont été identifiés comme étant le virus de la fièvre aphteuse de 
+type A en utilisant un test d'immunosorbant lié enzymatique en sandwich (ELISA).  Ce virus a été isolé à partir 
+  
+ 
+
+Azimi et al / Archives of Razi Institute, Vol. 75, No. 3 (2020) 349-357 
+350 
+INTRODUCTION 
+Foot-and-mouth disease virus (FMDV) is responsible 
+for the most severe contagious vesicular disease which 
+decreases livestock production and trade. FMD is 
+endemic in many parts of the world, including Asia, 
+Middle East, Africa, and South America (Jamal and 
+Belsham, 2013). The FMD is difficult and costly to 
+control, especially in the endemic region, since it is 
+highly contagious and spreads rapidly and vigorously. 
+Moreover, its unstable genome creates antigenic 
+variants that can escape from immune pressure. In this 
+regard, the survival of the virus in the outbreak region 
+is facilitated by the existence of various sensitive 
+species (including domestic and wild animals) (Bastos 
+et al., 2001). Seven distinct serotypes of this virus, 
+namely O, A, Asia1, SAT1, SAT2, SAT3, and C, have 
+so far been detected all over the world (Jamal and 
+Belsham, 2013). All seven serotypes generate the same 
+clinical manifestation; nonetheless, infection with each 
+type does not protect the animal from infection with the 
+other ones. Even involvement with a subtype might not 
+protect the animal from infection with other subtypes of 
+the same type (Bastos et al., 2001). Serotype A is one 
+of the most important circulating FMDV in a 
+widespread area of the world (Knowles et al., 2009). 
+This virus is responsible for several outbreaks in Iran 
+every year. Moreover, it is one of the most genetically 
+and antigenically variable serotypes. Nowadays, more 
+than 32 subtypes and 26 genotypes have been reported 
+for this virus (Mohapatra et al., 2011). FMDV genome 
+is a positive single-stranded RNA (genus Aphthovirus, 
+family Picornaviridae) which is packed in an 
+icosahedral capsid. The capsid is composed of 60 
+copies of four different structural proteins (VP1-VP4). 
+VP1 has the major antigenic site of the virus (Knowles 
+and Samuel, 2003). The importance of this protein 
+subunit lies in its significant contribution to the 
+generation of neutralizing antibodies since it has the 
+ligand of the virus to mediate attachment and entry into 
+permissive host cells (Knowles and Samuel, 2003). At 
+the same time, it performs the main role in the 
+determination of the FMDV serotype (Ludi et al., 
+2014). The genetic coding sequence of VP1 (1D) is one 
+of the most hypervariable parts of the genome (Haydon 
+et al., 2001). The changes in sequence can affect 
+immunological 
+properties 
+without 
+functional 
+impairment (longjam and Tayo, 2011). For many years, 
+the nucleotide sequence of 1D has been used for the 
+assessment of phylogenetic diversity, genetic evolution, 
+ 
+de 42 échantillons de 16 provinces en utilisant la culture cellulaire. Premièrement, la Ce virus a été isolé à partir de 
+42 échantillons provenant de 16 provinces par culture cellulaire. À cet effet, la région codante qui produit la partie 
+principale de la capside virale a été amplifiée par réaction en chaîne par polymérase (PCR). Cette partie du génome 
+d'une longueur de 800 pb était liée au gène 1D qui synthétise la protéine VP1. L'analyse phylogénétique de la 
+région codante VP1 a déterminé deux génotypes distincts avec plus de 15% de différences nucléotidiques. Le 
+premier groupe était constitué de virus étroitement apparentés enregistrés dans la GeneBank des pays voisins, 
+notamment l'Afghanistan, le Pakistan et la Turquie. Tous les échantillons du Cluster1 ont été déterminés comme des 
+virus relatifs au génotype Iran-05. Un examen sérologique in vitro a indiqué une relation antigénique entre les virus 
+du Cluster 1 et la souche vaccinale conventionnelle (A-IRN-2013). Le deuxième groupe comprenant  seulement 
+deux membres était génétiquement éloigné des précédents et pourrait être considéré comme un génotype distinct. 
+En outre, il s’est avéré que le groupe 2 n'avait pas été signalé auparavant en Iran. Le traçage génétique a indiqué que 
+ces virus pourraient provenir de virus en circulation en Inde. L'évaluation antigénique a montré que ce groupe ne 
+pouvait pas être protégé par la souche vaccinale actuellement utilisée  (A-IRN-2013). 
+Mots clés: Virus de la fièvre aphteuse, Sérotype A, Génotypage, Phylogénétique 
+
+ Azimi et al / Archives of Razi Institute, Vol. 75, No. 3 (2020) 349-357 
+ 
+ 
+351 
+and molecular epidemiology of FMDV (Ahmed et al., 
+2012). The VP1 genetic analysis provides valuable 
+information regarding tracing the movement and origin 
+of the virus in the field (Mohapatra et al., 2011). 
+Successful FMD control programs depend on the 
+selection 
+of 
+efficient 
+vaccinal 
+strains. 
+The 
+implementation 
+of 
+this 
+process 
+needs 
+large 
+epidemiological data and genotyping of the field 
+isolates. In addition, continuous monitoring of 
+serological-cross reactivity between circulating viruses 
+and vaccinal strains can be of great help to select 
+suitable viruses for vaccine production (Bari et al., 
+2014). With this background in mind, the present study 
+aimed to evaluate circulating FMDV type A in the 
+outbreak area of Iran within 2014-2015. Furthermore, it 
+was targeted to compare the genetic and antigenic 
+characters of field isolates with used vaccinal strain. 
+Despite a considerable number of studies on 
+genotyping of FMDV type A around the world, there 
+exists a paucity of studies on the genetic diversity 
+estimation and vaccine matching evaluation in this part 
+of the Middle East.  
+MATERIAL AND METHODS 
+Clinical Samples. For the purpose of the current 
+study, a total of 126 clinical specimens consisting of 
+epithelial tissue and vesicular fluid from tongue, dental 
+pad, and hoofs were submitted to Reference Laboratory 
+for FMD in Razi vaccine and serum research institute. 
+It is noteworthy that 56 (44.5%) and 70 (55.5%) of 
+these specimens were collected in 2014 and 2015, 
+respectively. Most of the samples were of bovine 
+origin, and only 21 (16.7%) samples were collected 
+from the small ruminant (sheep and goat). Initially, all 
+samples were prepared as instructed by OIE manual 
+(OIE Terrestrial Manual 2015, Chapter 2.1.8.) and 
+screened by antigen detection sandwich enzyme-linked 
+immunosorbent assay (ELISA) kit according to 
+manufacturers' instruction (IZSLER, FMDV Antigen 
+Detection ELISA, and Serotyping Kit). For virus 
+isolation, all samples were inoculated to IB-RS2 cell 
+line with 1-3 subsequent passages.  
+Reverse 
+transcription-polymerase 
+chain 
+reaction and DNA sequencing. The viral RNA of 
+clinical samples and routine vaccinal strain (A-IRN-
+2013) were extracted using a silica membrane filter 
+(High Pure Viral RNA Extraction Kit, Roche) from the 
+supernatant of the infected IB-RS-2 cell cultures. The 
+VP1 gene was amplified by A-1C612 FMDV type A 
+specific primer (5’-TAGCGCCGGCAAAGACTTT 
+GA-3’) and FMD-2B58 universal antisense primer 
+(NK61) (5’-GACATGTCCTCCTGCATCTG-3’). DNA 
+amplification was performed using 5 µl extracted RNA 
+as a template and one-step. Reverse transcription-
+polymerase chain reaction (RT-PCR) Kit (Titanium® 
+One-Step RT-PCR Kit, Roche Lifesciences) as 
+previously described (Knowles et al., 2009). The 
+obtained RT-PCR amplicons (800 bp) were purified by 
+PCR product gel purification Kit (High Pure PCR 
+Product Purification Kit, Sigma-Aldrich) in accordance 
+with the manufacturer’s instruction. Cleaned-up PCR 
+product 
+was 
+qualified 
+on 
+a 
+NanoDrop 
+2000 
+spectrophotometer (Fisher Scientific, Pittsburg, PA, 
+USA) and sent for sequencing (Eurofins MWG Operon 
+LLC, Germany). 
+Analysis of the sequence data. The comparative 
+analysis of VP1 sequences of field viruses was 
+performed by Nucleotide Biological Local Alignment 
+Tool 
+(BLAST) 
+of 
+the 
+National 
+Center 
+for 
+Biotechnology Information (NCBI) database. In this 
+process, the most related FMD viruses in the field 
+isolates were identified from the GeneBank. All 
+sequences, including clinical samples, GeneBank-
+related viruses, vaccinal strain (A-IRN-2013), and 
+prototype viruses, were aligned using Bioedit 7.2.5 
+software (Hall, 1999) and Clustal w 1.83 (Thompson et 
+al., 1994). Prototype viruses which were recovered 
+from the World Reference laboratory of FMD 
+(http://www.wrlfmd.org/fmd_genotyping/prototypes.ht
+m) consisted of representative viruses from genotype 
+Iran-05. Moreover, some old prototype viruses from 
+
+Azimi et al / Archives of Razi Institute, Vol. 75, No. 3 (2020) 349-357 
+352 
+other genotypes (e.g., Iran-87, Iran-96, Iran-99, and 
+A22) were included in our analysis. The alignment file 
+was used to construct distance matrices the Kimura 2-
+parameter nucleotide substitution model (Kimura, 
+1980) as implemented in MEGA 4.0 (Tamura et al., 
+2007). Neighbor-joining trees were then constructed 
+using MEGA 4.0. Tree robustness was assessed with 
+1,000 bootstrap replicates.  
+Polyclonal antisera. Bovine vaccine sera (BVS) were 
+obtained from two 10-month-old seronegative bulls. The 
+animals were injected with the immunizing commercial 
+aluminum hydroxide monovalent vaccine containing the 
+A-IRN-2013 strain. The vaccination was performed 
+according to manufacturers’instructions (Razi Vaccine 
+and Serum Research Institute, Iran). 21 days 
+after the first 
+injection, 
+the 
+animals 
+received 
+a 
+second booster injection and bled 15 days later. Before 
+performing the serological test, the quality of antisera 
+was checked using the seroneutralisation test according 
+to OIE manual instruction (OIE Terrestrial Manual 
+2015, Chapter 2.1.8.).  
+ Two-dimensional virus neutralization test (2D-
+VNT). BVS derived from two bulls were pooled and 
+used in the serological test. The antibody titers were 
+calculated using the regression test since the log10 of 
+reciprocal 
+antibody 
+dilution 
+required 
+50% 
+neutralization of 100 tissue culture viral infectious units 
+(log10SN50/100TCID50). The antigenic relationship of 
+the field-isolated viruses was calculated by the 
+following ratio: r1=reciprocal neutralizing antisera titer 
+against the heterologous virus/reciprocal neutralizing 
+antisera titer against the homologous virus (A-IRN-
+2013). The antigenic relationship (r1-value) between the 
+homologous and heterologous virus falling in the range 
+of 0.3-1.0 was representative of a reasonable level of 
+cross-protection. On the other hand, the values less than 
+0.3 
+suggested 
+a 
+significant 
+antigenic 
+diversity 
+(Rweyemamu, 1984).  
+RESULTS 
+In the current study, out of 128 collected samples, 86 
+serotype A were detected by Elisa. It is noteworthy that 
+out of these 86 serotypes, 36 (41.9%) and 50 (58.1%) 
+specimens were collected in 2014 and 2015, 
+respectively. During virus isolation by IB-RS2 cell line, 
+most of the samples (72%) generated the cytopathic 
+effect (CPE) in the first passage. In most cases, the 
+viruses recovered from low-quality samples failed 
+probably due to incorrect transportation of clinical 
+specimens or improper sampling method.  
+DNA sequencing and analysis of the sequence 
+data. In general, a total of 76 nucleotide sequences of 
+the VP1-coding region (near 800 bp) were genetically 
+investigated. As demonstrated in Figure 1, vaccine 
+strain A-IRN-2013 and 42 filed samples were isolated 
+from 16 provinces and used in genotyping assessment 
+(Table 1). Using Basic Local Alignment Search 
+Tool (BLAST) in NCBI, more than six related 
+sequences (Expect value equal zero) were found for 
+each field sample. Finally, 26 most similar viruses were 
+selected from the GeneBank as the related sequences of 
+clinical samples and used in phylogenetic analysis. 
+These nucleotide sequences were registered in 
+GeneBank from Iran and neighboring countries (their 
+accession number is provided in Figure 2). Seven 
+prototype 
+viruses, 
+namely 
+A/IRN/1/2005, 
+A/IRN/125/2010SIS-10, A/IRN/15/2012SIS-12, A/IRN/22/99, 
+A/IRN/1/96, A/IRN/2/87, and A22/IRQ/24/64, were 
+added in the genetic evaluation to compare the 
+nucleotide divergence with ancient viruses that no 
+longer circulated in the field, such as Iran-87, Iran-96, 
+and Iran-99. After the phylogenetic analysis of all field 
+isolates, A-IRN-2013 and the GeneBank-selected 
+viruses were categorized in topotype Asia and cleaved 
+in two distinct clusters (Figure 2). The genetic diversity 
+of two designated Clusters 1 and 2 was more than 15%.  
+Cluster 1 consisted of all the recovered viruses from 16 
+provinces in 2014 (depicted as A in Table 1) and the 
+main part of submitted samples in 2015 (displayed as B 
+in Table 1). The sequence identity matrix determined 
+that members of this group had more than 89% identity 
+(data are not illustrated). This cluster included samples 
+from all provinces and GeneBank-related viruses from 
+neighboring countries (e.g., Pakistan, Afghanistan, 
+
+ Azimi et al / Archives of Razi Institute, Vol. 75, No. 3 (2020) 349-357 
+ 
+ 
+353 
+Turkey, Kazakhstan, and Bahrain) and already 
+registered viruses from Iran. In addition, this collection 
+surrounded prototype viruses from lineage Iran-05, 
+namely 
+A/IRN/1/2005, 
+A/IRN/125/2010SIS-10, 
+and 
+A/IRN/15/2012SIS-12. Viruses in this cluster displayed 
+more than 18% nucleotide divergence with other 
+similar genotypes, such as Iran-87, Iran-96, Iran-99, 
+and A22.  Only two clinical samples in 2015 collected 
+from Qom and Sistan Baluchistan were placed on 
+Cluster 2. Viruses in this group were homolog and 
+reflected a high percentage of identity (more than 95%) 
+with each other and GeneBank-registered viruses from 
+India, Bangladesh, and Saudi Arabia (Figure 2). 
+Nucleotide differences of 1D gene between Cluster 2 
+and other genotypes, including Iran-05, Iran-87, Iran-
+96, Iran-99, and A22, were more than 18%. 
+Evaluation of antigenic relation. The homologous 
+antibody titer (log10) of the injected bulls after the 
+second vaccination reached near 2.3. Pooled antisera 
+were used in 2D-VNT for antigenic evaluation. The 
+antigenic relationship was assessed between vaccinal 
+strain (A-IRN-2013) as homologous virus and 8 field 
+isolates as heterologous viruses. Seven samples from 
+Cluster 1, including Qom A1, Zanjan B1, Sistan and 
+Baluchistan A, Tehran B1, Alborz B1, West Azerbaijan 
+A, and Kurdistan A, as well as one sample (Qom B3) 
+from Cluster 2, were selected for antigenic relationship 
+assessment. These samples were considered for the 
+vaccine matching test since they demonstrated the 
+greatest genetic diversity with the A-IRN-2013 virus. 
+The antigenic relationship among viruses in Cluster 1 
+and the vaccinal strain was determined at the protection 
+level (≥0.3). The r1-values between mentioned samples 
+and A-IRN-2013 were measured at 0.75, 0.68, 0.64, 
+0.56, 0.6, and 0.49, respectively. The serological 
+evaluation of candidate virus from Cluster 2 with 
+vaccine strain did not show a protective level (≤0.3). 
+The antigenic identity between this virus (Qom B3) and 
+A-IRN-2013 was estimated at 0.19.  
+DISCUSSION 
+Within 2014-2015, a total of 126 field specimens 
+were 
+collected 
+from 
+16 
+provinces 
+in 
+which FMDV was endemic. 
+Among 
+the 
+collected 
+samples, the significantly lower proportion was from 
+small ruminant tissues (21 numbers). Exactly the same 
+situation was reported by the other researchers, though 
+the reason was unclear (Rweyemamu, 1984; Bastos et 
+al., 2001). This result may be indicative of less 
+sensitivity or subclinical symptoms of FMD in these 
+ 
+ 
+Figure 1. Map of Iran showing the provincial distribution of isolated viruses during the study. The numbers below the provincial name 
+indicate the number of isolates obtained in a particular area. The map was prepared using Google Maps. 
+
+Azimi et al / Archives of Razi Institute, Vol. 75, No. 3 (2020) 349-357 
+354 
+species. It can also be ascribed to farmers' negligence to 
+send the suspected sample from sheep and goat for 
+FMD surveillance. Regarding livestock transportation 
+and trade, Iran is located in a critical part of the Middle 
+East. Some factors influence animal trafficking in this 
+geographical region. Some countries in this part of the 
+Middle East have a dense population of animals with a 
+relatively low production cost. On the other hand, 
+insufficient control of the long common border and 
+profitable trade of livestock has increased the legal and 
+illegal exchanges of livestock. Therefore, viruses, such 
+as FMDV, can be rapidly spread in this situation at an 
+extensive level. Several studies have been conducted on 
+the molecular characterization of FMDV type A in 
+India and the Middle East (Tosh et al., 2002; 
+Mohapatra et al., 2011; Waheed et al., 2011). 
+Nevertheless, it is necessary to carry out further 
+research on the genetic and antigenic properties of this 
+serotype as an important agent of FMD outbreak in the 
+Central Middle East.  During the present investigation, 
+16 provinces were involved in the FMD outbreaks 
+(Figure 1). Sample distribution was indicative of the 
+widespread transmission of the virus in the country 
+during the research period (2014-15). As a general rule 
+that was presented after extensive epidemiological 
+study, about 15% of differences at the level of the 
+nucleotide sequence of VP1 is an acceptable borderline 
+for differentiating among the main genotypes of FMDV 
+(Vosloo et al., 1992). Nucleotide substitution at the rate 
+of about 5% is a distinct cutoff for sublineage 
+separation. Isolates displaying this much nucleotide 
+difference are genetically related and could originate 
+from the common outbreak virus (Sangula et al., 2010). 
+Based on this criterion, all of the sequenced samples in 
+the present study were segregated in two distinct 
+clusters with obvious nucleotide diversity (more than 
+15%). Viruses in cluster 1 settled on a lineage which 
+was previously called Iran-05. A-Iran-05 was first 
+detected in Iran in 2003 and then introduced to Saudi 
+Arabia, Jordan (2005-6), and Turkey (2007). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2. Unweighted Pair Group Method with Arithmatic Mean 
+(UPMGA) tree showing VP1 sequence of isolated FMD viruses 
+type A within 2014-2015 in Iran (Clusters 1 and 2). GeneBank-
+related viruses from neighboring countries and their accession 
+numbers are denoted by the regular font. Selected prototype viruses 
+from other genotypes are illustrated by bold font. Bootstrap 
+replicates (1, 000) were carried out, and only values more than 50% 
+were indicated beside the branches. 
+ 
+
+ Azimi et al / Archives of Razi Institute, Vol. 75, No. 3 (2020) 349-357 
+ 
+ 
+355 
+Actually, the exact origin of A-Iran-05 was unclear 
+due to inadequate sampling from other countries, such 
+as Pakistan and Afghanistan. Nevertheless, it can be 
+concluded that this lineage has been a major circulating 
+virus in the Middle East since 2003 (Knowles et al., 
+2009). Viruses in Cluster 1, which consisted of 40 
+isolates (95.2%), combined a lineage that had more 
+than 89% nucleotide similarity to each other. Related 
+viruses of this cluster were scattered from northwest to 
+southeast of Iran during two years (2014-15) of FMD 
+outbreak. A-IRN-2013 which has been used as a 
+vaccinal strain since 2013 was assembled with this 
+group. Genetic similarity between samples of Cluster 1 
+and viruses retrieved from Pakistan, Afghanistan, 
+Bahrain, and Turkey confirmed the dispersion of the 
+related viruses among these countries. In vitro 
+serological evaluation (2D-VNT) was performed 
+between A-IRN-2013 and viruses in Cluster 1. The 
+result 
+confirmed 
+that 
+the 
+commercial 
+vaccine 
+formulated as A-IRN-2013 could protect against 
+circulating viruses in this cluster. It implies that despite 
+the genetic diversity among Cluster 1 isolates, they did 
+not demonstrate any significant antigenic variation. 
+Among the clinical samples, only two isolates (Qom 
+B3 and Sistan and Baluchistan B) collected in 2015 
+were classified in Cluster 2. They indicated a 
+remarkable genetic difference with Cluster 1. This 
+group should be regarded as a different genotype from 
+the previous cluster since they displayed more than 
+15% nucleotide differences. In Cluster 2, there are 
+some homolog viruses from other countries, such as 
+India, Bangladesh, and Saudi Arabia. Members of this 
+lineage revealed more than 95% sequence identity with 
+each other which may emphasize the existence of a 
+common origin for these isolates. According to the 
+result of the genetic and antigenic evaluation in the 
+present study, Iran-05 was still the dominant genotype 
+in Iran until 2015. However, an emerging FMD type A 
+virus was detected in 2015. Two closely related isolates 
+from two provinces located far from each other (more 
+Table 1. Number of samples obtained from each province and used for phylogenetic analysis in the study 
+Number of samples in 2015 
+Number of 
+samples in 2014 
+ 
+Provinces name 
+isolated 
+** 
+B 
+FMDV* 
+Type A 
+Received 
+ 
+isolated** 
+A 
+FMDV* 
+Type A 
+Received 
+ 
+1 
+2 
+5 
+1 
+2 
+3 
+Hamadan 
+1 
+3 
+4 
+1 
+1 
+2 
+Khuzestan 
+1 
+4 
+5 
+1 
+3 
+4 
+Yazd 
+1 
+3 
+5 
+1 
+2 
+3 
+Sistan Baluchistan 
+1 
+3 
+4 
+1 
+2 
+4 
+Kurdistan 
+1 
+4 
+5 
+1 
+1 
+4 
+Mazandaran 
+1 
+2 
+3 
+1 
+3 
+5 
+East Azerbaijan 
+1 
+3 
+3 
+1 
+2 
+4 
+West Azerbaijan 
+1 
+4 
+5 
+1 
+3 
+4 
+Markazi 
+1 
+3 
+6 
+1 
+3 
+3 
+Kermanshah 
+2 
+3 
+3 
+1 
+2 
+3 
+Esfahan 
+2
+2 
+4 
+1
+2 
+3 
+Alborz
+2 
+4 
+5 
+1 
+1 
+2 
+Ardebil 
+2 
+4 
+5 
+1 
+3 
+3 
+Zanjan 
+2 
+3 
+4 
+3 
+3 
+5 
+Tehran 
+3 
+3 
+4 
+2 
+3 
+4 
+Qom 
+23 
+(56.8%) 
+50 
+(58.1%) 
+70 
+(55.5%) 
+19 (43.2 
+%) 
+36 
+(41.9%) 
+56 
+(44.5%) 
+total 
+*detected samples as FMDV type A by antigen detection Elisa 
+**isolated viruses by IBR-S2 cell line and amplified 1D gene by Polymerase chain reaction and used in 
+phylogenetic analysis 
+
+Azimi et al / Archives of Razi Institute, Vol. 75, No. 3 (2020) 349-357 
+356 
+than 1000 km) were recovered. The vaccine matching 
+test confirmed intensive antigenic variation of these 
+isolates from the first group since they could not be 
+neutralized by BVS which were produced against 
+routine vaccinal strain (A-IRN-2013). Therefore, it can 
+be concluded that the incursion of a new variant of 
+FMDV type A into the country happened in 2015. The 
+similarity between the isolated samples of Cluster 2 and 
+GeneBank-retrieved viruses from India and Bangladesh 
+may point to virus motility from east borders. This 
+presumptive virus migration was in agreement with the 
+livestock movement direction. This outcome is 
+confirmed by previous studies performed on the lineage 
+Iran-05 (Knowles et al., 2009). The phylogenetic 
+comparison revealed that clinical isolates in both 
+clusters were genetically separate from ancient viruses, 
+such as Iran-99, Iran-96, and Iran-87. In other words, 
+these viruses have already disappeared and been 
+replaced by Iran-05 lineage. Moreover, the same 
+situation exists between prototype A22-Iraq and all 
+field isolates in the current study.  
+In conclusion, A-Iran-05 is a prevalent genotype in 
+the Middle East which has been circulated periodically 
+in Iran since 2003. Nonetheless, in 2015, we found the 
+incursion of a new strain with different genetic and 
+antigenic features from the Iran-05 lineage. It seems 
+that the incidence of this new strain would increase in 
+our country in the future. Therefore, it is essential to 
+candidate a new virus for vaccine production that can 
+serologically cover this emerging virus.   
+Ethics 
+We hereby declare all ethical standards have been 
+respected in preparation of the submitted article.  
+Conflict of Interest 
+The authors declare that they have no conflict of interest. 
+Authors’ Contribution 
+Study concept and design: Azimi, S. M., Mahravani, H. 
+Acquisition of data: Azimi, S. M. 
+Analysis and interpretation of data: Azimi, S. M. 
+Drafting of the manuscript: Azimi, S. M., Lotfi, M. 
+Critical revision of the manuscript for important 
+intellectual content: Azimi, S. M. 
+Statistical analysis: Azimi, S. M. 
+Administrative, technical, and material support: Azimi, 
+S. M., Mahravani, H. 
+References 
+Ahmed, H., Salem, S., Habashi, A., Arafa, A., Aggour, M., 
+Salem, G., et al., 2012. Emergence of Foot‐and‐Mouth 
+Disease Virus SAT 2 in E gypt During 2012. Transbound 
+Emerg Dis 59, 476-481. 
+Bari, F.D., Parida, S., Tekleghiorghis, T., Dekker, A., 
+Sangula, A., Reeve, R., et al., 2014. Genetic and antigenic 
+characterisation of serotype A FMD viruses from East 
+Africa to select new vaccine strains. Vaccine 32, 5794-
+5800. 
+Bastos, A., Haydon, D., Forsberg, R., Knowles, N., 
+Anderson, E., Bengis, R., et al., 2001. Genetic 
+heterogeneity of SAT-1 type foot-and-mouth disease 
+viruses in southern Africa. Arch Virol 146, 1537-1551. 
+Hall, T.A., 1999. BioEdit: a user-friendly biological 
+sequence alignment editor and analysis program for 
+Windows 95/98/NT. Nucleic acids symposium series. 
+[London]: Information Retrieval Ltd., c1979-c2000., pp. 
+95-98. 
+Haydon, D., Samuel, A., Knowles, N., 2001. The generation 
+and persistence of genetic variation in foot-and-mouth 
+disease virus. Prev Vet Med 51, 111-124. 
+Jamal, S.M., Belsham, G.J., 2013. Foot-and-mouth disease: 
+past, present and future. Vet Res 44, 116. 
+Kimura, M., 1980. A simple method for estimating 
+evolutionary 
+rates 
+of 
+base 
+substitutions 
+through 
+comparative studies of nucleotide sequences. J Mol Evolu 
+16, 111-120. 
+Knowles, N., Nazem Shirazi, M., Wadsworth, J., Swabey, 
+K., Stirling, J., Statham, R., et al., 2009. Recent spread of a 
+new strain (A‐Iran‐05) of foot‐and‐mouth disease virus 
+type A in the Middle East. Transbound Emerg Dis 56, 157-
+169. 
+Knowles, N., Samuel, A., 2003. Molecular epidemiology of 
+foot-and-mouth disease virus. Virus Res 91, 65-80. 
+longjam, N., Tayo, T., 2011. Antigenic variation of Foot and 
+Mouth Disease Virus-An Overview. Vet World 4, 475-479. 
+Ludi, A.B., Horton, D., Li, Y., Mahapatra, M., King, D., 
+Knowles, N., et al., 2014. Antigenic variation of foot-and-
+mouth disease virus serotype A. J Gen Virol 95, 384-392. 
+
+ Azimi et al / Archives of Razi Institute, Vol. 75, No. 3 (2020) 349-357 
+ 
+ 
+357 
+Mohapatra, J.K., Subramaniam, S., Pandey, L.K., Pawar, 
+S.S., De, A., Das, B., et al., 2011. Phylogenetic structure of 
+serotype A foot-and-mouth disease virus: global diversity 
+and the Indian perspective. J Gen Virol 92, 873-879. 
+Rweyemamu, M.M., 1984. Antigenic variation in foot-and-
+mouth disease: studies based on the virus neutralization 
+reaction. J Biol Stand 13, 323-337. 
+Sangula, A.K., Belsham, G.J., Muwanika, V.B., Heller, R., 
+Balinda, S.N., Masembe, C., et al., 2010. Evolutionary 
+analysis of foot-and-mouth disease virus serotype SAT 1 
+isolates from East Africa suggests two independent 
+introductions from southern Africa. BMC Evolu Biol 10, 371. 
+Tamura, K., Dudley, J., Nei, M., Kumar, S., 2007. MEGA4: 
+molecular evolutionary genetics analysis (MEGA) software 
+version 4.0. Mol Biol Evol 24, 1596-1599. 
+Thompson, J.D., Higgins, D.G., Gibson, T.J., 1994. 
+CLUSTAL W: improving the sensitivity of progressive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+multiple sequence alignment through sequence weighting, 
+position-specific gap penalties and weight matrix choice. 
+Nucleic Acids Res 22, 4673-4680. 
+Tosh, C., Sanyal, A., Hemadri, D., Venkataramanan, R., 
+2002. Phylogenetic analysis of serotype A foot-and-mouth 
+disease virus isolated in India between 1977 and 2000. 
+Arch Virol 147, 493-513. 
+Vosloo, W., Knowles, N., Thomson, G., 1992. Genetic 
+relationships between southern African SAT-2 isolates of 
+foot-and-mouth-disease virus. Epidemiol Infect 109, 547-
+558. 
+Waheed, U., Parida, S., Khan, Q., Hussain, M., Ebert, K., 
+Wadsworth, J., et al., 2011. Molecular characterisation of 
+foot‐and‐mouth disease viruses from Pakistan, 2005–2008. 
+Transboun Emerg Dis 58, 166-172. 

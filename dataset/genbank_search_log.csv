@@ -1,0 +1,26 @@
+virus,search_result,genbank_accession,genbank_name,sequence_type,next_action
+A/IRN/10/2018,found,MT442317.1,IRN/10/2018,VP1,added to master_pairs where r1 is an exact 2D-VNT value
+A/IRN/23/2018,found,MT442319.1,IRN/23/2018,VP1,added to master_pairs where r1 is an exact 2D-VNT value
+A/IRQ/10/2009,found,MT442321.1,IRQ/10/2009,VP1,added to master_pairs where r1 is an exact 2D-VNT value
+A/IRQ/17/2009,found,MT442325.1,IRQ/17/2009,VP1,added to master_pairs where r1 is an exact 2D-VNT value
+A/AFG/50/2017,found,MT442138.1,AFG/50/2017,VP1,added to master_pairs where r1 is an exact 2D-VNT value
+A/PAK/1/2018,not_found,,,,"WRL name and PAK/1/2018 were absent from nuccore. Email Pirbright."
+A/PAK/24/2019,not_found,,,,"WRL name and PAK/24/2019 were absent from nuccore. Email Pirbright."
+A/PAK/4/2023,not_found,,,,"WRL name and PAK/4/2023 were absent from nuccore. Email Pirbright."
+A/PAK/5/2023,not_found,,,,"WRL name and PAK/5/2023 were absent from nuccore. Email Pirbright."
+A/ETH/25/2019,found,PQ847908.1,ETH/25/2019,VP1,added to master_pairs where r1 is an exact 2D-VNT value
+A/ETH/1/2020,found,PQ847911.1,ETH/1/2020,VP1,added to master_pairs where r1 is an exact 2D-VNT value
+A/ETH/4/2022,found,PQ847915.1,ETH/4/2022,VP1,added to master_pairs where r1 is an exact 2D-VNT value
+A/ETH/39/2024,not_found,,,,"WRL name and ETH/39/2024 were absent from nuccore. Email Pirbright."
+A/ETH/15/2025,not_found,,,,"WRL name and ETH/15/2025 were absent from nuccore. Email Pirbright."
+A/TAI/5/2021,not_found,,,,"No TAI/5/2021 or THA/5/2021 record. A/TAI/Lopburi (OK585049.1) is a different isolate and was not used. Email Pirbright."
+A/TAI/6/2021,not_found,,,,"No TAI/6/2021 or THA/6/2021 record. Email Pirbright."
+A/TAI/8/2021,not_found,,,,"No TAI/8/2021 or THA/8/2021 record. Email Pirbright."
+A/TAI/1/2022,not_found,,,,"No TAI/1/2022 or THA/1/2022 record. Email Pirbright."
+A/TAI/14/2022,not_found,,,,"No TAI/14/2022 or THA/14/2022 record. Email Pirbright."
+A/KEN/15/2021,similar_not_the_same_isolate,OQ214931.1,KEN/10/2021,VP1,"KEN/10/2021 is a different isolate from KEN/15/2021 and was not added. Email Pirbright for A/KEN/15/2021."
+A/KEN/6/2023,not_found,,,,"No KEN/6/2023 record. Nearby serotype A records are KEN/10/2021, KEN/17/2017 and KEN/9/2017. Email Pirbright."
+A/EGY/1/2025,not_found,,,,"No EGY/1/2025 record. Egypt 2025 serotype A deposits use local names such as FMD-A-3-Sohag and were not matched. Email Pirbright."
+A/MAI/12/2006,found,KX258048.1,MAI/12/2006,VP1,"VP1 stored. Pairs stay out of the master because the gathered r1 values are LPBE, not 2D-VNT."
+A/MAI/16/2006,not_found,,,,"MAI/12/2006 exists (KX258048.1) but MAI/16/2006 does not. Email Pirbright."
+Qom B3,not_found,,,,"No Qom B3 record. The 2015 publication-date search returned IRN/20/2012, IRN/12/2012 and IRN/69/2011, which are different viruses and were not used. Ask the Azimi 2020 authors for the Figure 2 accession."

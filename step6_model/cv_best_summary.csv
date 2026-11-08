@@ -1,0 +1,4 @@
+﻿n_estimators,max_depth,max_features,min_samples_leaf,cv_auc_mean,cv_auc_std,model,learning_rate,min_child_weight,num_leaves
+300.0,10.0,sqrt,2.0,0.8873737373737374,0.0809968596699919,rf,,,
+300.0,3.0,,,0.8305555555555555,0.1179955149002617,xgb,0.1,1.0,
+300.0,6.0,,,0.8205808080808081,0.1106257333411056,lgbm,0.05,,15.0

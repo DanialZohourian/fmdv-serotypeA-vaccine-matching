@@ -1,0 +1,64 @@
+LOCUS       KX258045                 639 bp    RNA     linear   VRL 13-OCT-2016
+DEFINITION  Foot-and-mouth disease virus A isolate ERI/3/98 VP1 gene, partial
+            cds.
+ACCESSION   KX258045
+VERSION     KX258045.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Ularamu,H.G., Ibu,J.O., Wood,B.A., Abenga,J.N., Lazarus,D.D.,
+            Wungak,Y.S., Knowles,N.J., Wadsworth,J., Mioulet,V., King,D.P.,
+            Shamaki,D. and Adah,M.I.
+  TITLE     Characterization of Foot-and-Mouth Disease Viruses Collected in
+            Nigeria Between 2007 and 2014: Evidence for Epidemiological Links
+            Between West and East Africa
+  JOURNAL   Transbound Emerg Dis (2016) In press
+   PUBMED   27718336
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Knowles,N.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2016) The Pirbright Institute, Ash Road,
+            Pirbright, Woking, Surrey GU24 0NF, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar SeqManPro v. v.9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="ERI/3/98"
+                     /host="bovine"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Eritrea: Binbina, Shambuko, Gashbarka,
+                     Asmara"
+                     /collection_date="15-Jan-1998"
+     CDS             <1..>639
+                     /note="capsid polypeptide; 1D"
+                     /codon_start=1
+                     /product="VP1"
+                     /protein_id="AOC59555.1"
+                     /translation="TTATGESADPVTTTVENYGGETQVQRRHHTDVEFIMDRFVKVNS
+                     PTPTHVIDLMQTHQHGLVGALLRSATYYFSDLEVVVRHQGNLTWVPNGAPEAALANTS
+                     NPTAYHKAPFTRLALPYTAPHRVLATVYNGTSKYSTSVSPRRGDLGALAARVAAQLPS
+                     SFNYGALRAEAIHELLVRMKRAELYCPRPLLPAEVNSADRHKQKIIAPAKQLL"
+ORIGIN      
+        1 actactgcaa cgggggaatc tgcagaccct gtcaccacca ctgtggaaaa ctatggtggt
+       61 gagacacaag tccaaaggcg gcaccacacg gatgtcgaat tcataatgga cagatttgtg
+      121 aaagtgaaca gtcctactcc cacacatgtt atagacctca tgcaaactca ccaacacggg
+      181 cttgtaggtg cgttgttgcg ttcagccacc tactatttct ctgacttgga ggtcgtggta
+      241 agacaccagg ggaacctgac ctgggtaccc aacggcgccc cggaggcagc tctcgcgaac
+      301 acgagcaacc ccacagctta ccacaaggca ccgttcacca gactggcact cccctacact
+      361 gcgccgcacc gtgtgttggc aacagtgtac aacgggacga gcaagtactc aacgagtgtc
+      421 tcacctaggc gaggtgacct gggagccctt gcggcgagag tcgccgcgca acttccttca
+      481 tccttcaact acggagcgct acgcgccgag gccatccacg agcttctcgt gcgcatgaag
+      541 cgggctgaac tctactgccc cagaccgctg ctcccggcag aggtgaattc ggcagataga
+      601 cacaaacaga agatcattgc gcccgcaaaa cagctcctc
+//
+

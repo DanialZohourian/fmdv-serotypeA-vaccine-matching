@@ -1,0 +1,2 @@
+﻿publication,doi,vaccine,assay,isolates_in_order,r1_values_in_order,problem
+Azimi_Mahravani_Lotfi_2020_Arch_Razi_Inst,10.22092/ari.2019.123610.1287,A/IRN/2013,2D-VNT,Qom A1; Zanjan B1; Sistan and Baluchistan A; Tehran B1; Alborz B1; West Azerbaijan A; Kurdistan A,0.75; 0.68; 0.64; 0.56; 0.60; 0.49,"The paper lists 7 Cluster-1 isolates and then 6 r1 values with the word respectively. One-to-one assignment is not possible from the text, so these pairs were not added to pairs.csv."

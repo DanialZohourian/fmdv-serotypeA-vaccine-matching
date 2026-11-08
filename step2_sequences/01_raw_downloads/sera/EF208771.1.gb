@@ -1,0 +1,59 @@
+LOCUS       EF208771                 639 bp    RNA     linear   VRL 23-JUL-2016
+DEFINITION  Foot-and-mouth disease virus - type A isolate A/IRN/1/96 VP1 (1D)
+            gene, partial cds.
+ACCESSION   EF208771
+VERSION     EF208771.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Knowles,N.J.
+  TITLE     Recent Introduction of Foot-and-Mouth Disease Virus Serotype A into
+            Egypt
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Knowles,N.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JAN-2007) World Reference Laboratory for
+            Foot-and-Mouth Disease, Institute for Animal Health, Pirbright
+            Laboratory, Ash Road, Pirbright, Woking, Surrey GU24 0NF, United
+            Kingdom
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="A/IRN/1/96"
+                     /host="bovine"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Iran: Zarnan, Shahriar, Tehran"
+                     /collection_date="13-Nov-1996"
+     gene            <1..>639
+                     /gene="1D"
+     CDS             <1..>639
+                     /gene="1D"
+                     /note="capsid polypeptide"
+                     /codon_start=1
+                     /product="VP1"
+                     /protein_id="ABP82760.1"
+                     /translation="TTSAGESADPVTTTVENYGGETQVQRRHHTDVGFIMDRFVKINN
+                     TSPTHVIDLMQTHQHGLVGALLRAATYYFSDLEIVVRHEGNLTWVPNGAPEAALSNAG
+                     NPTAYNKAPFTRLALPYTAPHRVLATVYNGTSKYSTTGGHTRGDLGALAARVAAQLPA
+                     SFNFGAIRATDISELLVRMKRAELYCPRPLLAVEVTAQDRHKQKIXAPAKQLL"
+ORIGIN      
+        1 accacatctg ccggggagtc tgcagaccca gtcaccacca ctgttgaaaa ctacggcggt
+       61 gagacacaag tccagcgacg tcaccacact gatgtcggct tcataatgga cagatttgtg
+      121 aagattaaca acaccagccc cacacacgtc attgacctca tgcaaaccca ccagcacggg
+      181 ttggtgggcg ctctcctgcg tgctgccacg tactacttct cagacctgga gattgtggtg
+      241 cgccacgaag gcaacctgac gtgggtgccc aatggagcac cagaggcagc cctgagcaac
+      301 gcgggcaacc ccaccgccta caacaaagca ccattcacga ggctagcact cccctacact
+      361 gcgccgcacc gcgtgttggc gacggtgtac aacgggacga gcaagtactc gacaactggt
+      421 gggcacacac ggggtgactt gggagctctt gcggcgaggg tcgccgccca actccctgcc
+      481 tctttcaact ttggcgcaat ccgggccact gacatcagtg agcttcttgt gcgcatgaag
+      541 cgtgctgagc tctactgccc caggccacta ctggcagtgg aagtgacagc gcaagacagg
+      601 cacaaacaga agatcatngc gccggcgaaa cagctcctg
+//
+

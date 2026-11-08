@@ -1,0 +1,62 @@
+FMDV serotype A master pair table
+
+Input pairs after dropping exact duplicate rows: 916
+Master rows (all inclusion criteria met): 503
+Excluded rows: 413
+2D-VNT r1 disagreements (both rows kept): 9
+    of which cross-source: 0
+    of which same-report multiple labels: 9
+VNT versus LPBE/ELISA disagreements (LPBE excluded from master): 15
+
+Inclusion funnel
+1. All gathered pairs: 916
+2. 2D-VNT (LPBE/ELISA removed): 850
+3. Bovine vaccinate serum: 850 (WRL matching reports and Singanallur 2022 use bovine vaccinate serum; Azimi 2020 states bovine vaccine sera. No guinea-pig or mouse serum was present.)
+4. Exact numeric r1 (missing and censored bounds removed): 634
+5. VP1 or P1 sequence in the local GenBank extract: 503
+
+Rows can fail more than one rule. Counts below are not a funnel:
+- r1_missing: 187
+- no_vp1_or_p1_sequence: 171
+- not_2d_vnt: 66
+- r1_censored: 38
+
+Iran-05 rows in the master: 152
+Iran-05 viruses in the master: 19
+Iran-05 sublineage row counts in the master:
+- (blank): 144
+- SIS-13: 6
+- AFG-07: 2
+
+Focus sublineages (catalogue viruses vs viruses that reached the master):
+- SIS-10: catalogue 10, in master 0
+  not in master: A/IRN/22/2012, A/IRN/24/2012, A/IRN/32/2012, A/IRN/37/2012a, A/TUR/05/2012, A/IRN/01/2013, A/IRN/04/2013, A/IRN/06/2013, A/IRN/07/2013, A/IRN/10/2013a
+- SIS-12: catalogue 5, in master 0
+  not in master: A/IRN/15/2012, A/IRN/25/2012, A/IRN/30/2012, A/IRN/33/2012, A/IRN/35/2012
+- FAR-11: catalogue 0, in master 0
+- BAR-08: catalogue 9, in master 0
+  not in master: A/IRN/2/2009, A/IRN/6/2009, A/IRN/25/2009, A/IRN/37/2009, A/IRN/63/2009, A/PAK/4/2009, A/TUR/18/2009, A/IRN/36/2010, A/PAK/13/2010
+- ARD-07: catalogue 4, in master 0
+  not in master: A/TUR/7/2008, A/TUR/11/2008, A/TUR/7/2009, A/TUR/20/2010
+- AFG-07: catalogue 10, in master 1
+  not in master: A/IRN/73/2009, A/IRN/73/2010, A/IRN/125/2010, A/PAK/12/2010, A/PAK/24/2010, A/TUR/34/2010, A/TUR/43/2010, A/AFG/34/2011, A/IRN/36/2011
+- SIS-13: catalogue 5, in master 3
+  not in master: A/PAK/1/2018, A/PAK/24/2019
+
+data_format
+- table: exact r1 from a WRL report table, a paper table, or the PDF text layer.
+- digitized: unused. No WebPlotDigitizer values are in the gathered files.
+- personal_communication: unused.
+
+Not entered, because the gathered files do not contain an exact r1 joined to a named virus:
+- Upadhyaya 2014 and Bari 2014 bar charts (virus lists are in viruses.csv; r1 was not numeric in a table).
+- Azimi 2020 Cluster 1: six r1 values are not one-to-one with the seven isolate names (see unresolved_r1.csv). Qom B3 = 0.19 was gathered but has no VP1/P1 accession, so it is excluded.
+- Scanned WRL reports listed in scanned_reports_not_digitized.txt, including most Iran reports from 2009-2021.
+
+Censored r1 values such as <0.17 or >1.00 are in master_excluded.csv. They were not treated as point estimates.
+2D-VNT disagreements are in master_contradictions.csv. Both rows stay in the master when they also meet the sequence rule.
+A same-report disagreement is two serum labels of one vaccine strain (for example A22 IRQ and A22-550), not two publications.
+LPBE/ELISA numbers that differ from a 2D-VNT number are in master_assay_discordance.csv. They are not copied into the master as a second r1.
+
+Column notes is the audit trail required when a value was standardized or two sources disagree.
+r1_binary is 1 when r1 >= 0.3 and 0 when r1 < 0.3.

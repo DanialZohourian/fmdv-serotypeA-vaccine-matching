@@ -1,0 +1,62 @@
+LOCUS       FJ755017                 639 bp    RNA     linear   VRL 24-JUL-2016
+DEFINITION  Foot-and-mouth disease virus - type A isolate A/IRN/32/2001 VP1
+            (1D) gene, partial cds.
+ACCESSION   FJ755017
+VERSION     FJ755017.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Knowles,N.J., Nazem Shirazi,M.H., Wadsworth,J., Swabey,K.G.,
+            Stirling,J.M., Statham,R.J., Li,Y., Hutchings,G.H., Ferris,N.P.,
+            Parlak,U., Ozyoruk,F., Sumption,K.J., King,D.P. and Paton,D.J.
+  TITLE     Recent Spread of a New Strain (A-Iran-05) of Foot-and-Mouth Disease
+            Virus Type A in the Middle East
+  JOURNAL   Transbound Emerg Dis 56 (5), 157-169 (2009)
+   PUBMED   19432637
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Knowles,N.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-FEB-2009) World Reference Laboratory for
+            Foot-and-Mouth Disease, Institute for Animal Health, Pirbright
+            Laboratory, Ash Road, Pirbright, Woking, Surrey GU24 0NF, United
+            Kingdom
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="A/IRN/32/2001"
+                     /host="cattle"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Iran"
+                     /collection_date="03-Sep-2001"
+     gene            <1..>639
+                     /gene="1D"
+     CDS             <1..>639
+                     /gene="1D"
+                     /note="capsid polypeptide"
+                     /codon_start=1
+                     /product="VP1"
+                     /protein_id="ACN79597.1"
+                     /translation="TTTAGESADPVTTTVENYGGETQAQRRQHTDVSFIMDRFVKINP
+                     VTPIHVIDLMQTHQHALVGALLRAATYYFSDLEIVVRHEGSLTWVPNGAPEAALSNAS
+                     NPTAYHKEPFTRLALPYTAPHRVLATVYNGVNKYSTNGGGGRGDMGSLAARVAAQLPS
+                     SFNFGAIQAKTIHELLVRMKRAELYCPRPLLAVEVSSQDRHKQKIIAPAKQLL"
+ORIGIN      
+        1 actacaactg ctggggagtc tgcagaccct gttaccacca ccgttgagaa ctacggtggt
+       61 gagacacaag cccagcgacg tcaacacacc gacgtcagct tcatcatgga cagatttgtg
+      121 aaaatcaacc cagtgactcc cattcatgtc attgacctca tgcagacaca ccagcacgcg
+      181 ctggtggggg ctctcttgcg tgcggccacg tactacttct ccgacctgga gattgtggtg
+      241 cgccacgagg gcagcctgac gtgggtgccc aacggagcac ctgaggcagc cttgtccaac
+      301 gcgagcaacc ccactgccta ccacaaggaa ccgtttacga gactcgcgct tccttacacc
+      361 gcgccgcacc gggtgctggc gacagtgtac aacggagtga acaagtactc aacaaatggt
+      421 ggtggtgggc gaggtgacat ggggtctctt gcggcgcgag tcgccgcaca gctccctagc
+      481 tccttcaact ttggtgcaat tcaggccaag accatccacg agcttctcgt gcgcatgaaa
+      541 cgtgctgaac tctactgccc caggccactg ctggcggtgg aggtgtcgtc acaggacagg
+      601 cacaagcaaa agattattgc acctgcaaaa caactcctg
+//
+

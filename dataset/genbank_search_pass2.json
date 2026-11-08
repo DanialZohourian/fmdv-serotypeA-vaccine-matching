@@ -1,0 +1,1290 @@
+{
+  "extra": [
+    {
+      "phrase": "PAK/01/2018",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "PAK/1/18",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "PAK/001/2018",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "Pakistan/1/2018",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "PAK/24/19",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "PAK/024/2019",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "PAK/04/2023",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "PAK/05/2023",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "ETH/039/2024",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "ETH/39/24",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "ETH/015/2025",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "ETH/15/25",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "TAI/05/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "TAI/5/21",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "THA/05/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "THA/5/21",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "TAI/06/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "THA/06/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "TAI/08/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "THA/08/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "TAI/01/2022",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "THA/01/2022",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "TAI/14/22",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "THA/14/22",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "KEN/015/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "KEN/15/21",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "KEN/06/2023",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "KEN/6/23",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "EGY/01/2025",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "EGY/1/25",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "Egypt/1/2025",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "MAI/16/2006",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "MAY/16/2006",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "MYS/16/2006",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "phrase": "MAL/16/2006",
+      "count": "0",
+      "hits": []
+    }
+  ],
+  "broad": [
+    {
+      "term": "\"foot-and-mouth\"[Title] AND Thailand[All Fields] AND 2021[All Fields] AND VP1[Title]",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "term": "\"foot-and-mouth\"[Title] AND Thailand[All Fields] AND 2022[All Fields] AND VP1[Title]",
+      "count": "2",
+      "hits": [
+        {
+          "uid": "2313699240",
+          "accession": "OK585050.1",
+          "title": "Foot-and-mouth disease virus serotype O/TAI/189/87 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2313699238",
+          "accession": "OK585049.1",
+          "title": "Foot-and-mouth disease virus serotype A/TAI/Lopburi capsid protein (VP1) gene, partial cds",
+          "slen": 636
+        }
+      ]
+    },
+    {
+      "term": "\"foot-and-mouth\"[Title] AND Pakistan[All Fields] AND 2018[All Fields] AND VP1[Title]",
+      "count": "152",
+      "hits": [
+        {
+          "uid": "3360708971",
+          "accession": "PZ294442.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S32/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708969",
+          "accession": "PZ294441.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S31/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708967",
+          "accession": "PZ294440.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S30/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708965",
+          "accession": "PZ294439.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S29/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708963",
+          "accession": "PZ294438.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S28/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708961",
+          "accession": "PZ294437.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S27/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708958",
+          "accession": "PZ294436.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S26/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708956",
+          "accession": "PZ294435.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S25/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708954",
+          "accession": "PZ294434.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S24/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708952",
+          "accession": "PZ294433.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S23/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708950",
+          "accession": "PZ294432.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S22/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3360708948",
+          "accession": "PZ294431.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S21/25 capsid protein (VP1) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3349479567",
+          "accession": "PZ179629.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S20_NIBGE/25_Cattle capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3349479565",
+          "accession": "PZ179628.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S19_NIBGE/25_Buffalo capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3349479562",
+          "accession": "PZ179627.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S18_NIBGE/25_Goat capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3349479560",
+          "accession": "PZ179626.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S17_NIBGE/25_Cattle capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3349479558",
+          "accession": "PZ179625.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S16_NIBGE/25_Sheep capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3349479556",
+          "accession": "PZ179624.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S15_NIBGE/25_Goat capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877627",
+          "accession": "PZ173662.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S14_NIBGE/25_Cattle capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877625",
+          "accession": "PZ173661.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S13_NIBGE/25_Cattle capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877623",
+          "accession": "PZ173660.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S12_NIBGE/25_Buffalo capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877621",
+          "accession": "PZ173659.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S11_NIBGE/25_Goat capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877619",
+          "accession": "PZ173658.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S10_NIBGE/25_Goat capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877617",
+          "accession": "PZ173657.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S9_NIBGE/25_Goat capsid protein VP1 gene, partial cds",
+          "slen": 640
+        },
+        {
+          "uid": "3267877615",
+          "accession": "PZ173656.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S8_NIBGE/25_Goat capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877613",
+          "accession": "PZ173655.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S7_NIBGE/25_Goat capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877611",
+          "accession": "PZ173654.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S6_NIBGE/25_Sheep capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877609",
+          "accession": "PZ173653.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S5_NIBGE/25_Sheep capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877607",
+          "accession": "PZ173652.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S4_NIBGE/25_Sheep capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877605",
+          "accession": "PZ173651.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S3_NIBGE/25_Goat capsid protein VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3267877603",
+          "accession": "PZ173650.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S2_NIBGE/25_Goat capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "3267877601",
+          "accession": "PZ173649.1",
+          "title": "Foot-and-mouth disease virus O isolate Pak/O/S1_NIBGE/25_Sheep capsid protein VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2820328057",
+          "accession": "PQ429086.1",
+          "title": "Foot-and-mouth disease virus O isolate O/KPK/PAK/1/2018 capsid protein VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "2195226437",
+          "accession": "MW601226.1",
+          "title": "Foot-and-mouth disease virus O isolate PAK/FMDRC/LHR/02/2021 capsid protein VP1 gene, partial cds",
+          "slen": 274
+        },
+        {
+          "uid": "1812672795",
+          "accession": "MK934705.1",
+          "title": "Foot-and-mouth disease virus O isolate PK/2018 VP1 (1D) gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "1368834449",
+          "accession": "MH085208.1",
+          "title": "Foot-and-mouth disease virus O isolate O/NIAB/PUN/PAK/226/2017 VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "1368834447",
+          "accession": "MH085207.1",
+          "title": "Foot-and-mouth disease virus O isolate O/NIAB/PUN/PAK/223/2017 VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "1368834445",
+          "accession": "MH085206.1",
+          "title": "Foot-and-mouth disease virus O isolate O/NIAB/PUN/PAK/222/2017 VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "1368834443",
+          "accession": "MH085205.1",
+          "title": "Foot-and-mouth disease virus O isolate O/NIAB/PUN/PAK/220/2017 VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "1368834441",
+          "accession": "MH085204.1",
+          "title": "Foot-and-mouth disease virus O isolate O/NIAB/PUN/PAK/218/2017 VP1 gene, partial cds",
+          "slen": 633
+        }
+      ]
+    },
+    {
+      "term": "\"foot-and-mouth\"[Title] AND Pakistan[All Fields] AND 2019[All Fields] AND VP1[Title]",
+      "count": "126",
+      "hits": [
+        {
+          "uid": "3390215974",
+          "accession": "PZ574886.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/77/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215972",
+          "accession": "PZ574885.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/76/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215970",
+          "accession": "PZ574884.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/75/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215968",
+          "accession": "PZ574883.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/71/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215966",
+          "accession": "PZ574882.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/70/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215964",
+          "accession": "PZ574881.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/69/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215962",
+          "accession": "PZ574880.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/59/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215960",
+          "accession": "PZ574879.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/49/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215958",
+          "accession": "PZ574878.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/48/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215956",
+          "accession": "PZ574877.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/34/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215954",
+          "accession": "PZ574876.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/33/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215952",
+          "accession": "PZ574875.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/31/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215950",
+          "accession": "PZ574874.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/30/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215948",
+          "accession": "PZ574873.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/27/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215946",
+          "accession": "PZ574872.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/26/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215944",
+          "accession": "PZ574871.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/25/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215942",
+          "accession": "PZ574870.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/22/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215940",
+          "accession": "PZ574869.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/21/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215938",
+          "accession": "PZ574868.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/20/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215936",
+          "accession": "PZ574867.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/19/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215934",
+          "accession": "PZ574866.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/18/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215932",
+          "accession": "PZ574865.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/14/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215930",
+          "accession": "PZ574864.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/13/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215928",
+          "accession": "PZ574863.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/11/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215926",
+          "accession": "PZ574862.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/10/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215924",
+          "accession": "PZ574861.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/7/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215922",
+          "accession": "PZ574860.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/4/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3390215920",
+          "accession": "PZ574859.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate PAK/3/2019 VP1 protein gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "3040286684",
+          "accession": "PX096851.1",
+          "title": "Foot-and-mouth disease virus A isolate V14.1 VP1 gene, partial cds",
+          "slen": 659
+        },
+        {
+          "uid": "2820328076",
+          "accession": "PQ429090.1",
+          "title": "Foot-and-mouth disease virus O isolate O/KPK/PAK/255/2019 capsid protein VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "2820328071",
+          "accession": "PQ429089.1",
+          "title": "Foot-and-mouth disease virus O isolate O/KPK/PAK/253/2019 capsid protein VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "2820328066",
+          "accession": "PQ429088.1",
+          "title": "Foot-and-mouth disease virus O isolate O/KPK/PAK/230/2019 capsid protein VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "2820328061",
+          "accession": "PQ429087.1",
+          "title": "Foot-and-mouth disease virus O isolate O/KPK/PAK/205/2019 capsid protein VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "2791103162",
+          "accession": "PQ153260.1",
+          "title": "Foot-and-mouth disease virus O isolate PAK/78/2019 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2791103160",
+          "accession": "PQ153259.1",
+          "title": "Foot-and-mouth disease virus O isolate PAK/74/2019 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2791103158",
+          "accession": "PQ153258.1",
+          "title": "Foot-and-mouth disease virus O isolate PAK/63/2019 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2791103156",
+          "accession": "PQ153257.1",
+          "title": "Foot-and-mouth disease virus O isolate PAK/62/2019 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2791103154",
+          "accession": "PQ153256.1",
+          "title": "Foot-and-mouth disease virus O isolate PAK/61/2019 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2791103152",
+          "accession": "PQ153255.1",
+          "title": "Foot-and-mouth disease virus O isolate PAK/60/2019 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2791103150",
+          "accession": "PQ153254.1",
+          "title": "Foot-and-mouth disease virus O isolate PAK/58/2019 VP1 gene, partial cds",
+          "slen": 639
+        }
+      ]
+    },
+    {
+      "term": "\"foot-and-mouth\"[Title] AND Pakistan[All Fields] AND 2023[All Fields] AND VP1[Title]",
+      "count": "8",
+      "hits": [
+        {
+          "uid": "2753775117",
+          "accession": "PP970904.1",
+          "title": "Foot-and-mouth disease virus O isolate O/kohat/KPK/PAK/179/2023 VP1 (VP1) gene, partial cds",
+          "slen": 453
+        },
+        {
+          "uid": "2601015339",
+          "accession": "OR659412.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate NVL/FMD/SW/15 VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "2601015337",
+          "accession": "OR659411.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate NVL/FMD/NW/14 VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "2601015335",
+          "accession": "OR659410.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate NVL/FMD/Moh/13 VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "2601015333",
+          "accession": "OR659409.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate NVL/FMD/khy/12 VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "2601015331",
+          "accession": "OR659408.1",
+          "title": "Foot-and-mouth disease virus Asia 1 isolate NVL/FMD/Khy/11 VP1 gene, partial cds",
+          "slen": 633
+        },
+        {
+          "uid": "2436991857",
+          "accession": "ON292501.1",
+          "title": "Foot-and-mouth disease virus O isolate PAK/FMDRC/2020 VP1 gene, partial cds",
+          "slen": 599
+        },
+        {
+          "uid": "2426986428",
+          "accession": "ON014775.1",
+          "title": "Foot-and-mouth disease virus O isolate PAK/FMDRC/VHR/01/2021 capsid protein VP1 (ID) gene, partial cds",
+          "slen": 576
+        }
+      ]
+    },
+    {
+      "term": "\"foot-and-mouth\"[Title] AND Kenya[All Fields] AND 2021[All Fields] AND VP1[Title]",
+      "count": "1",
+      "hits": [
+        {
+          "uid": "2515605158",
+          "accession": "OQ214931.1",
+          "title": "Foot-and-mouth disease virus A isolate KEN/10/2021 VP1 (1D) gene, partial cds",
+          "slen": 639
+        }
+      ]
+    },
+    {
+      "term": "\"foot-and-mouth\"[Title] AND Kenya[All Fields] AND 2023[All Fields] AND VP1[Title]",
+      "count": "3",
+      "hits": [
+        {
+          "uid": "2515605158",
+          "accession": "OQ214931.1",
+          "title": "Foot-and-mouth disease virus A isolate KEN/10/2021 VP1 (1D) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2515605156",
+          "accession": "OQ214930.1",
+          "title": "Foot-and-mouth disease virus A isolate KEN/17/2017 VP1 (1D) gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2515605154",
+          "accession": "OQ214929.1",
+          "title": "Foot-and-mouth disease virus A isolate KEN/9/2017 VP1 (1D) gene, partial cds",
+          "slen": 639
+        }
+      ]
+    },
+    {
+      "term": "\"foot-and-mouth\"[Title] AND Egypt[All Fields] AND 2025[All Fields] AND VP1[Title]",
+      "count": "17",
+      "hits": [
+        {
+          "uid": "3178503888",
+          "accession": "PX753238.1",
+          "title": "Foot-and-mouth disease virus SAT 1 isolate SM1 capsid protein VP1 gene, partial cds",
+          "slen": 216
+        },
+        {
+          "uid": "3156804530",
+          "accession": "PX926295.1",
+          "title": "Foot-and-mouth disease virus SAT 1 isolate SM4 capsid protein VP1 gene, partial cds",
+          "slen": 216
+        },
+        {
+          "uid": "3156804528",
+          "accession": "PX926294.1",
+          "title": "Foot-and-mouth disease virus SAT 1 isolate SM3 capsid protein VP1 gene, partial cds",
+          "slen": 216
+        },
+        {
+          "uid": "3156804526",
+          "accession": "PX926293.1",
+          "title": "Foot-and-mouth disease virus SAT 1 isolate SM2 capsid protein VP1 gene, partial cds",
+          "slen": 216
+        },
+        {
+          "uid": "3147032254",
+          "accession": "PX857513.1",
+          "title": "Foot-and-mouth disease virus SAT 1 isolate Eg1 capsid protein VP1 gene, partial cds",
+          "slen": 216
+        },
+        {
+          "uid": "3101820265",
+          "accession": "PX488472.1",
+          "title": "Foot-and-mouth disease virus isolate FMD-SAT-4-ElMinya-Egypt-2025 VP1 gene, partial cds",
+          "slen": 603
+        },
+        {
+          "uid": "3101820263",
+          "accession": "PX488471.1",
+          "title": "Foot-and-mouth disease virus A isolate FMD-A-3-Sohag-Egypt-20225 VP1 gene, partial cds",
+          "slen": 603
+        },
+        {
+          "uid": "3101820261",
+          "accession": "PX488470.1",
+          "title": "Foot-and-mouth disease virus O isolate FMD-O-2-Assuit-Egypt-2025 VP1 gene, partial cds",
+          "slen": 603
+        },
+        {
+          "uid": "3101820259",
+          "accession": "PX488469.1",
+          "title": "Foot-and-mouth disease virus O isolate FMD-O-1-ElMinya-Egypt-2025 VP1 gene, partial cds",
+          "slen": 603
+        },
+        {
+          "uid": "3058045270",
+          "accession": "PX252052.1",
+          "title": "Foot-and-mouth disease virus SAT 1 isolate Egy/AHRI/RV7(1)/2025 VP1 gene, partial cds",
+          "slen": 295
+        },
+        {
+          "uid": "3058045268",
+          "accession": "PX252051.1",
+          "title": "Foot-and-mouth disease virus SAT 1 isolate Egy/AHRI/RV9(1)/2025 VP1 gene, partial cds",
+          "slen": 295
+        },
+        {
+          "uid": "3058045266",
+          "accession": "PX252050.1",
+          "title": "Foot-and-mouth disease virus SAT 1 isolate Egy/AHRI/RV8(3)/2025 VP1 gene, partial cds",
+          "slen": 295
+        },
+        {
+          "uid": "3058045264",
+          "accession": "PX252049.1",
+          "title": "Foot-and-mouth disease virus SAT 1 isolate Egy/AHRI/RV8(2)/2025 VP1 gene, partial cds",
+          "slen": 295
+        },
+        {
+          "uid": "3058045262",
+          "accession": "PX252048.1",
+          "title": "Foot-and-mouth disease virus SAT 1 isolate Egy/AHRI/RV8(1)/2025 VP1 gene, partial cds",
+          "slen": 295
+        },
+        {
+          "uid": "3044069559",
+          "accession": "PX113533.1",
+          "title": "Foot-and-mouth disease virus isolate SAT1/Alexanderia1/Egy/2025 VP1 protein gene, partial cds",
+          "slen": 657
+        },
+        {
+          "uid": "3044069557",
+          "accession": "PX113532.1",
+          "title": "Foot-and-mouth disease virus isolate SAT1/Ismailia2/Egy/2025 VP1 protein gene, partial cds",
+          "slen": 657
+        },
+        {
+          "uid": "3044069555",
+          "accession": "PX113531.1",
+          "title": "Foot-and-mouth disease virus isolate SAT1/Ismailia1/Egy/2025 VP1 protein gene, partial cds",
+          "slen": 657
+        }
+      ]
+    },
+    {
+      "term": "\"foot-and-mouth\"[Title] AND Ethiopia[All Fields] AND 2024[All Fields] AND VP1[Title]",
+      "count": "14",
+      "hits": [
+        {
+          "uid": "3060997876",
+          "accession": "PX308558.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-BSH/01/2025 VP1 capsid protein gene, partial cds",
+          "slen": 1005
+        },
+        {
+          "uid": "3060997874",
+          "accession": "PX308557.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-HAW/02/2024 VP1 capsid protein gene, partial cds",
+          "slen": 991
+        },
+        {
+          "uid": "3060997872",
+          "accession": "PX308556.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-NS/03/2024 VP1 capsid protein gene, partial cds",
+          "slen": 1011
+        },
+        {
+          "uid": "3060997870",
+          "accession": "PX308555.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-AKK/02/2024 VP1 capsid protein gene, partial cds",
+          "slen": 1020
+        },
+        {
+          "uid": "3060997868",
+          "accession": "PX308554.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-NS/02/2024 VP1 capsid protein gene, partial cds",
+          "slen": 962
+        },
+        {
+          "uid": "3060997866",
+          "accession": "PX308553.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-HAW/01/2024 VP1 capsid protein gene, partial cds",
+          "slen": 826
+        },
+        {
+          "uid": "3060997864",
+          "accession": "PX308552.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-SHS/01/2024 VP1 capsid protein gene, partial cds",
+          "slen": 826
+        },
+        {
+          "uid": "3060997862",
+          "accession": "PX308551.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-NS/01/2024 VP1 capsid protein gene, partial cds",
+          "slen": 722
+        },
+        {
+          "uid": "3060997860",
+          "accession": "PX308550.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-AKK/01/2024 VP1 capsid protein gene, partial cds",
+          "slen": 716
+        },
+        {
+          "uid": "2806775954",
+          "accession": "PQ283686.1",
+          "title": "Foot-and-mouth disease virus O isolate ETH/103/2022 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2806775952",
+          "accession": "PQ283685.1",
+          "title": "Foot-and-mouth disease virus O isolate ETH/102/2022 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2806775950",
+          "accession": "PQ283684.1",
+          "title": "Foot-and-mouth disease virus O isolate ETH/100/2022 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2806775948",
+          "accession": "PQ283683.1",
+          "title": "Foot-and-mouth disease virus O isolate ETH/96/2022 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2806775946",
+          "accession": "PQ283682.1",
+          "title": "Foot-and-mouth disease virus O isolate ETH/93/2022 VP1 gene, partial cds",
+          "slen": 639
+        }
+      ]
+    },
+    {
+      "term": "\"foot-and-mouth\"[Title] AND Ethiopia[All Fields] AND 2025[All Fields] AND VP1[Title]",
+      "count": "9",
+      "hits": [
+        {
+          "uid": "3060997876",
+          "accession": "PX308558.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-BSH/01/2025 VP1 capsid protein gene, partial cds",
+          "slen": 1005
+        },
+        {
+          "uid": "3060997874",
+          "accession": "PX308557.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-HAW/02/2024 VP1 capsid protein gene, partial cds",
+          "slen": 991
+        },
+        {
+          "uid": "3060997872",
+          "accession": "PX308556.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-NS/03/2024 VP1 capsid protein gene, partial cds",
+          "slen": 1011
+        },
+        {
+          "uid": "3060997870",
+          "accession": "PX308555.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-AKK/02/2024 VP1 capsid protein gene, partial cds",
+          "slen": 1020
+        },
+        {
+          "uid": "3060997868",
+          "accession": "PX308554.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-NS/02/2024 VP1 capsid protein gene, partial cds",
+          "slen": 962
+        },
+        {
+          "uid": "3060997866",
+          "accession": "PX308553.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-HAW/01/2024 VP1 capsid protein gene, partial cds",
+          "slen": 826
+        },
+        {
+          "uid": "3060997864",
+          "accession": "PX308552.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-SHS/01/2024 VP1 capsid protein gene, partial cds",
+          "slen": 826
+        },
+        {
+          "uid": "3060997862",
+          "accession": "PX308551.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-NS/01/2024 VP1 capsid protein gene, partial cds",
+          "slen": 722
+        },
+        {
+          "uid": "3060997860",
+          "accession": "PX308550.1",
+          "title": "Foot-and-mouth disease virus O isolate FMDV_O_ETH-AKK/01/2024 VP1 capsid protein gene, partial cds",
+          "slen": 716
+        }
+      ]
+    },
+    {
+      "term": "\"Qom\"[All Fields] AND \"foot-and-mouth\"[All Fields] AND VP1[All Fields]",
+      "count": "87",
+      "hits": [
+        {
+          "uid": "2050238799",
+          "accession": "MT443424.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/24/2018 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238795",
+          "accession": "MT443422.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/21/2018 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238793",
+          "accession": "MT443421.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/20/2018 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238789",
+          "accession": "MT443419.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/15/2018 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238775",
+          "accession": "MT443412.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/11/2017 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238771",
+          "accession": "MT443410.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/5/2017 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238769",
+          "accession": "MT443409.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/3/2017 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238727",
+          "accession": "MT443388.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/26/2015 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238725",
+          "accession": "MT443387.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/16/2015 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238723",
+          "accession": "MT443386.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/15/2015 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238715",
+          "accession": "MT443382.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/1/2014 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238709",
+          "accession": "MT443379.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/29/2013 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238697",
+          "accession": "MT443373.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/8/2013 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238695",
+          "accession": "MT443372.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/2/2013 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238635",
+          "accession": "MT443342.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/211/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238633",
+          "accession": "MT443341.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/210/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238623",
+          "accession": "MT443336.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/205/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238609",
+          "accession": "MT443329.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/194/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238607",
+          "accession": "MT443328.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/192/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238591",
+          "accession": "MT443320.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/180/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238547",
+          "accession": "MT443298.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/143/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238529",
+          "accession": "MT443289.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/133/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238493",
+          "accession": "MT443271.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/101/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238465",
+          "accession": "MT443257.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/86/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238449",
+          "accession": "MT443249.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/75/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238425",
+          "accession": "MT443237.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/55/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238421",
+          "accession": "MT443235.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/52/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238389",
+          "accession": "MT443219.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/31/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238387",
+          "accession": "MT443218.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/30/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238385",
+          "accession": "MT443217.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/29/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238381",
+          "accession": "MT443215.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/27/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238377",
+          "accession": "MT443213.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/24/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238375",
+          "accession": "MT443212.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/23/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238367",
+          "accession": "MT443208.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/17/2010 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238319",
+          "accession": "MT443184.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/71/2009 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238317",
+          "accession": "MT443183.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/70/2009 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238309",
+          "accession": "MT443179.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/64/2009 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238303",
+          "accession": "MT443176.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/60/2009 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238273",
+          "accession": "MT443161.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/32/2007 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "2050238271",
+          "accession": "MT443160.1",
+          "title": "Foot-and-mouth disease virus O isolate IRN/31/2007 VP1 gene, partial cds",
+          "slen": 639
+        }
+      ]
+    }
+  ]
+}

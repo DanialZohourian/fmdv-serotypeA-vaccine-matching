@@ -1,0 +1,155 @@
+ 
+Institute for Animal Health 
+Registered Office:  Compton, Newbury, Berkshire  RG20 7NN 
+Telephone: +44 (0) 1635-578411 Facsimile: +44 (0) 1635-577237 
+e-mail: iah@bbsrc.ac.uk Website: http://www.iah.bbsrc.ac.uk 
+ 
+Director:  Professor Martin Shirley PhD    
+ 
+ 
+ 
+ 
+      Reply to Pirbright Laboratory 
+Fax: 01483 232621 
+Direct Dial: 01483 231014 
+E-mail: Elizabeth.byrom@bbsrc.ac.uk 
+ 
+A company limited by guarantee, registered in England no. 559784.  The Institute is also a registered charity, Charity Commissioners Reference No. 228824 
+The Institute is sponsored by the Biotechnology and Biological Sciences Research Council.  An Associated Institute of the University of Reading. 
+ 
+ 
+Pirbright Laboratory 
+Ash Road, Pirbright, Woking  
+Surrey GU24 0NF 
+Tel:  01483-232441 
+Fax:  01483-232448 
+ 
+Compton Laboratory 
+Compton, Newbury, 
+Berkshire RG20 7NN 
+Tel:  01635-578411 
+Fax:  01635-577237 
+ 
+ 
+To: 
+ 
+ 
+ 
+Email: 
+ 
+ 
+From: 
+ 
+ 
+Date:  
+ 
+16th February 2009 
+Subject: 
+ 
+Test results 
+No. Of Pages: 
+2 
+ 
+This message is intended for the use of the person named above and may contain confidential information.  Any 
+other distribution, copying or disclosure is strictly prohibited.  If you have received this telefax in error, please 
+notify us immediately by telephone or E-mail and then return the original transmission to us by mail. 
+Thank you. 
+ 
+Dear 
+, 
+ 
+Please find below the "r1" value report for A Irq 10/2009 and A Irq 17/2009 virus by both 2dm VNT. 
+ 
+Report 
+no: 
+06/09 
+ 2dmVNT 
+Field Isolate: 
+SAU 
+2dmVNT 
+A Tur06 
+A22 
+Irq 
+A Sau 41/91 
+A May97 
+A Irn96 
+A Irn87 
+  
+Isolate ref: 
+test ref: 
+Arriah pool2 
+23-32 
+SI94 
+VJ pool 
+UZ 
+pool 
+VQ 
+pool 
+A Irq 10/2009 
+B66/09 
+(rs1) 
+mean 
+0.74 
+0.27 
+0.32 
+0.12 
+0.05 
+0.12 
+B72/09 
+(rs2) 
+A Irq 17/2009 
+B67/09 
+(rs1) 
+mean 
+>0.83 
+0.32 
+0.35 
+0.13 
+0.05 
+<0.13 
+B73/09 
+(rs2) 
+ 
+ 
+ 
+Email
+
+Interpretation of r1 values 
+ 
+In the case of neutralisation: 
+ 
+r1 = > 0.3. Suggests that there is a close relationship between field isolate and vaccine strain. A potent 
+vaccine containing the vaccine strain is likely to confer protection. 
+ 
+r1 = < 0.3. Suggests that the field isolate is so different from the vaccine strain that the vaccine is 
+unlikely to protect. 
+ 
+In the case of ELISA: 
+ 
+r1 = 0.4-1.0. Suggests that there is a close relationship between field isolate and vaccine strain. A potent 
+vaccine containing the vaccine strain is likely to confer protection. 
+r1 = 0.2-0.39, Suggests that the field isolate is antigenically related to the vaccine strain. The vaccine 
+strain might be suitable for use if no closer match can be found provided that a potent vaccine is used 
+and animals are preferably immunised more than once. 
+r1 = <0.2. Suggests that the field isolate is so different from the vaccine strain that the vaccine is 
+unlikely to protect 
+ 
+N.B.   
+ 
+All of our phylogenetic trees can be accessed via the internet at: 
+ 
+http://www.iah.bbsrc.ac.uk/primary_index/current_research/virus/Picornaviridae/Aphthovirus/index.htm
+l 
+ 
+Yours Sincerley, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Head: World Vesicular Reference Laboratory, Institute for Animal Health 
+ 
+ 
+ 

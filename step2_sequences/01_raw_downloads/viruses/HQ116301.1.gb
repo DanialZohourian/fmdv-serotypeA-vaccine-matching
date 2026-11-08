@@ -1,0 +1,62 @@
+LOCUS       HQ116301                 636 bp    RNA     linear   VRL 25-JUL-2016
+DEFINITION  Foot-and-mouth disease virus - type A isolate A/MAY/1/2007 VP1 (1D)
+            gene, partial cds.
+ACCESSION   HQ116301
+VERSION     HQ116301.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Abdul-Hamid,N.F., Hussein,N.M., Wadsworth,J., Radford,A.D.,
+            Knowles,N.J. and King,D.P.
+  TITLE     Phylogeography of foot-and-mouth disease virus types O and A in
+            Malaysia and surrounding countries
+  JOURNAL   Infect. Genet. Evol. (2010) In press
+   PUBMED   21093614
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Knowles,N.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2010) World Reference Laboratory for
+            Foot-and-Mouth Disease, Institute for Animal Health, Pirbright
+            Laboratory, Ash Road, Pirbright, Woking, Surrey GU24 0NF, United
+            Kingdom
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="A/MAY/1/2007"
+                     /host="pig"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Malaysia"
+                     /collection_date="21-Jan-2007"
+     gene            <1..>636
+                     /gene="1D"
+     CDS             <1..>636
+                     /gene="1D"
+                     /note="capsid polypeptide"
+                     /codon_start=1
+                     /product="VP1"
+                     /protein_id="ADV38227.1"
+                     /translation="TTATGESADPVTTTVENYGGETQAQRRHHTDVGFILDRFVQIKP
+                     VNPIHVIDLMQTHQHGLVGAMLRAATYYFSDLEIVVNHTGNLTWVPNGAPEAALSNTS
+                     NPTAYHKAPFTRLALPYTAPHRVLATVYNGTSKYPAPATRRGDSGPLAARLAAQLPAS
+                     FNFGAIRAAEIQELLVRMKRAELYCPRPLLAVEVSSQDRHKQKIIAPAKQLL"
+ORIGIN      
+        1 accaccgcca ccggggaatc agcagaccct gtcacaacca ccgttgagaa ctacggtggc
+       61 gagacacaag cacagcgacg tcaccacacc gacgtcggct tcatactgga caggtttgtg
+      121 cagatcaagc ctgtgaaccc catacatgtc attgacctca tgcagacaca ccaacatggg
+      181 ctggtgggcg ctatgttgcg agcggccacc tactactttt ctgatcttga gatcgtggtg
+      241 aatcacacgg gcaacctaac atgggtaccc aacggggcac ccgaggcagc actgagcaac
+      301 acgagcaacc ccactgctta ccacaaagca ccgttcacga gacttgcact cccttacacc
+      361 gcgccacacc gcgtgctggc aactgtgtac aacgggacga gcaagtaccc agcgcctgca
+      421 acacggcgag gtgactcggg gcctctcgcg gcgaggctcg ccgcacagct tcctgcctcc
+      481 ttcaacttcg gcgcaattcg agccgcagag atccaagaac tcctcgtgcg catgaagcgt
+      541 gctgagctct actgccccag gccactgctg gcggtggagg tgtcgtcaca agacagacac
+      601 aagcagaaaa tcattgcccc tgcaaagcaa cttctg
+//
+

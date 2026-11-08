@@ -1,0 +1,126 @@
+https://creativecommons.org/licenses/by/3.0/
+10.1016/j.vaccine.2013.08.102
+mmc1.pdf
+http://www.hiv.lanl.gov/
+http://www.wrlfmd.org/
+http://www.wrlfmd.org/
+gr1.jpg
+gr1.gif
+gr2.jpg
+gr2.gif
+gr3.jpg
+gr3.gif
+https://www.ncbi.nlm.nih.gov/nuccore/JF721436
+https://www.ncbi.nlm.nih.gov/nuccore/JF721438
+gr4.jpg
+gr4.gif
+gr5.jpg
+gr5.gif
+10.1016/s0969-2126(00)00014-9
+8081743
+journal=Structure&amp;title=The structure and antigenicity of a type-C foot-and-mouth disease virus&amp;author=S. Lea&amp;author=J. Hernandez&amp;author=W. Blakemore&amp;author=E. Brocchi&amp;author=S. Curry&amp;volume=2&amp;issue=February (2)&amp;publication_year=1994&amp;pages=123-139&amp;pmid=8081743&amp;doi=10.1016/s0969-2126(00)00014-9&amp;
+10.1038/362566a0
+8385272
+journal=Nature&amp;title=Structure of a major immunogenic site on foot-and-mouth disease virus&amp;author=D. Logan&amp;author=R. Abu-Ghazaleh&amp;author=W. Blakemore&amp;author=S. Curry&amp;author=T. Jackson&amp;volume=362&amp;issue=April (6420)&amp;publication_year=1993&amp;pages=566-568&amp;pmid=8385272&amp;doi=10.1038/362566a0&amp;
+10.1128/jvi.63.5.2143-2151.1989
+PMC250631
+2467993
+journal=Journal of Virology&amp;title=Analysis of neutralizing antigenic sites on the surface of type A12 foot-and-mouth disease virus&amp;author=B. Baxt&amp;author=V. Vakharia&amp;author=D.M. Moore&amp;author=A.J. Franke&amp;author=D.O. Morgan&amp;volume=63&amp;issue=May (5)&amp;publication_year=1989&amp;pages=2143-2151&amp;pmid=2467993&amp;doi=10.1128/jvi.63.5.2143-2151.1989&amp;
+10.1099/0022-1317-70-1-59
+2471783
+journal=Journal of General Virology&amp;title=Epitope mapping of foot-and-mouth disease virus with neutralizing monoclonal antibodies&amp;author=C. Bolwell&amp;author=B.E. Clarke&amp;author=N.R. Parry&amp;author=E.J. Ouldridge&amp;author=F. Brown&amp;volume=70&amp;issue=January (Pt 1)&amp;publication_year=1989&amp;pages=59-68&amp;pmid=2471783&amp;doi=10.1099/0022-1317-70-1-59&amp;
+10.1016/j.vetmic.2010.11.003
+21144677
+journal=Veterinary Microbiology&amp;title=Characterisation and epitope mapping of neutralising monoclonal antibodies to A24 Cruzeiro strain of FMDV&amp;author=M. Mahapatra&amp;author=C. Seki&amp;author=S. Upadhyaya&amp;author=P.V. Barnett&amp;author=J. La Torre&amp;volume=149&amp;issue=April (1–2)&amp;publication_year=2011&amp;pages=242-247&amp;pmid=21144677&amp;doi=10.1016/j.vetmic.2010.11.003&amp;
+10.1128/jvi.65.5.2518-2524.1991
+PMC240607
+1707983
+journal=Journal of Virology&amp;title=Identification of neutralizing antigenic sites on VP1 and VP2 of type-A5 foot-and-mouth disease virus, defined by neutralization-resistant variants&amp;author=J.C. Saiz&amp;author=M.J. Gonzalez&amp;author=M.V. Borca&amp;author=F. Sobrino&amp;author=D.M. Moore&amp;volume=65&amp;issue=May (5)&amp;publication_year=1991&amp;pages=2518-2524&amp;pmid=1707983&amp;doi=10.1128/jvi.65.5.2518-2524.1991&amp;
+10.1016/0042-6822(90)90269-w
+1699353
+journal=Virology&amp;title=Sequence analysis of monoclonal antibody resistant mutants of type O foot and mouth disease virus: evidence for the involvement of the three surface exposed capsid proteins in four antigenic sites&amp;author=J.D. Kitson&amp;author=D. McCahon&amp;author=G.J. Belsham&amp;volume=179&amp;issue=November (1)&amp;publication_year=1990&amp;pages=26-34&amp;pmid=1699353&amp;doi=10.1016/0042-6822(90)90269-w&amp;
+10.1099/vir.0.048249-0
+23197575
+journal=Journal of General Virology&amp;title=Mapping of antigenic sites of foot-and-mouth disease virus serotype Asia 1 and relationships with sites described in other serotypes&amp;author=S. Grazioli&amp;author=F. Fallacara&amp;author=E. Brocchi&amp;volume=94&amp;publication_year=2013&amp;pages=559-569&amp;pmid=23197575&amp;doi=10.1099/vir.0.048249-0&amp;
+10.1128/jvi.62.8.2782-2789.1988
+PMC253712
+2455819
+journal=Journal of Virology&amp;title=Antigenic sites on foot-and-mouth disease virus type A10&amp;author=A.A. Thomas&amp;author=R.J. Woortmeijer&amp;author=W. Puijk&amp;author=S.J. Barteling&amp;volume=62&amp;issue=August (8)&amp;publication_year=1988&amp;pages=2782-2789&amp;pmid=2455819&amp;doi=10.1128/jvi.62.8.2782-2789.1988&amp;
+10.1111/j.1865-1682.2009.01074.x
+19432637
+journal=Transboundary and Emerging Diseases&amp;title=Recent spread of a new strain (A-Iran-05) of foot-and-mouth disease virus type A in the Middle East&amp;author=N.J. Knowles&amp;author=M.H. Nazem Shirazi&amp;author=J. Wadsworth&amp;author=K.G. Swabey&amp;author=J.M. Stirling&amp;volume=56&amp;issue=June (5)&amp;publication_year=2009&amp;pages=157-169&amp;pmid=19432637&amp;doi=10.1111/j.1865-1682.2009.01074.x&amp;
+10.1586/14760584.8.3.347
+19249976
+journal=Expert Review of Vaccines&amp;title=Vaccination against foot-and-mouth disease virus: strategies and effectiveness&amp;author=S. Parida&amp;volume=8&amp;issue=3&amp;publication_year=2009&amp;pages=347-365&amp;pmid=19249976&amp;doi=10.1586/14760584.8.3.347&amp;
+10.20506/rst.30.1.2022
+21809754
+journal=Revue Scientifique et Technique-Office International Des Epizooties&amp;title=Combining livestock trade patterns with phylogenetics to help understand the spread of foot and mouth disease in sub-Saharan Africa, the Middle East and Southeast Asia&amp;author=A. Di Nardo&amp;author=N.J. Knowles&amp;author=D.J. Paton&amp;volume=30&amp;issue=April (1)&amp;publication_year=2011&amp;pages=63-85&amp;pmid=21809754&amp;doi=10.20506/rst.30.1.2022&amp;
+10.1099/vir.0.035626-0
+21813704
+journal=Journal of General Virology&amp;title=Evolutionary analysis of serotype A foot-and-mouth disease viruses circulating in Pakistan and Afghanistan during 2002–2009&amp;author=S.M. Jamal&amp;author=G. Ferrari&amp;author=S. Ahmed&amp;author=P. Normann&amp;author=S. Curry&amp;volume=92&amp;issue=December&amp;publication_year=2011&amp;pages=2849-2864&amp;pmid=21813704&amp;doi=10.1099/vir.0.035626-0&amp;
+10.1017/s002217240005381x
+PMC2129748
+211160
+journal=Journal of Hygine (London)&amp;title=Microneutralization tests for serological typing and subtyping of foot-and-mouth disease virus strains&amp;author=M.M. Rweyemamu&amp;author=J.C. Booth&amp;author=M. Head&amp;author=T.W. Pay&amp;volume=81&amp;issue=August (1)&amp;publication_year=1978&amp;pages=107-123&amp;pmid=211160&amp;doi=10.1017/s002217240005381x&amp;
+10.1016/s0092-1157(84)80057-8
+6330121
+journal=Journal of Biological Standardization&amp;title=Food and mouth disease virus strain differentiation: analysis of the serological data&amp;author=M.M. Rweyemamu&amp;author=P.J. Hingley&amp;volume=12&amp;issue=2&amp;publication_year=1984&amp;pages=225-229&amp;pmid=6330121&amp;doi=10.1016/s0092-1157(84)80057-8&amp;
+10.1016/j.vetmic.2007.06.022
+17689892
+journal=Veterinary Microbiology&amp;title=Evaluation of a monoclonal antibody-based approach for the selection of foot-and-mouth disease (FMD) vaccine strains&amp;author=M. Mahapatra&amp;author=N. Aggarwal&amp;author=S. Cox&amp;author=R.J. Statham&amp;author=N.J. Knowles&amp;volume=126&amp;issue=January (1–3)&amp;publication_year=2008&amp;pages=40-50&amp;pmid=17689892&amp;doi=10.1016/j.vetmic.2007.06.022&amp;
+10.1093/nar/25.24.4876
+PMC147148
+9396791
+journal=Nucleic Acids Research&amp;title=The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools&amp;author=J.D. Thompson&amp;author=T.J. Gibson&amp;author=F. Plewniak&amp;author=F. Jeanmougin&amp;author=D.G. Higgins&amp;volume=25&amp;issue=December (24)&amp;publication_year=1997&amp;pages=4876-4882&amp;pmid=9396791&amp;doi=10.1093/nar/25.24.4876&amp;
+journal=Nucleic Acids Symposium Series&amp;title=BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT&amp;author=T.A. Hall&amp;volume=41&amp;publication_year=1999&amp;pages=95-98&amp;
+10.1007/BF01731581
+7463489
+journal=Journal of Molecular Evolution&amp;title=A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide-sequences&amp;author=M. Kimura&amp;volume=16&amp;issue=2&amp;publication_year=1980&amp;pages=111-120&amp;pmid=7463489&amp;doi=10.1007/BF01731581&amp;
+10.1093/molbev/msm092
+17488738
+journal=Molecular Biology and Evolution&amp;title=MEGA4: Molecular Evolutionary Genetics Analysis (MEGA) software version 4.0&amp;author=K. Tamura&amp;author=J. Dudley&amp;author=M. Nei&amp;author=S. Kumar&amp;volume=24&amp;issue=August (8)&amp;publication_year=2007&amp;pages=1596-1599&amp;pmid=17488738&amp;doi=10.1093/molbev/msm092&amp;
+10.1093/molbev/msn083
+18397919
+journal=Molecular Biology and Evolution&amp;title=jModelTest: phylogenetic model averaging&amp;author=D. Posada&amp;volume=25&amp;issue=July (7)&amp;publication_year=2008&amp;pages=1253-1256&amp;pmid=18397919&amp;doi=10.1093/molbev/msn083&amp;
+10.1186/1471-2148-7-214
+PMC2247476
+17996036
+journal=BMC Evolutionary Biology&amp;title=BEAST: Bayesian evolutionary analysis by sampling trees&amp;author=A.J. Drummond&amp;author=A. Rambaut&amp;volume=7&amp;issue=November&amp;publication_year=2007&amp;pages=214&amp;pmid=17996036&amp;doi=10.1186/1471-2148-7-214&amp;
+10.1186/1741-7007-8-114
+PMC2949620
+20807414
+journal=BMC Biology&amp;title=Bayesian random local clocks, or one rate to rule them all&amp;author=A.J. Drummond&amp;author=M.A. Suchard&amp;volume=8&amp;issue=August&amp;publication_year=2010&amp;pages=114&amp;pmid=20807414&amp;doi=10.1186/1741-7007-8-114&amp;
+10.1093/oxfordjournals.molbev.a040410
+3444411
+journal=Molecular Biology and Evolution&amp;title=Simple methods for estimating the numbers of synonymous and nonsynonymous nucleotide substitutions&amp;author=M. Nei&amp;author=T. Gojobori&amp;volume=3&amp;issue=September (5)&amp;publication_year=1986&amp;pages=418-426&amp;pmid=3444411&amp;doi=10.1093/oxfordjournals.molbev.a040410&amp;
+10.1002/prot.10146
+12112692
+journal=Proteins-Structure Function and Bioinformatics&amp;title=Scoring residue conservation&amp;author=W.S.J. Valdar&amp;volume=48&amp;issue=August (2)&amp;publication_year=2002&amp;pages=227-241&amp;pmid=12112692&amp;doi=10.1002/prot.10146&amp;
+10.1128/JVI.01236-06
+PMC1642183
+16971422
+journal=Journal of Virology&amp;title=Molecular epidemiology of the foot-and-mouth disease virus outbreak in the United Kingdom in 2001&amp;author=E.M. Cottam&amp;author=D.T. Haydon&amp;author=D.J. Paton&amp;author=J. Gloster&amp;author=J.W. Wilesmith&amp;volume=80&amp;issue=November (22)&amp;publication_year=2006&amp;pages=11274-11282&amp;pmid=16971422&amp;doi=10.1128/JVI.01236-06&amp;
+10.1016/j.virol.2008.09.011
+18945462
+journal=Virology&amp;title=The tale of a modern animal plague: tracing the evolutionary history and determining the time-scale for foot and mouth disease virus&amp;author=D.C. Tully&amp;author=M.A. Fares&amp;volume=382&amp;issue=December (2)&amp;publication_year=2008&amp;pages=250-256&amp;pmid=18945462&amp;doi=10.1016/j.virol.2008.09.011&amp;
+10.1016/j.meegid.2010.06.017
+20619358
+journal=Infection Genetics and Evolution&amp;title=Diversity and transboundary mobility of serotype O foot-and-mouth disease virus in East Africa: implications for vaccination policies&amp;author=S.N. Balinda&amp;author=A.K. Sangula&amp;author=R. Heller&amp;author=V.B. Muwanika&amp;author=G.J. Belsham&amp;volume=10&amp;issue=October (7)&amp;publication_year=2010&amp;pages=1058-1065&amp;pmid=20619358&amp;doi=10.1016/j.meegid.2010.06.017&amp;
+10.1017/S0950268810000580
+20334728
+journal=Epidemiology and Infection&amp;title=Low diversity of foot-and-mouth disease serotype C virus in Kenya: evidence for probable vaccine strain re-introductions in the field&amp;author=A.K. Sangula&amp;author=H.R. Siegismund&amp;author=G.J. Belsham&amp;author=S.N. Balinda&amp;author=C. Masembe&amp;volume=139&amp;issue=February (2)&amp;publication_year=2011&amp;pages=189-196&amp;pmid=20334728&amp;doi=10.1017/S0950268810000580&amp;
+10.1007/s00705-011-0921-3
+21279395
+journal=Archives of Virology&amp;title=Molecular epidemiology of foot-and-mouth disease virus serotypes A and O with emphasis on Korean isolates: temporal and spatial dynamics&amp;author=S.H. Yoon&amp;author=K.-N. Lee&amp;author=J.-H. Park&amp;author=H. Kim&amp;volume=156&amp;issue=May (5)&amp;publication_year=2011&amp;pages=817-826&amp;pmid=21279395&amp;doi=10.1007/s00705-011-0921-3&amp;
+10.1016/j.meegid.2011.03.006
+21419880
+journal=Infection Genetics and Evolution&amp;title=Genetic diversity of foot-and-mouth disease virus serotype O in Pakistan and Afghanistan, 1997–2009&amp;author=S.M. Jamal&amp;author=G. Ferrari&amp;author=S. Ahmed&amp;author=P. Normann&amp;author=G.J. Belsham&amp;volume=11&amp;issue=August (6)&amp;publication_year=2011&amp;pages=1229-1238&amp;pmid=21419880&amp;doi=10.1016/j.meegid.2011.03.006&amp;
+10.1371/journal.pone.0049650
+PMC3511503
+23226216
+journal=PLoS ONE&amp;title=Reconstruction of the transmission history of RNA virus outbreaks using full genome sequences: foot-and-mouth disease virus in Bulgaria in 2011&amp;author=B. Valdazo-Gonzalez&amp;author=L. Polihronova&amp;author=T. Alexandrov&amp;author=P. Normann&amp;author=N.J. Knowles&amp;volume=7.&amp;issue=November (11)&amp;publication_year=2012&amp;pmid=23226216&amp;doi=10.1371/journal.pone.0049650&amp;
+Grazioli S., Moretti S., Barbieri I., Crosatti M., Brocchi E. Group of the Standing Committee of the European commision of Foot and Mouth Disease; 2006. Use of monoclonal antibodies to identify and map new antigenic determinants involved in neutralisation on FMD viruses type SAT 1 and SAT 2. Paphos, Cyprus: report of the session of the research foot and mouth disease.
+10.1099/vir.0.037952-0
+22158876
+journal=Journal of General Virology&amp;title=Foot-and-mouth disease virus epitope dominance in the antibody response of vaccinated animals&amp;author=M. Mahapatra&amp;author=P. Hamblin&amp;author=D.J. Paton&amp;volume=93&amp;issue=March (Pt 3)&amp;publication_year=2012&amp;pages=488-493&amp;pmid=22158876&amp;doi=10.1099/vir.0.037952-0&amp;
+mmc1.pdf

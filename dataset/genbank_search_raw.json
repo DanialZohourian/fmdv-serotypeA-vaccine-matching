@@ -1,0 +1,630 @@
+{
+  "primary": [
+    {
+      "virus": "A/IRN/10/2018",
+      "query": "A/IRN/10/2018",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/IRN/23/2018",
+      "query": "A/IRN/23/2018",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/IRQ/10/2009",
+      "query": "A/IRQ/10/2009",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/IRQ/17/2009",
+      "query": "A/IRQ/17/2009",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/AFG/50/2017",
+      "query": "A/AFG/50/2017",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/PAK/1/2018",
+      "query": "A/PAK/1/2018",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/PAK/24/2019",
+      "query": "A/PAK/24/2019",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/PAK/4/2023",
+      "query": "A/PAK/4/2023",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/PAK/5/2023",
+      "query": "A/PAK/5/2023",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/ETH/25/2019",
+      "query": "A/ETH/25/2019",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/ETH/1/2020",
+      "query": "A/ETH/1/2020",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/ETH/4/2022",
+      "query": "A/ETH/4/2022",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/ETH/39/2024",
+      "query": "A/ETH/39/2024",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/ETH/15/2025",
+      "query": "A/ETH/15/2025",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/TAI/5/2021",
+      "query": "A/TAI/5/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/TAI/6/2021",
+      "query": "A/TAI/6/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/TAI/8/2021",
+      "query": "A/TAI/8/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/TAI/1/2022",
+      "query": "A/TAI/1/2022",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/TAI/14/2022",
+      "query": "A/TAI/14/2022",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/KEN/15/2021",
+      "query": "A/KEN/15/2021",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/KEN/6/2023",
+      "query": "A/KEN/6/2023",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/EGY/1/2025",
+      "query": "A/EGY/1/2025",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/MAI/12/2006",
+      "query": "A/MAI/12/2006",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "virus": "A/MAI/16/2006",
+      "query": "A/MAI/16/2006",
+      "count": "0",
+      "hits": []
+    }
+  ],
+  "alternate": [
+    {
+      "virus": "A/IRN/10/2018",
+      "queries": [
+        {
+          "query": "A/Iran/10/2018",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "Iran/10/2018",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "IRN/10/18",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/IRN/23/2018",
+      "queries": [
+        {
+          "query": "A/Iran/23/2018",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "Iran/23/2018",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "IRN/23/18",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/IRQ/10/2009",
+      "queries": [
+        {
+          "query": "A/Iraq/10/2009",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "Iraq/10/2009",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "IQ/10/09",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/IRQ/17/2009",
+      "queries": [
+        {
+          "query": "A/Iraq/17/2009",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "Iraq/17/2009",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "IQ/17/09",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/AFG/50/2017",
+      "queries": [
+        {
+          "query": "A/Afghanistan/50/2017",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "AFG/50/17",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/TAI/5/2021",
+      "queries": [
+        {
+          "query": "A/THA/5/2021",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "A/Thailand/5/2021",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "TAI/5/21",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/TAI/6/2021",
+      "queries": [
+        {
+          "query": "A/THA/6/2021",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "A/Thailand/6/2021",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/TAI/8/2021",
+      "queries": [
+        {
+          "query": "A/THA/8/2021",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "A/Thailand/8/2021",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/TAI/1/2022",
+      "queries": [
+        {
+          "query": "A/THA/1/2022",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "A/Thailand/1/2022",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/TAI/14/2022",
+      "queries": [
+        {
+          "query": "A/THA/14/2022",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "A/Thailand/14/2022",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/MAI/12/2006",
+      "queries": [
+        {
+          "query": "A/MAL/12/2006",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "A/MYS/12/2006",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "Malaysia/12/2006",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/MAI/16/2006",
+      "queries": [
+        {
+          "query": "A/MAL/16/2006",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "A/MYS/16/2006",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "Malaysia/16/2006",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/PAK/1/2018",
+      "queries": [
+        {
+          "query": "A/Pakistan/1/2018",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "PAK/1/18",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/PAK/24/2019",
+      "queries": [
+        {
+          "query": "A/Pakistan/24/2019",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "PAK/24/19",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/PAK/4/2023",
+      "queries": [
+        {
+          "query": "A/Pakistan/4/2023",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "PAK/4/23",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/PAK/5/2023",
+      "queries": [
+        {
+          "query": "A/Pakistan/5/2023",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "PAK/5/23",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/ETH/25/2019",
+      "queries": [
+        {
+          "query": "A/Ethiopia/25/2019",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "ETH/25/19",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/ETH/1/2020",
+      "queries": [
+        {
+          "query": "A/Ethiopia/1/2020",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "ETH/1/20",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/ETH/4/2022",
+      "queries": [
+        {
+          "query": "A/Ethiopia/4/2022",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "ETH/4/22",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/ETH/39/2024",
+      "queries": [
+        {
+          "query": "A/Ethiopia/39/2024",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "ETH/39/24",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/ETH/15/2025",
+      "queries": [
+        {
+          "query": "A/Ethiopia/15/2025",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "ETH/15/25",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/KEN/15/2021",
+      "queries": [
+        {
+          "query": "A/Kenya/15/2021",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "KEN/15/21",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/KEN/6/2023",
+      "queries": [
+        {
+          "query": "A/Kenya/6/2023",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "KEN/6/23",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    },
+    {
+      "virus": "A/EGY/1/2025",
+      "queries": [
+        {
+          "query": "A/Egypt/1/2025",
+          "count": "0",
+          "hits": []
+        },
+        {
+          "query": "EGY/1/25",
+          "count": "0",
+          "hits": []
+        }
+      ]
+    }
+  ],
+  "broad": [
+    {
+      "country": "Iran",
+      "year": "2002",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "country": "Pakistan",
+      "year": "2003",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "country": "Bhutan",
+      "year": "2003",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "country": "Kenya",
+      "year": "2003",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "country": "Sudan",
+      "year": "2006",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "country": "Ethiopia",
+      "year": "2007",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "country": "Iraq",
+      "year": "2009",
+      "count": "0",
+      "hits": []
+    }
+  ],
+  "qom": [
+    {
+      "term": "\"Qom B3\"[All Fields]",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "term": "\"Qom\"[All Fields] AND \"foot-and-mouth\"[All Fields] AND 2015[PDAT]",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "term": "\"A/IRN/Qom/2015\"[All Fields]",
+      "count": "0",
+      "hits": []
+    },
+    {
+      "term": "\"Iran\"[All Fields] AND \"serotype A\"[All Fields] AND 2015[PDAT] AND VP1[All Fields]",
+      "count": "3",
+      "hits": [
+        {
+          "uid": "954622572",
+          "accession": "KT223559.1",
+          "title": "Foot-and-mouth disease virus - type A isolate IRN/20/2012 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "954622570",
+          "accession": "KT223558.1",
+          "title": "Foot-and-mouth disease virus - type A isolate IRN/12/2012 VP1 gene, partial cds",
+          "slen": 639
+        },
+        {
+          "uid": "954622568",
+          "accession": "KT223557.1",
+          "title": "Foot-and-mouth disease virus - type A isolate IRN/69/2011 VP1 gene, partial cds",
+          "slen": 639
+        }
+      ]
+    }
+  ]
+}

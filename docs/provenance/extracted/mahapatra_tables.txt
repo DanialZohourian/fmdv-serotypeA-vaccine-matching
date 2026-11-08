@@ -1,0 +1,34 @@
+FILE mahapatra.xml tables 2
+
+===== TABLE 1 =====
+CAPTION: 
+No. | Name | Topotype | Strain | Sub-lineage | Country, region | Host | Date collected | Accession No.
+1 | A22/IRQ/24/64 | ASIA | A22 | ND | Mosul, Iraq | Bovine | 1964 | Upadhyaya et al. [3]
+2 | A/TUR/2006 | ASIA | A-Iran-2005 | ND | Eskisehir, Turkey | Bovine | 23/06/2006 | Upadhyaya et al. [3]
+3 | A/IRN/78/2009 | ASIA | A-Iran-2005 | FAR-09 | Fars, Iran | NK | 04/11/2009 | Upadhyaya et al. [3]
+4 | A/IRN/15/2012 | ASIA | A-Iran-2005 | SIS-12 | Zahedan, Iran | Bovine | 24/06/2012 | This study
+5 | A/IRN/22/2012 | ASIA | A-Iran-2005 | SIS-10 | Qom, Iran | Bovine | 09/07/2012 | This study
+6 | A/IRN/24/2012 | ASIA | A-Iran-2005 | SIS-10 | Tehran, Iran | Bovine | 09/10/2012 | This study
+7 | A/IRN/25/2012 | ASIA | A-Iran-2005 | SIS-12 | Tehran, Iran | Bovine | 25/10/2012 | This study
+8 | A/IRN/30/2012 | ASIA | A-Iran-2005 | SIS-12 | Mazandaran, Iran | Bovine | 05/11/2012 | This study
+9 | A/IRN/32/2012 | ASIA | A-Iran-2005 | SIS-10 | Yazd, Iran | Bovine | 08/11/2012 | This study
+10 | A/IRN/33/2012 | ASIA | A-Iran-2005 | SIS-12 | Esfahan, Iran | Bovine | 17/11/2012 | This study
+11 | A/IRN/35/2012 | ASIA | A-Iran-2005 | SIS-12 | Qom, Iran | Bovine | 18/12/2012 | This study
+12 | A/IRN/37/2012a | ASIA | A-Iran-2005 | SIS-10 | Alborz, Iran | Bovine | 24/12/2012 | N/A
+13 | A/TUR/05/2012 | ASIA | A-Iran-2005 | SIS-10 | Cavuslar, Turkey | Bovine | 11/01/2012 | This study
+14 | A/IRN/01/2013 | ASIA | A-Iran-2005 | SIS-10 | Tehran, Iran | Bovine | 01/01/2013 | This study
+15 | A/IRN/04/2013 | ASIA | A-Iran-2005 | SIS-10 | Alborz, Iran | Bovine | 01/01/2013 | This study
+16 | A/IRN/06/2013 | ASIA | A-Iran-2005 | SIS-10 | East Azerbaijan, Iran | Bovine | 01/01/2013 | This study
+17 | A/IRN/07/2013 | ASIA | A-Iran-2005 | SIS-10 | Ardabil, Iran | Bovine | 01/01/2013 | This study
+18 | A/IRN/10/2013a | ASIA | A-Iran-2005 | SIS-10 | Tehran, Iran | Bovine | 01/01/2013 | N/A
+
+===== TABLE 2 =====
+CAPTION: 
+Name of the country/sub-lineagesa | AFG | IRN | IRQ | PAK | TUR
+AFG-07b | 2009– 11 | 2009–12 | 2010 | 2009–11 | 2010–11
+BAR-08b | – | 2009–10 | 2009 | 2009 | 2009
+FAR-09 | – | 2009–10, 2013 | – | 2014–15 | –
+SIS-10b | – | 2010–14 | 2013 | – | 2011–14
+HER-10b | 2011 | 2011–12 | – | 2012 | –
+FAR-11 | 2013 | 2011, 2013–14 | – | 2011–15 | –
+SIS-12 | – | 2012–13 | – | 2012–13 | –

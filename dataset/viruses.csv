@@ -1,0 +1,211 @@
+﻿field_virus,topotype,lineage,host,collection_year,country,source_paper,sublineage,genbank_accession,sequence_source,sequence_title
+A22/IRQ/24/64,ASIA,A22,Bovine,1964,Iraq,Upadhyaya_2014_Vaccine_S1,ND,KY825717.1,GenBank,"Foot-and-mouth disease virus A isolate A22/IRQ/24/64 polyprotein gene, partial cds"
+A/IRN/3/96,ASIA,Iran-96,Bovine,1996,Iran,Upadhyaya_2014_Vaccine_S1,,,,
+A/IRN/32/2001,ASIA,nd,Bovine,2001,Iran,Upadhyaya_2014_Vaccine_S1,,FJ755017.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/32/2001 VP1 (1D) gene, partial cds"
+A/IRN/6/2002,ASIA,nd,Bovine,2002,Iran,Upadhyaya_2014_Vaccine_S1,,,,
+A/IRQ/108/2002,ASIA,Iran-96,Bovine,,Iraq,Upadhyaya_2014_Vaccine_S1,,,,
+A/TUR/4/2003,ASIA,Iran-96,Bovine,2003,Turkey,Upadhyaya_2014_Vaccine_S1,,,,
+A/IRN/7/2004,ASIA,Iran-05,Bovine,2004,Iran,Upadhyaya_2014_Vaccine_S1,,EU414530.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/7/2004 VP1 (1D) gene, partial cds"
+A/IRN/4/2005,ASIA,Iran-05,nk,2005,Iran,Upadhyaya_2014_Vaccine_S1,,FJ755024.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/4/2005 VP1 (1D) gene, partial cds"
+A/IRN/5/2005,ASIA,Iran-05,Bovine,2005,Iran,Upadhyaya_2014_Vaccine_S1,,FJ755025.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/5/2005 VP1 (1D) gene, partial cds"
+A/IRN/7/2005,ASIA,Iran-05,Ovine,2005,Iran,Upadhyaya_2014_Vaccine_S1,,FJ755026.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/7/2005 VP1 (1D) gene, partial cds"
+A/IRN/30/2005,ASIA,Iran-05,Bovine,2005,Iran,Upadhyaya_2014_Vaccine_S1,,FJ755040.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/30/2005 VP1 (1D) gene, partial cds"
+A/SAU/15/2005,ASIA,Iran-05,Bovine,2005,Saudi Arabia,Upadhyaya_2014_Vaccine_S1,,,,
+A/JOR/3/2006,ASIA,Iran-05,nk,2006,Jordan,Upadhyaya_2014_Vaccine_S1,,FJ755079.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/JOR/3/2006 VP1 (1D) gene, partial cds"
+A/JOR/4/2006,ASIA,Iran-05,nk,2006,Jordan,Upadhyaya_2014_Vaccine_S1,,FJ755080.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/JOR/4/2006 VP1 (1D) gene, partial cds"
+A/IRN/5/2006,ASIA,Iran-05,Bovine,2006,Iran,Upadhyaya_2014_Vaccine_S1,,FJ755056.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/5/2006 VP1 (1D) gene, partial cds"
+A/IRN/7/2006,ASIA,Iran-05,Bovine,2006,Iran,Upadhyaya_2014_Vaccine_S1,,FJ755057.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/7/2006 VP1 (1D) gene, partial cds"
+A/IRN/54/2006,ASIA,Iran-05,Bovine,2006,Iran,Upadhyaya_2014_Vaccine_S1,,FJ755058.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/54/2006 VP1 (1D) gene, partial cds"
+A/PAK/5/2006,ASIA,Iran-05,Bovine,2006,Pakistan,Upadhyaya_2014_Vaccine_S1,,EF494488,GenBank,"Foot-and-mouth disease virus - type A isolate A/PAK/5/2006 VP1 (1D) gene, partial cds"
+A/TUR/2/2006,ASIA,Iran-05,Bovine,2006,Turkey,Upadhyaya_2014_Vaccine_S1,,FJ755101.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/TUR/2/2006 VP1 (1D) gene, partial cds"
+A/TUR/4/2006,ASIA,Iran-05,Bovine,2006,Turkey,Upadhyaya_2014_Vaccine_S1,,,,
+A/TUR/6/2006,ASIA,Iran-05,Bovine,2006,Turkey,Upadhyaya_2014_Vaccine_S1,,,,
+A/TUR/19/2006,ASIA,Iran-05,Bovine,2006,Turkey,Upadhyaya_2014_Vaccine_S1,,,,
+A/TUR/20/2006,ASIA,Iran-05,Bovine,2006,Turkey,Upadhyaya_2014_Vaccine_S1,,,,
+A/AFG/7/2007,ASIA,Iran-05,Bovine,2007,Afghanistan,Upadhyaya_2014_Vaccine_S1,,FJ755008.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/AFG/7/2007 VP1 (1D) gene, partial cds"
+A/AFG/44/2007,ASIA,Iran-05,Bovine,2007,Afghanistan,Upadhyaya_2014_Vaccine_S1,AFG-07,FJ755009.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/AFG/44/2007 VP1 (1D) gene, partial cds"
+A/IRN/36/2007,ASIA,Iran-05,Bovine,2007,Iran,Upadhyaya_2014_Vaccine_S1,,FJ755062.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/36/2007 VP1 (1D) gene, partial cds"
+A/IRN/39/2007,ASIA,Iran-05,Bovine,2007,Iran,Upadhyaya_2014_Vaccine_S1,,FJ755065.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/39/2007 VP1 (1D) gene, partial cds"
+A/TUR/8/2007,ASIA,Iran-05,Bovine,2007,Turkey,Upadhyaya_2014_Vaccine_S1,,,,
+A/TUR/24/2007,ASIA,Iran-05,Bovine,2007,Turkey,Upadhyaya_2014_Vaccine_S1,,,,
+A/TUR/25/2007,ASIA,Iran-05,Bovine,2007,Turkey,Upadhyaya_2014_Vaccine_S1,,,,
+A/TUR/7/2008,ASIA,Iran-05,Bovine,2008,Turkey,Upadhyaya_2014_Vaccine_S1,ARD-07,,,
+A/TUR/11/2008,ASIA,Iran-05,Bovine,2008,Turkey,Upadhyaya_2014_Vaccine_S1,ARD-07,,,
+A/TUR/33/2008,ASIA,Iran-05,Bovine,2008,Turkey,Upadhyaya_2014_Vaccine_S1,EZM-07,,,
+A/IRN/2/2009,ASIA,Iran-05,nk,2009,Iran,Upadhyaya_2014_Vaccine_S1,BAR-08,,,
+A/IRN/6/2009,ASIA,Iran-05,nk,2009,Iran,Upadhyaya_2014_Vaccine_S1,BAR-08,,,
+A/IRN/25/2009,ASIA,Iran-05,nk,2009,Iran,Upadhyaya_2014_Vaccine_S1,BAR-08,,,
+A/IRN/37/2009,ASIA,Iran-05,Bovine,2009,Iran,Upadhyaya_2014_Vaccine_S1,BAR-08,,,
+A/IRN/63/2009,ASIA,Iran-05,Bovine,2009,Iran,Upadhyaya_2014_Vaccine_S1,BAR-08,,,
+A/IRN/73/2009,ASIA,Iran-05,nk,2009,Iran,Upadhyaya_2014_Vaccine_S1,AFG-07,,,
+A/IRN/78/2009,ASIA,Iran-05,nk,2009,Iran,Upadhyaya_2014_Vaccine_S1,FAR-09,,,
+A/PAK/4/2009,ASIA,Iran-05,Bovine,2009,Pakistan,Upadhyaya_2014_Vaccine_S1,BAR-08,,,
+A/TUR/7/2009,ASIA,Iran-05,Bovine,2009,Turkey,Upadhyaya_2014_Vaccine_S1,ARD-07,,,
+A/TUR/18/2009,ASIA,Iran-05,Bovine,2009,Turkey,Upadhyaya_2014_Vaccine_S1,BAR-08,,,
+A/IRN/9/2010,ASIA,Iran-05,Bovine,2010,Iran,Upadhyaya_2014_Vaccine_S1,ESF-10,,,
+A/IRN/36/2010,ASIA,Iran-05,Bovine,2010,Iran,Upadhyaya_2014_Vaccine_S1,BAR-08,,,
+A/IRN/73/2010,ASIA,Iran-05,Bovine,2010,Iran,Upadhyaya_2014_Vaccine_S1,AFG-07,,,
+A/IRN/125/2010,ASIA,Iran-05,Bovine,2010,Iran,Upadhyaya_2014_Vaccine_S1,AFG-07,,,
+A/PAK/12/2010,ASIA,Iran-05,Buffalo,2010,Pakistan,Upadhyaya_2014_Vaccine_S1,AFG-07,,,
+A/PAK/13/2010,ASIA,Iran-06,Buffalo,2010,Pakistan,Upadhyaya_2014_Vaccine_S1,BAR-08,,,
+A/PAK/24/2010,ASIA,Iran-05,Buffalo,2010,Pakistan,Upadhyaya_2014_Vaccine_S1,AFG-07,,,
+A/TUR/20/2010,ASIA,Iran-05,Bovine,2010,Turkey,Upadhyaya_2014_Vaccine_S1,ARD-07,,,
+A/TUR/34/2010,ASIA,Iran-05,Bovine,2010,Turkey,Upadhyaya_2014_Vaccine_S1,AFG-07,,,
+A/TUR/43/2010,ASIA,Iran-05,Bovine,2010,Turkey,Upadhyaya_2014_Vaccine_S1,AFG-07,,,
+A/AFG/12/2011,ASIA,Iran-05,nk,2011,Afghanistan,Upadhyaya_2014_Vaccine_S1,,,,
+A/AFG/34/2011,ASIA,Iran-05,nk,2011,Afghanistan,Upadhyaya_2014_Vaccine_S1,AFG-07,,,
+A/IRN/36/2011,ASIA,Iran-05,Bovine,2011,Iran,Upadhyaya_2014_Vaccine_S1,AFG-07,,,
+A/IRN/45/2011,ASIA,Iran-05,Bovine,2011,Iran,Upadhyaya_2014_Vaccine_S1,QAZ-11,,,
+A/COD/02/2011,African,I,,2011,,Bari_2014_Vaccine_S1,,,,
+A/COD/03/2011,African,I,,2011,,Bari_2014_Vaccine_S1,,,,
+A/COD/08/2011,African,I,,2011,,Bari_2014_Vaccine_S1,,,,
+A/COD/09/2011,African,I,,2011,,Bari_2014_Vaccine_S1,,,,
+A/COD/12/2011,African,I,,2011,,Bari_2014_Vaccine_S1,,,,
+A/ETH/06/2000,African,VII,,2000,,Bari_2014_Vaccine_S1,,,,
+A/ETH/09/2005,African,VII,,2000,,Bari_2014_Vaccine_S1,,,,
+A/ETH/10/2005,African,VII,,2002,,Bari_2014_Vaccine_S1,,,,
+A/EA/1981,African,II,,1981,,Bari_2014_Vaccine_S1,,,,
+A/EA/2007,African,VII,,2007,,Bari_2014_Vaccine_S1,,,,
+A/ETH/07/2008,African,VII,,2008,,Bari_2014_Vaccine_S1,,,,
+A/ETH/09/2008,African,VII,,2008,,Bari_2014_Vaccine_S1,,,,
+A/ETH/13/2009,African,VII,,2009,,Bari_2014_Vaccine_S1,,,,
+A/ERI/1998,African,IV,,1998,,Bari_2014_Vaccine_S1,,,,
+A/ERI/03/1998,African,IV,,1998,,Bari_2014_Vaccine_S1,,EU919238,,
+A/ERI/05/2006,African,IV,,2006,,Bari_2014_Vaccine_S1,,,,
+A/ERI/04/2007,African,IV,,2007,,Bari_2014_Vaccine_S1,,,,
+A/ERI/01/2008,African,IV,,2008,,Bari_2014_Vaccine_S1,,,,
+A/ERI/05/2008,African,IV,,2008,,Bari_2014_Vaccine_S1,,,,
+A/ERI/01/2006,African,IV,,2006,,Bari_2014_Vaccine_S1,,,,
+A/ERI/16/2009,African,IV,,2009,,Bari_2014_Vaccine_S1,,,,
+A/ERI/40/2009,African,IV,,2009,,Bari_2014_Vaccine_S1,,,,
+A/EGY/04/2009,African,VII,,2009,,Bari_2014_Vaccine_S1,,,,
+A/EGY/09/2009,African,I,,2009,,Bari_2014_Vaccine_S1,,,,
+A/EGY/16/2009,African,VII,,2009,,Bari_2014_Vaccine_S1,,,,
+A/EGY/01/2010,Asian,A-Iran-2005,,2010,,Bari_2014_Vaccine_S1,,,,
+A/EGY/03/2010,Asian,A-Iran-2005,,2010,,Bari_2014_Vaccine_S1,,,,
+A/EGY/02/2011,Asian,A-Iran-2005,,2011,,Bari_2014_Vaccine_S1,,,,
+A/EGY/05/2011,Asian,A-Iran-2005,,2011,,Bari_2014_Vaccine_S1,,,,
+A/EGY/08/2011,Asian,A-Iran-2005,,2011,,Bari_2014_Vaccine_S1,,,,
+A/EGY/09/2011,Asian,A-Iran-2005,,2011,,Bari_2014_Vaccine_S1,,,,
+A/EGY/01/2012,African,IV,,2012,,Bari_2014_Vaccine_S1,,,,
+A/KEN/05/1980,African,I,,1980,,Bari_2014_Vaccine_S1,,,,
+A/EA/2005,African,I,,2005,,Bari_2014_Vaccine_S1,,,,
+A/KEN/01/2003,African,I,,2003,,Bari_2014_Vaccine_S1,,,,
+A/KEN/08/2008,African,I,,2008,,Bari_2014_Vaccine_S1,,,,
+A/KEN/28/2008,African,I,,2008,,Bari_2014_Vaccine_S1,,,,
+A/LIB/01/2009,Asian,A-Iran-2005,,2009,,Bari_2014_Vaccine_S1,,,,
+A/LIB/21/2009,Asian,A-Iran-2005,,2009,,Bari_2014_Vaccine_S1,,,,
+A/LIB/42/2009,Asian,A-Iran-2005,,2009,,Bari_2014_Vaccine_S1,,,,
+A/LIB/94/2009,Asian,A-Iran-2005,,2009,,Bari_2014_Vaccine_S1,,,,
+A/LIB/117/2009,Asian,A-Iran-2005,,2009,,Bari_2014_Vaccine_S1,,,,
+A/SUD/01/2006,African,IV,,2006,,Bari_2014_Vaccine_S1,,,,
+A/EA/1984,African,IV,,1984,,Bari_2014_Vaccine_S1,,,,
+A/SUD/01/2011,African,IV,,2011,,Bari_2014_Vaccine_S1,,,,
+A/SUD/06/2011,African,IV,,2011,,Bari_2014_Vaccine_S1,,,,
+A/SUD/07/2011,African,IV,,2011,,Bari_2014_Vaccine_S1,,,,
+A/SUD/13/2011,African,IV,,2011,,Bari_2014_Vaccine_S1,,,,
+A/TAN/11/2008,African,I,,2008,,Bari_2014_Vaccine_S1,,,,
+A/TAN/04/2009,African,I,,2009,,Bari_2014_Vaccine_S1,,,,
+A/TAN/11/2009,African,I,,2009,,Bari_2014_Vaccine_S1,,,,
+A/TAN/42/2009,African,I,,2009,,Bari_2014_Vaccine_S1,,,,
+A/TAN/47/2009,African,I,,2009,,Bari_2014_Vaccine_S1,,,,
+A/TAN/40/2012,African,I,,2012,,Bari_2014_Vaccine_S1,,,,
+A/TAN/41/2012,African,I,,2012,,Bari_2014_Vaccine_S1,,,,
+A/TAN/4/80,African,I,,1980,,Bari_2014_Vaccine_S1,,EU919232,,
+A/ETH/7/92,African,VII,,1992,,Bari_2014_Vaccine_S1,,EU919235,,
+A/ETH/7/79,African,VII,,1979,,Bari_2014_Vaccine_S1,,EU919233,,
+A/IND/17/82,Asian,NA,,1982,,Bari_2014_Vaccine_S1,,HM854024,,
+A/a28_Turkey_ios44,Asian,NA,,1972,,Bari_2014_Vaccine_S1,,AY593772,,
+A/a22iraq64_iso86,Asian,NA,,1964,,Bari_2014_Vaccine_S1,,AY593763,,
+A/TUR/2006,ASIA,A-Iran-2005,Bovine,23/06/2006,"Eskisehir, Turkey",Mahapatra_2016_Vaccine_Table1,ND,,,
+A/IRN/15/2012,ASIA,A-Iran-2005,Bovine,24/06/2012,"Zahedan, Iran",Mahapatra_2016_Vaccine_Table1,SIS-12,,,
+A/IRN/22/2012,ASIA,A-Iran-2005,Bovine,09/07/2012,"Qom, Iran",Mahapatra_2016_Vaccine_Table1,SIS-10,,,
+A/IRN/24/2012,ASIA,A-Iran-2005,Bovine,09/10/2012,"Tehran, Iran",Mahapatra_2016_Vaccine_Table1,SIS-10,,,
+A/IRN/25/2012,ASIA,A-Iran-2005,Bovine,25/10/2012,"Tehran, Iran",Mahapatra_2016_Vaccine_Table1,SIS-12,,,
+A/IRN/30/2012,ASIA,A-Iran-2005,Bovine,05/11/2012,"Mazandaran, Iran",Mahapatra_2016_Vaccine_Table1,SIS-12,,,
+A/IRN/32/2012,ASIA,A-Iran-2005,Bovine,08/11/2012,"Yazd, Iran",Mahapatra_2016_Vaccine_Table1,SIS-10,,,
+A/IRN/33/2012,ASIA,A-Iran-2005,Bovine,17/11/2012,"Esfahan, Iran",Mahapatra_2016_Vaccine_Table1,SIS-12,,,
+A/IRN/35/2012,ASIA,A-Iran-2005,Bovine,18/12/2012,"Qom, Iran",Mahapatra_2016_Vaccine_Table1,SIS-12,,,
+A/IRN/37/2012a,ASIA,A-Iran-2005,Bovine,24/12/2012,"Alborz, Iran",Mahapatra_2016_Vaccine_Table1,SIS-10,,,
+A/TUR/05/2012,ASIA,A-Iran-2005,Bovine,11/01/2012,"Cavuslar, Turkey",Mahapatra_2016_Vaccine_Table1,SIS-10,,,
+A/IRN/01/2013,ASIA,A-Iran-2005,Bovine,01/01/2013,"Tehran, Iran",Mahapatra_2016_Vaccine_Table1,SIS-10,,,
+A/IRN/04/2013,ASIA,A-Iran-2005,Bovine,01/01/2013,"Alborz, Iran",Mahapatra_2016_Vaccine_Table1,SIS-10,,,
+A/IRN/06/2013,ASIA,A-Iran-2005,Bovine,01/01/2013,"East Azerbaijan, Iran",Mahapatra_2016_Vaccine_Table1,SIS-10,,,
+A/IRN/07/2013,ASIA,A-Iran-2005,Bovine,01/01/2013,"Ardabil, Iran",Mahapatra_2016_Vaccine_Table1,SIS-10,,,
+A/IRN/10/2013a,ASIA,A-Iran-2005,Bovine,01/01/2013,"Tehran, Iran",Mahapatra_2016_Vaccine_Table1,SIS-10,,,
+A/PAK/9/2003,,,,2003,Pakistan,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,,EU414535.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/PAK/9/2003 VP1 (1D) gene, partial cds"
+A/PAK/11/2003,,,,2003,Pakistan,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,,,,
+A/PAK/77/2003,,,,2003,Pakistan,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,,,,
+A/BHU/7/2003,,,,2003,Bhutan,WRLFMD-2003-00005-BHU-VMR-O-A_001.pdf,,FJ755012.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/BHU/7/2003 VP1 (1D) gene, partial cds"
+A/BHU/40/2003,,,,2003,Bhutan,WRLFMD-2003-00005-BHU-VMR-O-A_001.pdf,,,,
+A/IRN/5/2003,,,,2003,Iran,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,,FJ755018.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/5/2003 VP1 (1D) gene, partial cds"
+A/IRN/7/2003,,,,2003,Iran,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,,EU414528.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/7/2003 VP1 (1D) gene, partial cds"
+A/IRN/10/2003,,,,2003,Iran,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,,EU414529.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/10/2003 VP1 (1D) gene, partial cds"
+A/IRN/41/2003,,,,2003,Iran,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,,FJ755020.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/41/2003 VP1 (1D) gene, partial cds"
+A/IRN/32/2004,,,,2004,Iran,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,,FJ755021.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/32/2004 VP1 (1D) gene, partial cds"
+A/IRN/33/2004,,,,2004,Iran,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,,FJ755022.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/33/2004 VP1 (1D) gene, partial cds"
+A/IRN/1/2005,,,,2005,Iran,WRLFMD-2003-00120to00135-IRN-VMR-S2-A_001.pdf,,EF208769.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/1/2005 VP1 (1D) gene, partial cds"
+A/VIT/4/2004,,,,2004,Vietnam,WRLFMD-2004-00026-VIT-VMR-S-A_001.pdf,,HQ116358.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/VIT/4/2004 VP1 (1D) gene, partial cds"
+A/VIT/5/2004,,,,2004,Vietnam,WRLFMD-2004-00026-VIT-VMR-S-A_001.pdf,,HQ116359.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/VIT/5/2004 VP1 (1D) gene, partial cds"
+A/KEN/1/2003,,,,2003,Kenya,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,,KF112911.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/KEN/1/2003 capsid protein gene, partial cds"
+A/KEN/2/2003,,,,2003,Kenya,WRLFMD-2005-00004-KEN-VMR-O-A_001.pdf,,,,
+A/TAI/6/2004,,,,2004,Thailand,WRLFMD-2005-00007-TAI-VMR-S-A_001.pdf,,HQ116317.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/TAI/6/2004 VP1 (1D) gene, partial cds"
+A/TAI/9/2004,,,,2004,Thailand,WRLFMD-2005-00007-TAI-VMR-S-A_001.pdf,,HQ116318.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/TAI/9/2004 VP1 (1D) gene, partial cds"
+A/IRN/17/2005,,,,2005,Iran,WRLFMD-2005-00017-IRN-VMR-O-A_001.pdf,,FJ755031.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/17/2005 VP1 (1D) gene, partial cds"
+A/IRN/22/2005,,,,2005,Iran,WRLFMD-2005-00017_and_00027-IRN-VMR-O-A_001.pdf,,FJ755033.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/22/2005 VP1 (1D) gene, partial cds"
+A/IRN/28/2005,,,,2005,Iran,WRLFMD-2005-00017_and_00027-IRN-VMR-O-A_001.pdf,,FJ755038.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/28/2005 VP1 (1D) gene, partial cds"
+A/IRN/29/2005,,,,2005,Iran,WRLFMD-2005-00017_and_00027-IRN-VMR-O-A_001.pdf,,FJ755039.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/29/2005 VP1 (1D) gene, partial cds"
+A/IRN/24/2005,,,,2005,Iran,WRLFMD-2005-00027-IRN-VMR-O-A_001.pdf,,FJ755034.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/24/2005 VP1 (1D) gene, partial cds"
+A/IRN/25/2005,,,,2005,Iran,WRLFMD-2005-00027-IRN-VMR-O-A_001.pdf,,FJ755035.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/25/2005 VP1 (1D) gene, partial cds"
+A/IRN/27/2005,,,,2005,Iran,WRLFMD-2005-00027-IRN-VMR-O-A_001.pdf,,FJ755037.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/27/2005 VP1 (1D) gene, partial cds"
+A/IRN/31/2005,,,,2005,Iran,WRLFMD-2005-00027-IRN-VMR-O-A_001.pdf,,FJ755041.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/31/2005 VP1 (1D) gene, partial cds"
+A/ETH/16/2005,,,,2005,Ethiopia,WRLFMD-2005-00034-ETH-VMR-O-A_001.pdf,,EF208764.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/ETH/16/2005 VP1 (1D) gene, partial cds"
+A/KEN/12/2005,,,,2005,Kenya,WRLFMD-2006-00003-KEN-VMR-O-A_001.pdf,,MN447660.1,GenBank,"Foot-and-mouth disease virus A isolate A/KEN/12/2005 polyprotein P1 gene, partial cds"
+A/TUR/1/2006,,,,2006,Turkey,WRLFMD-2006-00006-TUR-VMR-S-A_001.pdf,,EU553878.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/TUR/1/2006 VP1 protein (1D) gene, partial cds"
+A/TUR/3/2006,,,,2006,Turkey,WRLFMD-2006-00006-TUR-VMR-S-A_001.pdf,,FJ755102.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/TUR/3/2006 VP1 (1D) gene, partial cds"
+A/EGY/1/2006,,,,2006,Egypt,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,,EF208757.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/EGY/1/2006 VP1 (1D) gene, partial cds"
+A/EGY/2/2006,,,,2006,Egypt,WRLFMD-2006-00007-EGY-VMR-O-A_001.pdf,,EF208758.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/EGY/2/2006 VP1 (1D) gene, partial cds"
+A/VIT/6/2004,,,,2004,Vietnam,WRLFMD-2006-00009-VIT-VMR-O-A_001.pdf,,HQ116360.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/VIT/6/2004 VP1 (1D) gene, partial cds"
+A/VIT/10/2004,,,,2004,Vietnam,WRLFMD-2006-00009-VIT-VMR-O-A_001.pdf,,HQ116362.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/VIT/10/2004 VP1 (1D) gene, partial cds"
+A/VIT/8/2005,,,,2005,Vietnam,WRLFMD-2006-00009-VIT-VMR-O-A_001.pdf,,HQ116365.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/VIT/8/2005 VP1 (1D) gene, partial cds"
+A/VIT/18/2005,,,,2005,Vietnam,WRLFMD-2006-00009-VIT-VMR-O-A_001.pdf,,HQ116369.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/VIT/18/2005 VP1 (1D) gene, partial cds"
+A/PAK/1/2006,,,,2006,Pakistan,WRLFMD-2006-00012-PAK-VMR-O-A_001.pdf,,FJ755082.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/PAK/1/2006 VP1 (1D) gene, partial cds"
+A/PAK/3/2006,,,,2006,Pakistan,WRLFMD-2006-00012-PAK-VMR-S-A_001.pdf,,FJ755083.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/PAK/3/2006 VP1 (1D) gene, partial cds"
+A/MAY/1/2007,,,,2007,Malaysia,WRLFMD-2006-00032-MAY-VMR-O-A_002.pdf,,HQ116301.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/MAY/1/2007 VP1 (1D) gene, partial cds"
+A/MAY/3/2007,,,,2007,Malaysia,WRLFMD-2006-00032-MAY-VMR-O-A_002.pdf,,HQ116302.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/MAY/3/2007 VP1 (1D) gene, partial cds"
+A/IRN/57/2006,,,,2006,Iran,WRLFMD-2006-00036-IRN-VMR-O-A_001.pdf,,FJ755059.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/IRN/57/2006 VP1 (1D) gene, partial cds"
+A/MAI/12/2006,,,,2006,,WRLFMD-2007-00004-MAI-VMR-O-A_001.pdf,,,,
+A/MAI/16/2006,,,,2006,,WRLFMD-2007-00004-MAI-VMR-O-A_001.pdf,,,,
+A/ETH/6/2000,,,,2000,Ethiopia,WRLFMD-2007-00007-ETH-VMR-O-A_001.pdf,,MT981315.1,GenBank,"Foot-and-mouth disease virus A isolate A/ETH/6/2000 capsid protein gene, partial cds"
+A/SUD/1/2006,,,,2006,Sudan,WRLFMD-2007-00009-SUD-VMR-O-A_001.pdf,,MT981316.1,GenBank,"Foot-and-mouth disease virus A isolate A/SUD/1/2006 capsid protein gene, partial cds"
+A/SUD/3/2006,,,,2006,Sudan,WRLFMD-2007-00009-SUD-VMR-O-A_001.pdf,,,,
+A/ETH/4/2007,,,,2007,Ethiopia,WRLFMD-2008-00002-ETH-VMR-O-A_001.pdf,,,,
+A/KEN/7/2008,,,,2008,Kenya,WRLFMD-2008-00016-KEN-VMR-O-A_001.pdf,,MT981318.1,GenBank,"Foot-and-mouth disease virus A isolate A/KEN/7/2008 capsid protein gene, partial cds"
+A/KEN/8/2008,,,,2008,Kenya,WRLFMD-2008-00016-KEN-VMR-O-A_001.pdf,,,,
+A/ETH/9/2008,,,,2008,Ethiopia,WRLFMD-2008-00031-ETH-VMR-O-A_001.pdf,,KF112903.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/ETH/9/2008 capsid protein gene, partial cds"
+A/ETH/7/2008,,,,2008,Ethiopia,WRLFMD-2008-00031-ETH-VMR-O-A_001.pdf,,,,
+A/BAR/6/2008,,,,2008,Bahrain,WRLFMD-2008-00033-BAR-VMR-O-A_001.pdf,,FJ755010.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/BAR/6/2008 VP1 (1D) gene, partial cds"
+A/BAR/7/2008,,,,2008,Bahrain,WRLFMD-2008-00033-BAR-VMR-O-A_001.pdf,,FJ755011.1,GenBank,"Foot-and-mouth disease virus - type A isolate A/BAR/7/2008 VP1 (1D) gene, partial cds"
+A/IRQ/10/2009,,,,2009,Iraq,WRLFMD-2009-00003-IRQ-VMR-O-A_001.pdf,,,,
+A/IRQ/17/2009,,,,2009,Iraq,WRLFMD-2009-00003-IRQ-VMR-O-A_001.pdf,,,,
+A/ETH/1/2020,,,,2020,Ethiopia,WRLFMD-2022-000012-ETH-VMR-O-multiple_001.pdf,,,,
+A/ETH/25/2019,,,,2019,Ethiopia,WRLFMD-2022-000012-ETH-VMR-O-multiple_001.pdf,,,,
+A/ETH/4/2022,,,,2022,Ethiopia,WRLFMD-2022-000012-ETH-VMR-O-multiple_001.pdf,,,,
+A/TAI/5/2021,,,,2021,Thailand,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,,,,
+A/TAI/6/2021,,,,2021,Thailand,WRLFMD-2022-000016-TAI-VMR-O-multiple_001.pdf,,,,
+A/TAI/1/2022,,,,2022,Thailand,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,,,,
+A/TAI/14/2022,,,,2022,Thailand,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,,,,
+A/TAI/8/2021,,,,2021,Thailand,WRLFMD-2023-000070-TAI-VMR-O-multiple_001.pdf,,,,
+A/PAK/4/2023,,,,2023,Pakistan,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,,,,
+A/PAK/5/2023,,,,2023,Pakistan,WRLFMD-2023-000071-PAK-VMR-O-multiple_001.pdf,,,,
+A/KEN/15/2021,,,,2021,Kenya,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,,,,
+A/KEN/6/2023,,,,2023,Kenya,WRLFMD-2024-000001-KEN-VMR-O-multiple_001.pdf,,,,
+A/ETH/15/2025,,,,2025,Ethiopia,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,,,,
+A/ETH/39/2024,,,,2024,Ethiopia,WRLFMD-2025-000016-ETH-VMR-O-multiple_001.pdf,,,,
+A/EGY/1/2025,,,,2025,Egypt,WRLFMD-2025-000018-EGY-VMR-O-multiple_001.pdf,,,,
+A/IRN/10/2018,,A/ASIA/Iran-05,,2018,Iran,Singanallur_2022_Viruses_Table1,SIS-13,,,
+A/AFG/50/2017,,A/ASIA/Iran-05,,2017,Afghanistan,Singanallur_2022_Viruses_Table1,SIS-13,,,
+A/IRN/23/2018,,A/ASIA/Iran-05,,2018,Iran,Singanallur_2022_Viruses_Table1,SIS-13,,,
+A/PAK/1/2018,,A/ASIA/Iran-05,,2018,Pakistan,Singanallur_2022_Viruses_Table1,SIS-13,,,
+A/PAK/24/2019,,A/ASIA/Iran-05,,2019,Pakistan,Singanallur_2022_Viruses_Table1,SIS-13,,,
+Qom B3,,non-Iran-05 (cluster 2),,2015,Iran,Azimi_2020_ArchRazi_text,,,,

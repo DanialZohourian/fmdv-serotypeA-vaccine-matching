@@ -1,0 +1,10 @@
+﻿virus_name,serum_name,conflict_type,r1_values,data_sources,n_rows_kept,detail
+A/BAR/6/2008,A/SAU/1995,same_report_multiple_r1,0.11; 0.19,WRLFMD-2008-00033-BAR-VMR-O-A_001.pdf,2,0.11 (A Sau95 bvs 1634); 0.19 (A Sau 95)
+A/BAR/6/2008,A22/IRQ/24/64,same_report_multiple_r1,0.23; 1,WRLFMD-2008-00033-BAR-VMR-O-A_001.pdf,2,0.23 (A22 Irq 23-32 pool); 1.0 (A22 Irq)
+A/ETH/9/2008,A/SAU/1995,same_report_multiple_r1,0.25; 0.3,WRLFMD-2008-00031-ETH-VMR-O-A_001.pdf,2,0.3 (A Sau95 bvs 1634); 0.25 (A Sau 95)
+A/IRN/5/2006,A22/IRQ/24/64,same_report_multiple_r1,0.15; 0.53,WRLFMD-2006-00014-IRN-VMR-S-A_001_0.pdf,2,0.53 (A22 IRQ); 0.15 (A22-550)
+A/IRN/7/2006,A22/IRQ/24/64,same_report_multiple_r1,0.14; 0.58,WRLFMD-2006-00014-IRN-VMR-S-A_001_0.pdf,2,0.58 (A22 IRQ); 0.14 (A22-550)
+A/PAK/5/2006,A22/IRQ/24/64,same_report_multiple_r1,0.14; 0.3,WRLFMD-2006-00012-PAK-VMR-S-A_001.pdf,2,0.14 (A22 Irq); 0.3 (A22-550)
+A/PAK/77/2003,A/MAY/1997,same_report_multiple_r1,0.1; 0.13,WRLFMD-2003-00001_and_00230to00273-PAK-VMR-O-A_001.pdf,2,0.13 (A MAY 97 VJ62); 0.1 (AMAY 97 Bvs 1779)
+A/VIT/4/2004,A/IRN/1996,same_report_multiple_r1,0.1; 0.32,WRLFMD-2004-00026-VIT-VMR-S-A_001.pdf,2,0.32 (A IRN 96 UZ53); 0.1 (A IRN 96 bvs 1781)
+A/VIT/5/2004,A/IRN/1996,same_report_multiple_r1,0.1; 0.21,WRLFMD-2004-00026-VIT-VMR-S-A_001.pdf,2,0.21 (A IRN 96 UZ53); 0.1 (A IRN 96 bvs 1781)

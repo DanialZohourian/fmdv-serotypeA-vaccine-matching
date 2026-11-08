@@ -1,0 +1,64 @@
+LOCUS       KJ440846                 639 bp    RNA     linear   VRL 29-APR-2014
+DEFINITION  Foot-and-mouth disease virus - type A isolate K35/80 VP1 gene,
+            partial cds.
+ACCESSION   KJ440846
+VERSION     KJ440846.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Wekesa,S.N., Sangula,A.K., Belsham,G.J., Muwanika,V.B., Heller,R.,
+            Balinda,S.N., Masembe,C. and Siegismund,H.R.
+  TITLE     Genetic diversity of serotype A foot-and-mouth disease viruses in
+            Kenya from 1964 to 2013; implications for control strategies in
+            eastern Africa
+  JOURNAL   Infect. Genet. Evol. 21C, 408-417 (2013)
+   PUBMED   24368254
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Wekesa,S.N., Sangula,A.K., Belsham,G.J., Muwanika,V.B., Heller,R.,
+            Balinda,S.N., Masembe,C. and Siegismund,H.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2014) Veterinary, Foot and Mouth Disease
+            Laboratory, Embakasi, P.O. Box 18021, Nairobi 00500, Kenya
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="K35/80"
+                     /host="cattle"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Kenya: Embu"
+                     /collection_date="1980"
+                     /collected_by="FMD Laboratory, Embakasi, Kenya"
+                     /identified_by="Wekesa et al."
+     CDS             <1..>639
+                     /note="capsid protein; 1D"
+                     /codon_start=1
+                     /product="VP1"
+                     /protein_id="AHY00710.1"
+                     /translation="TTATGESADPVTTTVENYGGDTQVRRRQHTDVDFIMDRFVKINN
+                     LSPTHVIDLMQTHQHGLVGALLRAATYYFSDLEIVVKHEGNLTWVPNGAPESALQNES
+                     NPTAYHKAPFTRLALPYTAPHRVLATVYNGTSKYSAGTSPRRGDLGSLAARVAAQLPA
+                     SFNYGAIRATTIHELLVRMKRAELYCPRPLLAVKVSSQDRHKQKIIAPAKQLL"
+ORIGIN      
+        1 accactgcaa cgggggaatc tgcagaccct gtcaccacta ctgttgagaa ctacggcggt
+       61 gacacacagg tccggagacg gcaacacaca gatgtcgact tcatcatgga cagatttgtg
+      121 aagataaaca acctcagtcc cacacacgtc atagacctca tgcagaccca ccaacacggg
+      181 ctcgtgggcg cgctgctacg cgcagccaca tactacttct ctgacctgga gattgtagtc
+      241 aagcacgagg gtaacctgac ttgggtgccc aacggcgccc ctgagagcgc tctccaaaac
+      301 gagagtaacc ccacggccta tcacaaggcc ccgttcacga gactcgcact tccttacact
+      361 gcgccacacc gcgtgctggc gacggtgtac aacgggacga gcaagtactc tgcgggcacc
+      421 tcacccaggc ggggtgacct ggggtctctt gcggcgagag tcgccgctca actccctgca
+      481 tccttcaact acggtgcaat tagggccacg accatccacg aacttctcgt gcgcatgaaa
+      541 cgggccgaac tctactgccc taggccacta ctggcagtaa aagtgtcttc acaagataga
+      601 cacaagcaga agatcattgc acccgcaaaa caactcctg
+//
+

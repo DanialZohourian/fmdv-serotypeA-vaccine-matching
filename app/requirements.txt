@@ -1,0 +1,17 @@
+# Application dependencies (mirrors the repository-root requirements.txt) (Python 3.11+).
+#
+# scikit-learn is pinned exactly: rf_model.pkl and shap_explainer.pkl were
+# created with 1.9.1 and will warn or fail to unpickle under a different
+# minor version. The remaining pins are the versions used for the published
+# analysis; regenerate this file with `pip freeze` if you retrain the model.
+scikit-learn==1.9.1
+numpy>=2.0,<3
+pandas>=2.2,<4
+scipy>=1.13
+joblib>=1.4
+imbalanced-learn>=0.12
+Boruta>=0.4.3
+shap>=0.52
+biopython>=1.83
+matplotlib>=3.8
+streamlit>=1.28

@@ -1,0 +1,8 @@
+Interpretation of Results
+In the case of Virus Neutralisation Test (VNT):
+r, = > 0.3. Suggests that there is a close relationship between field isolate and vaccine strain. A
+potent vaccine containing the vaccine strain is likely to confer protection.
+r, = < 0.3. Suggests that the field isolate is so different from the vaccine strain that the vaccine is
+unlikely to protect.
+ND = Not done.
+Page 2 of 2

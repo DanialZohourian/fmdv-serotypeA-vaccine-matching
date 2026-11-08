@@ -1,0 +1,60 @@
+LOCUS       JQ082960                 639 bp    RNA     linear   VRL 31-MAY-2012
+DEFINITION  Foot-and-mouth disease virus - type A isolate
+            A24/Cruzeiro/Bra/55-PANAFTOSA VP1 gene, partial cds.
+ACCESSION   JQ082960
+VERSION     JQ082960.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Malirat,V., Bergmann,I.E., de Mendonca Campos,R., Conde,F.,
+            Quiroga,J.L., Villamil,M., Salgado,G. and Ortiz,S.
+  TITLE     Molecular epidemiology of foot-and-mouth disease virus type A in
+            South America
+  JOURNAL   Vet. Microbiol. 158 (1-2), 82-94 (2012)
+   PUBMED   22397938
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Malirat,V., Bergmann,I.E., Campos,R.M., Conde,F., Quiroga
+            Civera,J.L., Villamil,M., Salgado,G. and Ortiz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-NOV-2011) Centro de Virologia Animal, Instituto de
+            Ciencia y Tecnologia Dr. Cesar Milstein, CONICET, Saladillo 2468,
+            Buenos Aires C1440FFX, Argentina
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="A24/Cruzeiro/Bra/55-PANAFTOSA"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Brazil"
+                     /collection_date="1955"
+                     /note="vaccine strain; South American collection virus
+                     (held at Pan-American Foot-and Mouth Disease Center,
+                     PANAFTOSA, PAHO/WHO)"
+     CDS             <1..>639
+                     /note="capsid protein"
+                     /codon_start=1
+                     /product="VP1"
+                     /protein_id="AFH54505.1"
+                     /translation="TTATGESADPVTTTVENYGGETQIQRRHHTDIGFIMDRFVKIQS
+                     LSPTHVIDLMQTHQHGLVGALLRAATYYFSDLEIVVRHEGNLTWVPNGAPESALLNTS
+                     NPTAYNKAPFTRLALPYTAPHRVLATVYNGTSKYAVGGSGRRGDMGSLAARVVKQLPA
+                     SFNYGAIKADAIHELLVRMKRAELYCPRPLLAIEVSSQDRHKQKIIAPAKQLL"
+ORIGIN      
+        1 accaccgcta ccggggaatc agcagacccg gtcaccacca ccgtggagaa ctacggcggt
+       61 gagacacaaa tccagagacg tcaccacacg gacattggtt tcatcatgga cagatttgtg
+      121 aagatccaaa gcttgagccc aacacatgtc attgacctca tgcagactca ccaacacggt
+      181 ctggtgggtg ccttgctgcg tgcagccacg tactactttt ctgacctgga aattgttgta
+      241 cggcacgaag gcaatctgac ctgggtgccc aacggcgccc ctgaatcagc cctgttgaac
+      301 accagcaacc ccactgccta caacaaggca ccattcacga gactcgctct cccctacact
+      361 gcgccgcacc gtgtgctggc aacagtgtac aacgggacga gtaagtatgc tgtgggtggt
+      421 tcaggcagaa gaggcgacat ggggtctctc gcggcgcgag tcgtgaaaca gcttcctgct
+      481 tcatttaact acggtgcaat caaggccgac gccatccacg aacttctcgt gcgcatgaaa
+      541 cgggccgagc tctactgccc cagaccgctg ttggcaatag aggtgtcttc gcaagacagg
+      601 cacaagcaaa agatcattgc accagcaaag cagcttctg
+//
+

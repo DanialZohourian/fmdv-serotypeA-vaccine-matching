@@ -1,0 +1,60 @@
+LOCUS       KY982283                 639 bp    RNA     linear   VRL 09-APR-2018
+DEFINITION  Foot-and-mouth disease virus A isolate IRN/12/2015 VP1 gene,
+            partial cds.
+ACCESSION   KY982283
+VERSION     KY982283.1
+KEYWORDS    .
+SOURCE      Foot-and-mouth disease virus A (FMDV-A)
+  ORGANISM  Foot-and-mouth disease virus A
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Caphthovirinae; Aphthovirus;
+            Aphthovirus vesiculae.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Bachanek-Bankowska,K., Di Nardo,A., Wadsworth,J., Henry,E.K.M.,
+            Parlak,U., Timina,A., Mischenko,A., Qasim,I.A., Abdollahi,D.,
+            Sultana,M., Hossain,M.A., King,D.P. and Knowles,N.J.
+  TITLE     Outbreaks of foot-and-mouth disease in the Middle East during 2015
+            and 2016 due to an exotic A/ASIA/G-VII virus lineage
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Knowles,N.J., Parlak,U., Timina,A. and Mischenko,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-APR-2017) The Pirbright Institute, Ash Road,
+            Pirbright, Woking, Surrey GU24 0NF, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene v. v12
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Foot-and-mouth disease virus A"
+                     /mol_type="genomic RNA"
+                     /serotype="A"
+                     /isolate="IRN/12/2015"
+                     /host="cattle"
+                     /db_xref="taxon:12111"
+                     /geo_loc_name="Iran: Qom"
+                     /collection_date="26-Sep-2015"
+     CDS             <1..>639
+                     /note="capsid polypeptide"
+                     /codon_start=1
+                     /product="VP1"
+                     /protein_id="AVV48391.1"
+                     /translation="TTSTGESADPVTTTVENYGGETQVQRRHHTDVGFIMDRFVKIVN
+                     VSPTHVIDLMQTHQHGLVGALLRAATYYFSDLEIVVRHEGNLTWVPNGAPEAALSNTG
+                     NPTAYNKAPFTRLALPYTAPHRVLATVYNGTNKYSAASGRARGDLGQLAARVAAQLPA
+                     SFNFGAIRATTIHELLVRMKRAELYCPRPMLAVEVSSQDRHKQKIIAPAKQLL"
+ORIGIN      
+        1 accacctcta ccggggagtc tgcagaccca gtcaccacca ccgttgagaa ctacggcggt
+       61 gagacacaag tccagcgacg ccaccacact gacgttggat ttataatgga cagatttgtg
+      121 aaaattgtga acgtcagtcc cacacatgtt attgacctca tgcaaaccca ccagcacgga
+      181 ttggttggtg ccctgttgcg tgccgcaacg tactacttct ccgacttgga gattgtggtc
+      241 cgtcacgaag gcaacctgac gtgggtaccc aatggagcac ccgaggcagc cctgtccaac
+      301 actggaaacc ctacagccta caacaaagcg ccgttcacga gacttgcgct tccctacact
+      361 gcaccacacc gtgtgctggc aacagtgtac aacgggacga acaagtactc cgcggctagt
+      421 gggcgtgcac ggggtgacct gggacagctc gcggcgcgag tcgctgctca actccctgcc
+      481 tccttcaatt tcggtgcaat cagggccact accatccacg agctgctcgt gcgcatgaag
+      541 cgtgccgaac tctactgccc cagaccaatg ttggcagtag aggtctcgtc gcaagacaga
+      601 cacaaacaga agatcattgc accagcaaaa cagctcctg
+//
+

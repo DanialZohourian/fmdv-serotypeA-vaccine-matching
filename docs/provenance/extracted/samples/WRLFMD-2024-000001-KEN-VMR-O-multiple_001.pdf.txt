@@ -1,0 +1,88 @@
+Page 1 of 3
+FMD Vaccine Matching Strain Differentiation Report
+Lab Reference Batch Number: WRLFMD/2024/000001
+Country of Origin*: Kenya
+Date Received: 10/01/2024  
+Sender*:
+ 
+Number Tested: 7
+Diagnostic work has now been completed in respect of the samples you submitted and the details are as attached.
+Report Number: 3760
+The results relate only to the samples tested and as received. This report shall not be reproduced except in full.
+T
+o help us improve the quality of our service, please send any suggestions or requests to the Reference Laboratories by email 
+(reporting@pirbright.ac.uk).
+The Pirbright Institute Ash Road, Pirbright, Surrey GU24 0NF UK
+Tel: +44 (0)1483 232441 Fax: +44 (0)1483 232448 Website: www.pirbright.ac.uk 
+
+
+---PAGE---
+
+Page 2 of 3
+FMD Vaccine Matching Strain Differentiation Report - Final
+WRLFMD/2024/000001Lab Reference Batch Number: 26/03/2024Report Date:
+3760Report Number:
+Date Tests Completed: Country of Origin*: Kenya
+2dm VNT r1 RESULTS
+A
+ KEN 15/2021
+A
+ KEN 6/2023
+O
+ KEN 5/2023
+20/03/2024
+O
+ KEN 7/2023
+SAT1
+ KEN 3/2022
+SAT2
+ KEN 11/2021
+SAT2
+ KEN 6/2022
+A22 Iraq, Boehringer Ingelheim 0.25, 1.84 0.33, 1.96
+A Eritrea 98, Boehringer Ingelheim 0.30, 2.10 0.08, 1.54
+A GVII 2015, Boehringer Ingelheim 0.47, 1.62 0.36, 1.50
+A Iran 05, Boehringer Ingelheim 0.14, 1.75 0.16, 1.80
+A Saudi 95, Boehringer Ingelheim 0.22, 1.83 0.08, 1.41
+A/TUR/20/06, MSD Animal Health 0.12, 1.47 0.06, 1.15
+O1 Campos, Biogénesis Bagó 0.57, 2.65 0.31, 2.38
+O-3039, Boehringer Ingelheim 0.88, 1.95 0.79, 1.90
+O Campos, Boehringer Ingelheim 0.44, 2.10 0.33, 1.97
+O Manisa, Boehringer Ingelheim 0.65, 2.20 0.49, 2.08
+O Panasia 2, Boehringer Ingelheim 0.78, 2.32 0.42, 2.05
+O/TUR/5/09, MSD Animal Health 0.98, 2.22 0.77, 2.12
+SAT1 Rho 78, Boehringer Ingelheim 0.30, 1.72
+SAT2 Eritrea 98, Boehringer Ingelheim 0.20, 1.18 0.24, 1.26
+SAT2 Zim 83, Boehringer Ingelheim 0.07, 1.48 0.18, 1.91
+Interpretation of Results
+For each field isolate the r1-value is shown followed by the heterologous neutralisation titre (r1-value, titre)
+The r1-values shown below, represent the one-way serological match between vaccine strain and field isolate, calculated from the comparative reactivity of an antiserum, raised against the vaccine 
+in question, to the vaccine virus and the field isolate.
+r1 greater than 0.3 - suggest that there is a close antigenic relationship between field isolate and vaccine strain. A potent vaccine containing the vaccine strain is likely to confer protection.
+r1 less than 0.3 - suggest that the field isolate is antigenically different to the vaccine strain. Where there is no alternative, the use of this vaccine should carefully consider vaccine potency, the 
+possibility to use additional booster doses and monitoring of vaccinated animals for heterologous responses.
+0 = no neutralisation for the field virus was observed at a virus dose of a 100 TCID50
+FMD Vaccine Matching Strain Differentiation Report
+ * Data supplied by the customer. 
+
+---PAGE---
+
+Page 3 of 3
+FMD Vaccine Matching Strain Differentiation Report
+WRLFMD/2024/000001Lab Reference Batch Number:
+Report Number: 3760
+Date 
+Tests Completed: 20/03/2024 Country of Origin*: Kenya
+Report Date: 26/03/2024
+Heterologous neutralisation titres for the field isolates are included as an indicator of protection.
+NOTE: Vaccines from different manufactures may perform differently although the vaccine strains are the same.
+Notes
+1. Vaccine efficacy is influenced by vaccine potency, antigenic match and vaccination regime. Therefore, it is possible that poor antigenic match may be compensated by high potency vaccines and 
+by administering more than one vaccine dose at suitable intervals. Thus, a vaccine with a weak antigenic match to a field isolate, as determined by serology, may nevertheless afford some 
+protection if it is of sufficiently high potency and is administered under a regime to maximise host antibody responses (Brehm, 2008).
+2. Vaccine matching data generated in this report only considers antibody responses in cattle after a single vaccination (typically 21 days after vaccination). The long-term performance of FMD 
+vaccines after a second or multiple dose of vaccine should be monitored using post-vaccination serological testing.
+Date: 26/03/2024  11:50:57
+Report Authorised By:
+FMD Vaccine Matching Strain Differentiation Report
+ * Data supplied by the customer. 

@@ -1,0 +1,28 @@
+FILE upadhyaya.xml tables 2
+MEDIA supplementary-material id=upi0005 position=float TEXT Supplementary Table S1List of serotype A viruses used in this study. nd: not designated; nk: not known. The P1 sequences have been submitted to Gene Bank and awaiting accession numbers.
+MEDIA media {http://www.w3.org/1999/xlink}href=mmc1.pdf mimetype=application mime-subtype=pdf TEXT 
+MEDIA supplementary-material id=db_ds_supplementary-material1_reqid_ position=float TEXT Supplementary Table S1List of serotype A viruses used in this study. nd: not designated; nk: not known. The P1 sequences have been submitted to Gene Bank and awaiting accession numbers.
+MEDIA media {http://www.w3.org/1999/xlink}href=mmc1.pdf mimetype=application mime-subtype=pdf TEXT 
+
+===== TABLE 1 =====
+CAPTION: 
+Capsid nucleotide position | Codon position | Amino acid substitutions
+1119 | VP3 70 | D → A(2)/E(7)/N(1)
+1305 | VP3 132 | T → N(16)/A(1)
+1521 | VP3 204 | V → A(1)
+1656 | VP1 28 | Q → H(20)
+
+===== TABLE 2 =====
+CAPTION: 
+Viral protein | Positions with three alternative amino acid residues | Positions with four alternative amino acid residues | Positions with five alternative amino acid residues
+VP4 | 77 (2) | – | –
+
+VP2 | 39 (2), 56 (3), 79 (9) | – | 134 (18)
+
+VP3 | 8 (17), 25 (3), 59 (12) | 70 (10) | –
+61 (2), 132 (17), 139 (3) | 
+175 (3), 220 (22) | 
+
+VP1 | 4 (2), 45 (14), 108 (4) | 24 (4), 43 (23), 96 (16) | 204 (6)
+139 (2), 140 (5), 149 (23) | 99 (12), 141 (27), 196 (22) | –
+154 (2), 171 (3) |  | 

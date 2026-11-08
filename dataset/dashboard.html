@@ -1,0 +1,292 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>What this vaccine-match data actually is</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,520;9..144,640&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            paper: "#f3eee4",
+            card: "#fffdf8",
+            ink: "#241c15",
+            mute: "#6d6258",
+            line: "#e6dccb",
+            teal: "#0f5f5b",
+            clay: "#9a3412",
+            moss: "#3f6212",
+            gold: "#a16207"
+          },
+          fontFamily: {
+            serif: ["Fraunces", "Georgia", "serif"],
+            sans: ["Source Sans 3", "Segoe UI", "sans-serif"]
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { font-family: "Source Sans 3", "Segoe UI", sans-serif; }
+    .bar { height: 100%; border-radius: 6px 6px 0 0; }
+  </style>
+</head>
+<body class="bg-paper text-ink">
+  <header class="border-b border-line bg-card/80 backdrop-blur sticky top-0 z-10">
+    <div class="max-w-5xl mx-auto px-5 py-3 flex flex-wrap items-center justify-between gap-3">
+      <p class="font-serif text-lg">Vaccine-match data, explained</p>
+      <nav class="flex flex-wrap gap-4 text-sm text-mute">
+        <a class="hover:text-ink" href="#idea">The idea</a>
+        <a class="hover:text-ink" href="#shape">The shape</a>
+        <a class="hover:text-ink" href="#vaccines">Vaccines</a>
+        <a class="hover:text-ink" href="#places">Places</a>
+        <a class="hover:text-ink" href="#gap">The gap</a>
+        <a class="hover:text-ink" href="#sequence">Sequences</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-5 py-10 space-y-8">
+    <section class="space-y-4">
+      <p class="text-sm uppercase tracking-[0.18em] text-teal font-semibold">Foot-and-mouth disease virus, serotype A</p>
+      <h1 class="font-serif text-4xl sm:text-5xl leading-tight">Each row is one lab test: does this vaccine serum stop this field virus?</h1>
+      <p class="text-lg text-mute max-w-3xl leading-relaxed">The file <span class="text-ink font-semibold">pairs.csv</span> holds 916 of those tests. A number called <span class="text-ink font-semibold">r1</span> says how close the field virus is to the vaccine. At <span class="text-ink font-semibold">0.30 or above</span>, labs call it a match. Below that, the vaccine is a poor match.</p>
+    </section>
+
+    <section class="grid grid-cols-2 lg:grid-cols-4 gap-3">
+      <article class="bg-card border border-line rounded-2xl p-4">
+        <p class="text-sm text-mute">Tests in the table</p>
+        <p class="font-serif text-4xl mt-1">916</p>
+        <p class="text-sm text-mute mt-1">850 virus-neutralisation, 66 ELISA</p>
+      </article>
+      <article class="bg-card border border-line rounded-2xl p-4">
+        <p class="text-sm text-mute">Field viruses</p>
+        <p class="font-serif text-4xl mt-1">94</p>
+        <p class="text-sm text-mute mt-1">each often tested against several vaccines</p>
+      </article>
+      <article class="bg-card border border-line rounded-2xl p-4">
+        <p class="text-sm text-mute">Vaccine strains</p>
+        <p class="font-serif text-4xl mt-1">31</p>
+        <p class="text-sm text-mute mt-1">the serums the labs already had</p>
+      </article>
+      <article class="bg-teal text-white rounded-2xl p-4">
+        <p class="text-sm text-white/80">Clear matches</p>
+        <p class="font-serif text-4xl mt-1">24%</p>
+        <p class="text-sm text-white/80 mt-1">154 of 634 tests with an exact r1</p>
+      </article>
+    </section>
+
+    <section id="idea" class="bg-card border border-line rounded-3xl p-6 sm:p-8 space-y-5">
+      <h2 class="font-serif text-3xl">One virus, three answers</h2>
+      <p class="text-mute max-w-3xl">This is a real row group from Singanallur and colleagues, 2022. The same Iranian field virus, A/IRN/10/2018, was put against three vaccine serums. That is why one virus can appear many times.</p>
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-sm sm:text-base">
+          <thead class="text-mute border-b border-line">
+            <tr>
+              <th class="py-2 pr-4 font-semibold">Field virus</th>
+              <th class="py-2 pr-4 font-semibold">Vaccine serum</th>
+              <th class="py-2 pr-4 font-semibold">r1</th>
+              <th class="py-2 font-semibold">Call</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="border-b border-line">
+              <td class="py-3 pr-4">A/IRN/10/2018</td>
+              <td class="py-3 pr-4">A/Iran-05</td>
+              <td class="py-3 pr-4 font-semibold">0.48</td>
+              <td class="py-3"><span class="inline-block rounded-full bg-moss/15 text-moss px-3 py-1 text-sm font-semibold">Match</span></td>
+            </tr>
+            <tr class="border-b border-line">
+              <td class="py-3 pr-4 text-mute">same virus</td>
+              <td class="py-3 pr-4">A22/Iraq</td>
+              <td class="py-3 pr-4 font-semibold">0.45</td>
+              <td class="py-3"><span class="inline-block rounded-full bg-moss/15 text-moss px-3 py-1 text-sm font-semibold">Match</span></td>
+            </tr>
+            <tr>
+              <td class="py-3 pr-4 text-mute">same virus</td>
+              <td class="py-3 pr-4">A/ASIA/G-VII</td>
+              <td class="py-3 pr-4 font-semibold">below 0.07</td>
+              <td class="py-3"><span class="inline-block rounded-full bg-clay/15 text-clay px-3 py-1 text-sm font-semibold">Poor match</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="text-sm text-mute">The G-VII vaccine, built for a different lineage, did not neutralise this Iran-05 virus. That contrast is why those 15 pairs are tagged <span class="text-ink">holdout_cross_lineage</span> and kept out of ordinary training.</p>
+    </section>
+
+    <section id="shape" class="bg-card border border-line rounded-3xl p-6 sm:p-8">
+      <div class="flex flex-wrap items-end justify-between gap-3 mb-6">
+        <div>
+          <h2 class="font-serif text-3xl">Most tests fall below the line</h2>
+          <p class="text-mute mt-1 max-w-2xl">These 634 tests have an exact r1 from a neutralisation assay. 480 of them are under 0.30.</p>
+        </div>
+        <p class="text-sm text-gold font-semibold">Gold bars are matches. Clay bars are not.</p>
+      </div>
+      <div class="flex items-end gap-2 h-56">
+        <div class="flex-1 flex flex-col justify-end h-full"><div class="bar bg-clay" style="height:70%"></div><p class="text-xs text-center mt-2 text-mute">0.0</p><p class="text-xs text-center font-semibold">170</p></div>
+        <div class="flex-1 flex flex-col justify-end h-full"><div class="bar bg-clay" style="height:100%"></div><p class="text-xs text-center mt-2 text-mute">0.1</p><p class="text-xs text-center font-semibold">243</p></div>
+        <div class="flex-1 flex flex-col justify-end h-full"><div class="bar bg-clay" style="height:28%"></div><p class="text-xs text-center mt-2 text-mute">0.2</p><p class="text-xs text-center font-semibold">67</p></div>
+        <div class="flex-1 flex flex-col justify-end h-full"><div class="bar bg-moss" style="height:27%"></div><p class="text-xs text-center mt-2 text-mute">0.3</p><p class="text-xs text-center font-semibold">65</p></div>
+        <div class="flex-1 flex flex-col justify-end h-full"><div class="bar bg-moss" style="height:17%"></div><p class="text-xs text-center mt-2 text-mute">0.4</p><p class="text-xs text-center font-semibold">42</p></div>
+        <div class="flex-1 flex flex-col justify-end h-full"><div class="bar bg-moss" style="height:6%"></div><p class="text-xs text-center mt-2 text-mute">0.5</p><p class="text-xs text-center font-semibold">15</p></div>
+        <div class="flex-1 flex flex-col justify-end h-full"><div class="bar bg-moss" style="height:6%"></div><p class="text-xs text-center mt-2 text-mute">0.6</p><p class="text-xs text-center font-semibold">15</p></div>
+        <div class="flex-1 flex flex-col justify-end h-full"><div class="bar bg-moss" style="height:4%"></div><p class="text-xs text-center mt-2 text-mute">0.7</p><p class="text-xs text-center font-semibold">8</p></div>
+        <div class="flex-1 flex flex-col justify-end h-full"><div class="bar bg-moss" style="height:3%"></div><p class="text-xs text-center mt-2 text-mute">0.8</p><p class="text-xs text-center font-semibold">7</p></div>
+        <div class="flex-1 flex flex-col justify-end h-full"><div class="bar bg-moss" style="height:2%"></div><p class="text-xs text-center mt-2 text-mute">0.9</p><p class="text-xs text-center font-semibold">2</p></div>
+      </div>
+      <p class="text-sm text-mute mt-4">The labels are the start of each bin. The tallest pile is 0.10 to 0.19: a clear poor match, not a borderline one.</p>
+    </section>
+
+    <section id="vaccines" class="bg-card border border-line rounded-3xl p-6 sm:p-8 space-y-5">
+      <h2 class="font-serif text-3xl">Which vaccine serum matched more often</h2>
+      <p class="text-mute max-w-3xl">Share of exact neutralisation tests with r1 at or above 0.30. A short bar means that serum usually failed. The number of tests sits on the right, because a high percent on a small set is easy to over-read.</p>
+      <div class="space-y-3">
+        <div>
+          <div class="flex justify-between text-sm mb-1"><span>A22/Iraq/24/64</span><span class="text-mute">43% of 111 · typical r1 0.26</span></div>
+          <div class="h-3 bg-line rounded-full"><div class="h-3 rounded-full bg-teal" style="width:43%"></div></div>
+        </div>
+        <div>
+          <div class="flex justify-between text-sm mb-1"><span>A/IRN/1996</span><span class="text-mute">21% of 86 · typical r1 0.13</span></div>
+          <div class="h-3 bg-line rounded-full"><div class="h-3 rounded-full bg-teal" style="width:21%"></div></div>
+        </div>
+        <div>
+          <div class="flex justify-between text-sm mb-1"><span>A/MAY/1997</span><span class="text-mute">10% of 81 · typical r1 0.12</span></div>
+          <div class="h-3 bg-line rounded-full"><div class="h-3 rounded-full bg-teal" style="width:10%"></div></div>
+        </div>
+        <div>
+          <div class="flex justify-between text-sm mb-1"><span>A/SAU/1995</span><span class="text-mute">11% of 65 · typical r1 0.14</span></div>
+          <div class="h-3 bg-line rounded-full"><div class="h-3 rounded-full bg-teal" style="width:11%"></div></div>
+        </div>
+        <div>
+          <div class="flex justify-between text-sm mb-1"><span>A24 Cruzeiro</span><span class="text-mute">4% of 52 · typical r1 0.07</span></div>
+          <div class="h-3 bg-line rounded-full"><div class="h-3 rounded-full bg-teal" style="width:4%"></div></div>
+        </div>
+        <div>
+          <div class="flex justify-between text-sm mb-1"><span>A/IRN/2001</span><span class="text-mute">3% of 38 · typical r1 0.10</span></div>
+          <div class="h-3 bg-line rounded-full"><div class="h-3 rounded-full bg-teal" style="width:3%"></div></div>
+        </div>
+        <div>
+          <div class="flex justify-between text-sm mb-1"><span>A/5925</span><span class="text-mute">79% of 34 · typical r1 0.43</span></div>
+          <div class="h-3 bg-line rounded-full"><div class="h-3 rounded-full bg-gold" style="width:79%"></div></div>
+        </div>
+        <div class="pt-2 border-t border-line">
+          <p class="text-sm font-semibold text-teal mb-3">The strains this project cares about</p>
+        </div>
+        <div>
+          <div class="flex justify-between text-sm mb-1"><span>A/Iran-05</span><span class="text-mute">25% of 20 · typical r1 0.16</span></div>
+          <div class="h-3 bg-line rounded-full"><div class="h-3 rounded-full bg-clay" style="width:25%"></div></div>
+        </div>
+        <div>
+          <div class="flex justify-between text-sm mb-1"><span>A/TUR/2006</span><span class="text-mute">21% of 19 · typical r1 0.15</span></div>
+          <div class="h-3 bg-line rounded-full"><div class="h-3 rounded-full bg-clay" style="width:21%"></div></div>
+        </div>
+        <div>
+          <div class="flex justify-between text-sm mb-1"><span>A/ASIA/G-VII/2015</span><span class="text-mute">47% of 15 · typical r1 0.20</span></div>
+          <div class="h-3 bg-line rounded-full"><div class="h-3 rounded-full bg-clay" style="width:47%"></div></div>
+        </div>
+      </div>
+      <p class="text-sm text-mute">A22 is the least-bad of the common serums, and even then the typical test is 0.26, just under the line. A/5925 looks strong, but that is 34 tests, not a regional verdict. Iran-05 and A/TUR/2006, the serums meant for this lineage, match about one test in four in this table.</p>
+    </section>
+
+    <section id="places" class="grid lg:grid-cols-2 gap-4">
+      <article class="bg-card border border-line rounded-3xl p-6">
+        <h2 class="font-serif text-2xl mb-1">Where the field viruses came from</h2>
+        <p class="text-sm text-mute mb-4">Exact neutralisation tests only. Iran dominates the table, and only about 1 in 5 of those Iranian tests matched.</p>
+        <div class="space-y-2 text-sm">
+          <div class="flex items-center gap-3"><span class="w-24">Iran</span><div class="flex-1 h-2 bg-line rounded-full"><div class="h-2 bg-ink rounded-full" style="width:100%"></div></div><span class="w-24 text-right text-mute">337 · 20%</span></div>
+          <div class="flex items-center gap-3"><span class="w-24">Kenya</span><div class="flex-1 h-2 bg-line rounded-full"><div class="h-2 bg-ink rounded-full" style="width:18%"></div></div><span class="w-24 text-right text-mute">60 · 20%</span></div>
+          <div class="flex items-center gap-3"><span class="w-24">Ethiopia</span><div class="flex-1 h-2 bg-line rounded-full"><div class="h-2 bg-ink rounded-full" style="width:15%"></div></div><span class="w-24 text-right text-mute">49 · 22%</span></div>
+          <div class="flex items-center gap-3"><span class="w-24">Vietnam</span><div class="flex-1 h-2 bg-line rounded-full"><div class="h-2 bg-ink rounded-full" style="width:10%"></div></div><span class="w-24 text-right text-mute">35 · 17%</span></div>
+          <div class="flex items-center gap-3"><span class="w-24">Pakistan</span><div class="flex-1 h-2 bg-line rounded-full"><div class="h-2 bg-ink rounded-full" style="width:10%"></div></div><span class="w-24 text-right text-mute">34 · 32%</span></div>
+          <div class="flex items-center gap-3"><span class="w-24">Thailand</span><div class="flex-1 h-2 bg-line rounded-full"><div class="h-2 bg-ink rounded-full" style="width:10%"></div></div><span class="w-24 text-right text-mute">33 · 36%</span></div>
+          <div class="flex items-center gap-3"><span class="w-24">Iraq</span><div class="flex-1 h-2 bg-line rounded-full"><div class="h-2 bg-ink rounded-full" style="width:6%"></div></div><span class="w-24 text-right text-mute">20 · 40%</span></div>
+          <div class="flex items-center gap-3"><span class="w-24">Egypt</span><div class="flex-1 h-2 bg-line rounded-full"><div class="h-2 bg-ink rounded-full" style="width:5%"></div></div><span class="w-24 text-right text-mute">16 · 44%</span></div>
+        </div>
+      </article>
+      <article id="gap" class="bg-card border border-line rounded-3xl p-6">
+        <h2 class="font-serif text-2xl mb-1">The years are not even</h2>
+        <p class="text-sm text-mute mb-4">Almost all exact r1 values are from 2001–2009. Then the numeric record goes quiet.</p>
+        <div class="space-y-3 text-sm">
+          <div>
+            <div class="flex justify-between mb-1"><span>2000–2004</span><span class="text-mute">291 tests · 18% match</span></div>
+            <div class="h-3 bg-line rounded-full"><div class="h-3 bg-teal rounded-full" style="width:100%"></div></div>
+          </div>
+          <div>
+            <div class="flex justify-between mb-1"><span>2005–2009</span><span class="text-mute">243 tests · 28% match</span></div>
+            <div class="h-3 bg-line rounded-full"><div class="h-3 bg-teal rounded-full" style="width:84%"></div></div>
+          </div>
+          <div>
+            <div class="flex justify-between mb-1"><span>2010–2014</span><span class="text-clay font-semibold">0 tests</span></div>
+            <div class="h-3 bg-line rounded-full border border-dashed border-clay"></div>
+          </div>
+          <div>
+            <div class="flex justify-between mb-1"><span>2015–2019</span><span class="text-mute">17 tests · 47% match</span></div>
+            <div class="h-3 bg-line rounded-full"><div class="h-3 bg-teal rounded-full" style="width:6%"></div></div>
+          </div>
+          <div>
+            <div class="flex justify-between mb-1"><span>2020–2024</span><span class="text-mute">67 tests · 30% match</span></div>
+            <div class="h-3 bg-line rounded-full"><div class="h-3 bg-teal rounded-full" style="width:23%"></div></div>
+          </div>
+          <div>
+            <div class="flex justify-between mb-1"><span>2025</span><span class="text-mute">16 tests · 38% match</span></div>
+            <div class="h-3 bg-line rounded-full"><div class="h-3 bg-teal rounded-full" style="width:5%"></div></div>
+          </div>
+        </div>
+        <p class="text-sm text-mute mt-4">The empty years are not a biological fact. World Reference Laboratory reports from about 2009 to 2021, including most later Iranian samples, are scanned pages. Their columns could not be read safely, so they were left out. SIS-10, SIS-12 and FAR-11 are thin in this table for that reason.</p>
+      </article>
+    </section>
+
+    <section id="sequence" class="bg-card border border-line rounded-3xl p-6 sm:p-8 space-y-4">
+      <h2 class="font-serif text-3xl">Looking at the protein does not separate the two groups cleanly</h2>
+      <p class="text-mute max-w-3xl">For 288 exact neutralisation pairs, both the field virus and the vaccine have a VP1 protein sequence. VP1 is the main outer protein. The distance below is the share of amino acids that differ.</p>
+      <div class="grid sm:grid-cols-2 gap-3">
+        <article class="rounded-2xl bg-moss/10 p-5">
+          <p class="text-sm text-moss font-semibold">Matched pairs</p>
+          <p class="font-serif text-4xl mt-1">10.5%</p>
+          <p class="text-sm text-mute mt-1">average amino-acid difference · 56 pairs</p>
+        </article>
+        <article class="rounded-2xl bg-clay/10 p-5">
+          <p class="text-sm text-clay font-semibold">Poor matches</p>
+          <p class="font-serif text-4xl mt-1">12.2%</p>
+          <p class="text-sm text-mute mt-1">average amino-acid difference · 232 pairs</p>
+        </article>
+      </div>
+      <p class="text-mute">The poor matches are only a little more different. A model that only counts “how many letters changed” will mix the two groups. That is the reason the research plan looks at particular positions, including the GH loop, instead of one distance number.</p>
+    </section>
+
+    <section class="grid md:grid-cols-3 gap-3">
+      <article class="bg-card border border-line rounded-2xl p-5">
+        <h3 class="font-serif text-xl">pairs.csv</h3>
+        <p class="text-sm text-mute mt-2">The tests. Use rows marked <span class="text-ink">main_vnt</span> to train. Keep <span class="text-ink">lpbe_covariate</span> apart unless the assay type is a feature. Leave <span class="text-ink">holdout_cross_lineage</span> for a later test.</p>
+      </article>
+      <article class="bg-card border border-line rounded-2xl p-5">
+        <h3 class="font-serif text-xl">viruses.csv</h3>
+        <p class="text-sm text-mute mt-2">210 viruses, with country, year, lineage and sub-lineage when a paper stated them. Many viruses are listed here even when their r1 lived only in a bar chart.</p>
+      </article>
+      <article class="bg-card border border-line rounded-2xl p-5">
+        <h3 class="font-serif text-xl">features.csv</h3>
+        <p class="text-sm text-mute mt-2">425 pairs with a VP1 distance, a count of changes in residues 140–160, and a count of N-glycosylation motifs. 69 GenBank records sit in sequences.csv.</p>
+      </article>
+    </section>
+
+    <section class="rounded-3xl border border-clay/30 bg-clay/5 p-6 sm:p-8">
+      <h2 class="font-serif text-2xl">What this page is not claiming</h2>
+      <ul class="mt-3 space-y-2 text-mute list-disc pl-5">
+        <li>Bar charts in Upadhyaya 2014 and Bari 2014 were not turned into numbers. Inventing r1 from a picture would poison the table.</li>
+        <li>158 scanned laboratory PDFs are listed in scanned_reports_not_digitized.txt and are not in the 916.</li>
+        <li>Azimi 2020 printed seven Iranian isolates and then six r1 values. Those six were not assigned. Only Qom B3 = 0.19 was explicit enough to keep.</li>
+        <li>Some vaccine sequences are the closest public record, not the exact serum batch used in the test. The note is in sequences.csv.</li>
+      </ul>
+    </section>
+
+    <footer class="text-sm text-mute pb-8">
+      Open this file in a browser. It is one local page. The counts were calculated from the CSV files in this same folder. Opening it needs a network connection only for the typeface and Tailwind.
+    </footer>
+  </main>
+</body>
+</html>

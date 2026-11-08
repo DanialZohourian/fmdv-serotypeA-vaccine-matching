@@ -1,0 +1,6 @@
+A/IRN/2001	serum	NOT_FOUND	No nucleotide record titled A/IRN/2001 or A/IRN/1/2001 was found.
+A/MAY/1997	serum	NOT_FOUND	No nucleotide record titled A/MAY/1997 or A/MAY/97 was found.
+A/5925	serum	NOT_FOUND	The token 5925 matches patents and unrelated genomes, not an FMDV A5925 VP1.
+A24 UV64	serum	NOT_FOUND	No FMDV record containing UV64 was found.
+A24 TE48	serum	NOT_FOUND	No FMDV record containing TE48 was found.
+A15	serum	NOT_FOUND	Unqualified WRL name A15. A15/Bangkok/TAI/60 was kept for A15 Tai 1/60 and was not copied onto this shorter name.

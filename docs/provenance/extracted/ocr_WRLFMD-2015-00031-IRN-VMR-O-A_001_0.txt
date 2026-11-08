@@ -1,0 +1,16 @@
+THE PIRBRIGHT INSTITUTE
+Director: Professor John Fazakerley BSc, MBA, PhD, FRCPath
+FMD VACCINE MATCHING STRAIN DIFFERENTIATION REPORT
+Lab Reference WRL Batch Number: wRLFMD/2015/00031 Report Date: 22/12/2015
+Interpretation Of Results
+r, greater than or equal to 0.3 — suggest that there is a close antigenic relationship between field isolate and
+vaccine strain. A potent vaccine containing the vaccine strain is likely to confer protection.
+r less than or equal to 0.3 — suggest that the field isolate is antigenically different from the vaccine strain
+and that the vaccine is unlikely to protect.
+0 = no neutralisation for the field virus was observed at a virus dose of a 100TCIDso.
+2dmVNT r, RESULTS
+Vaccines:
+Field Isolates: Aran 2005 A MAY 97 ASAU 95 (1) A Sau 95 (2) A TUR 20/06 A22 IRQ
+A/IRN/12/2015 0.00 0.15 0.11 0.16 0.15 0.04
+A/IRN/8/2015 _ 0.03 0.23 © 019 O26 | 0.01  ~—sa0.8
+FMD Vaccine Matching Strain Differentiation Report Page 2 of 2 WRL batch: WRLFMO/2015/00031 Batch: 1AHB/2015/00621
