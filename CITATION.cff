@@ -19,7 +19,7 @@ authors:
 version: 1.0.0
 date-released: 2026-11-08
 license: MIT
-repository-code: "https://github.com/[USERNAME]/fmdv-serotypeA-vaccine-matching"
+repository-code: "https://github.com/DanialZohourian/fmdv-serotypeA-vaccine-matching"
 keywords:
   - foot-and-mouth disease virus
   - vaccine matching
