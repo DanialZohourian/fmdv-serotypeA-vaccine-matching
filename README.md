@@ -1,5 +1,7 @@
 # Machine learning prediction of FMDV serotype A vaccine matching from VP1 sequences
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24053304.svg)](https://doi.org/10.5281/zenodo.24053304)
+
 Data, analysis pipeline, trained model and web application for:
 
 > Norouzi S, Zohourian D. *Machine learning prediction of vaccine matching for foot-and-mouth
@@ -16,9 +18,11 @@ separates matched from unmatched pairs perfectly within the A/ASIA/Iran-05 subgr
 
 ## Web application
 
-**https://fmdv-serotypea-vaccine-matching.streamlit.app/**
+**https://fmdv-serotypea-vaccine-matching.streamlit.app**
 
-Paste a VP1 amino acid sequence (208–220 aa) and choose a reference antiserum. The app returns a match probability, a binary call at the pre-specified threshold of 0.23, and a SHAP waterfall chart showing which positions drove the prediction.
+Paste a VP1 amino acid sequence (208–220 aa) and choose a reference antiserum. The app returns a
+match probability, a binary call at the pre-specified threshold of 0.23, and a SHAP waterfall
+chart showing which positions drove the prediction.
 
 ## Dataset
 
@@ -124,8 +128,10 @@ streamlit run app/app.py
 ```
 
 The app loads `app/model_artifacts/`. On Streamlit Community Cloud, set the main file path to
-`app/app.py`; `packages.txt` installs MAFFT and the root `requirements.txt` installs the Python
-dependencies.
+`app/app.py` and **choose Python 3.12 under Advanced settings before deploying** — several
+dependencies have no wheels for newer Python releases, and the version cannot be changed after
+deployment without deleting and redeploying the app. `packages.txt` installs MAFFT and the root
+`requirements.txt` installs the Python dependencies.
 
 ## Licence
 
@@ -133,7 +139,14 @@ Code is released under the MIT Licence (`LICENSE`); data under CC BY 4.0 (`LICEN
 
 ## Citation
 
-See `CITATION.cff`. Please cite both the paper and the archived release.
+Please cite both the paper and the archived release. See `CITATION.cff` for machine-readable
+metadata.
+
+**Archive:** Norouzi S, Zohourian D. *FMDV serotype A vaccine matching: machine learning
+prediction from VP1 sequences.* Zenodo; 2026. https://doi.org/10.5281/zenodo.24053304
+
+The DOI above resolves to the latest version. To cite this exact snapshot, use
+https://doi.org/10.5281/zenodo.24053305 (v1).
 
 ## Contact
 

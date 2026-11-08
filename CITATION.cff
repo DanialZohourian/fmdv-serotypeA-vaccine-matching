@@ -17,6 +17,7 @@ authors:
     affiliation: "School of Mathematics, Statistics and Computer Science, College of Science, University of Tehran, Tehran, Iran"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
 version: 1.0.0
+doi: 10.5281/zenodo.24053304
 date-released: 2026-11-08
 license: MIT
 repository-code: "https://github.com/DanialZohourian/fmdv-serotypeA-vaccine-matching"
